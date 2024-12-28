@@ -1,0 +1,53 @@
+---
+layout: post
+title: "William Carlos Williams - This is just to say
+I have eaten
+
+the"
+date: 2024-12-28 12:00:00 -0000
+author: William Carlos Williams
+quote: "This is just to say
+I have eaten
+
+the plums
+that were in
+the icebox
+
+and which
+you were probably
+saving
+
+for breakfast.
+
+Forgive me
+they were delicious
+
+so sweet
+and so cold."
+subject: Imagist Movement and Haiku (Early 20th century)
+permalink: /Imagist Movement and Haiku (Early 20th century)/William Carlos Williams/William Carlos Williams - This is just to say
+I have eaten
+
+the
+---
+
+This is just to say
+I have eaten
+
+the plums
+that were in
+the icebox
+
+and which
+you were probably
+saving
+
+for breakfast.
+
+Forgive me
+they were delicious
+
+so sweet
+and so cold.
+
+- William Carlos Williams
