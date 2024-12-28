@@ -47,7 +47,7 @@ def get_authors_quotes(authors, subject, num=2):
         author_name=re.sub(pattern, '', author.name)
         print(f"Getting quotes for {author_name}")
         try:
-            quotes=get_author_quotes(author_name, subject=subject num=num)
+            quotes=get_author_quotes(author_name, subject=subject, num=num)
             all_quotes[author_name]=quotes
         except Exception as e:
             print(f"exception: ",e)

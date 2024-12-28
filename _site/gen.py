@@ -39,7 +39,7 @@ def get_author_quotes(author, subject, num=2):
     response_content = completion.choices[0].message.parsed
     return response_content
 
-def get_authors_quotes(authors, num=2):
+def get_authors_quotes(authors, subject, num=2):
     all_quotes={}
     for author in authors:
         pattern = r'[^a-zA-ZáéíóúÁÉÍÓÚñÑ\s-]'
@@ -47,7 +47,7 @@ def get_authors_quotes(authors, num=2):
         author_name=re.sub(pattern, '', author.name)
         print(f"Getting quotes for {author_name}")
         try:
-            quotes=get_author_quotes(author_name, num=num)
+            quotes=get_author_quotes(author_name, subject=subject, num=num)
             all_quotes[author_name]=quotes
         except Exception as e:
             print(f"exception: ",e)
@@ -104,7 +104,7 @@ def write_subject(subject):
         print("Failed to retrieve valid authors.")
         return
 
-    quotes=get_authors_quotes(authors, num=10)
+    quotes=get_authors_quotes(authors, subject=subject, num=10)
     for k,v in quotes.items():
         print(quotes[k].quotes)
         write_quote_collection(quotes[k].quotes, subject=subject)
