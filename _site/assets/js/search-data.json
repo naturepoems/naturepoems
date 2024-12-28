@@ -1,0 +1,562 @@
+{"0": {
+    "doc": "Home",
+    "title": "Getting started",
+    "content": "Take a look around. Find some quotes. Read some things. ",
+    "url": "/#getting-started",
+    
+    "relUrl": "/#getting-started"
+  },"1": {
+    "doc": "Home",
+    "title": "Home",
+    "content": ". ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"2": {
+    "doc": "Chris Guillebeau",
+    "title": "Chris Guillebeau",
+    "content": "Welcome to the page of Chris Guillebeau! Here you can find their quotes. ",
+    "url": "/Success/authors/Chris-Guillebeau/",
+    
+    "relUrl": "/Success/authors/Chris-Guillebeau/"
+  },"3": {
+    "doc": "Tim Ferriss",
+    "title": "Tim Ferriss",
+    "content": "Welcome to the page of Tim Ferriss! Here you can find their quotes. ",
+    "url": "/Success/authors/Tim-Ferriss/",
+    
+    "relUrl": "/Success/authors/Tim-Ferriss/"
+  },"4": {
+    "doc": "Gary Vaynerchuk",
+    "title": "Gary Vaynerchuk",
+    "content": "Welcome to the page of Gary Vaynerchuk! Here you can find their quotes. ",
+    "url": "/Success/authors/Gary-Vaynerchuk/",
+    
+    "relUrl": "/Success/authors/Gary-Vaynerchuk/"
+  },"5": {
+    "doc": "Napoleon Hill",
+    "title": "Napoleon Hill",
+    "content": "Welcome to the page of Napoleon Hill! Here you can find their quotes. ",
+    "url": "/Success/authors/Napoleon-Hill/",
+    
+    "relUrl": "/Success/authors/Napoleon-Hill/"
+  },"6": {
+    "doc": "Robin Sharma",
+    "title": "Robin Sharma",
+    "content": "Welcome to the page of Robin Sharma! Here you can find their quotes. ",
+    "url": "/Success/authors/Robin-Sharma/",
+    
+    "relUrl": "/Success/authors/Robin-Sharma/"
+  },"7": {
+    "doc": "Simon Sinek",
+    "title": "Simon Sinek",
+    "content": "Welcome to the page of Simon Sinek! Here you can find their quotes. ",
+    "url": "/Success/authors/Simon-Sinek/",
+    
+    "relUrl": "/Success/authors/Simon-Sinek/"
+  },"8": {
+    "doc": "Malcolm Gladwell",
+    "title": "Malcolm Gladwell",
+    "content": "Welcome to the page of Malcolm Gladwell! Here you can find their quotes. ",
+    "url": "/Success/authors/Malcolm-Gladwell/",
+    
+    "relUrl": "/Success/authors/Malcolm-Gladwell/"
+  },"9": {
+    "doc": "Tony Robbins",
+    "title": "Tony Robbins",
+    "content": "Welcome to the page of Tony Robbins! Here you can find their quotes. ",
+    "url": "/Success/authors/Tony-Robbins/",
+    
+    "relUrl": "/Success/authors/Tony-Robbins/"
+  },"10": {
+    "doc": "Success",
+    "title": "Success",
+    "content": "Welcome to the page of Success . ",
+    "url": "/Success",
+    
+    "relUrl": "/Success"
+  },"11": {
+    "doc": "Patricia Love",
+    "title": "Patricia Love",
+    "content": "Welcome to the page of Patricia Love! Here you can find their quotes. ",
+    "url": "/Love/authors/Patricia-Love/",
+    
+    "relUrl": "/Love/authors/Patricia-Love/"
+  },"12": {
+    "doc": "Maya Angelou",
+    "title": "Maya Angelou",
+    "content": "Welcome to the page of Maya Angelou! Here you can find their quotes. ",
+    "url": "/Love/authors/Maya-Angelou/",
+    
+    "relUrl": "/Love/authors/Maya-Angelou/"
+  },"13": {
+    "doc": "Elizabeth Gilbert",
+    "title": "Elizabeth Gilbert",
+    "content": "Welcome to the page of Elizabeth Gilbert! Here you can find their quotes. ",
+    "url": "/Love/authors/Elizabeth-Gilbert/",
+    
+    "relUrl": "/Love/authors/Elizabeth-Gilbert/"
+  },"14": {
+    "doc": "Khalil Gibran",
+    "title": "Khalil Gibran",
+    "content": "Welcome to the page of Khalil Gibran! Here you can find their quotes. ",
+    "url": "/Love/authors/Khalil-Gibran/",
+    
+    "relUrl": "/Love/authors/Khalil-Gibran/"
+  },"15": {
+    "doc": "David Schnarch",
+    "title": "David Schnarch",
+    "content": "Welcome to the page of David Schnarch! Here you can find their quotes. ",
+    "url": "/Love/authors/David-Schnarch/",
+    
+    "relUrl": "/Love/authors/David-Schnarch/"
+  },"16": {
+    "doc": "Sigmund Freud",
+    "title": "Sigmund Freud",
+    "content": "Welcome to the page of Sigmund Freud! Here you can find their quotes. ",
+    "url": "/Love/authors/Sigmund-Freud/",
+    
+    "relUrl": "/Love/authors/Sigmund-Freud/"
+  },"17": {
+    "doc": "bell hooks",
+    "title": "bell hooks",
+    "content": "Welcome to the page of bell hooks! Here you can find their quotes. ",
+    "url": "/Love/authors/bell-hooks/",
+    
+    "relUrl": "/Love/authors/bell-hooks/"
+  },"18": {
+    "doc": "Erich Fromm",
+    "title": "Erich Fromm",
+    "content": "Welcome to the page of Erich Fromm! Here you can find their quotes. ",
+    "url": "/Love/authors/Erich-Fromm/",
+    
+    "relUrl": "/Love/authors/Erich-Fromm/"
+  },"19": {
+    "doc": "Rumi",
+    "title": "Rumi",
+    "content": "Welcome to the page of Rumi! Here you can find their quotes. ",
+    "url": "/Love/authors/Rumi/",
+    
+    "relUrl": "/Love/authors/Rumi/"
+  },"20": {
+    "doc": "CS Lewis",
+    "title": "CS Lewis",
+    "content": "Welcome to the page of CS Lewis! Here you can find their quotes. ",
+    "url": "/Love/authors/CS-Lewis/",
+    
+    "relUrl": "/Love/authors/CS-Lewis/"
+  },"21": {
+    "doc": "Love",
+    "title": "Love",
+    "content": "Welcome to the page of Love . ",
+    "url": "/Love",
+    
+    "relUrl": "/Love"
+  },"22": {
+    "doc": "Maya Angelou",
+    "title": "Maya Angelou",
+    "content": "Welcome to the page of Maya Angelou! Here you can find their quotes. ",
+    "url": "/Wisdom/authors/Maya-Angelou/",
+    
+    "relUrl": "/Wisdom/authors/Maya-Angelou/"
+  },"23": {
+    "doc": "Confucius",
+    "title": "Confucius",
+    "content": "Welcome to the page of Confucius! Here you can find their quotes. ",
+    "url": "/Wisdom/authors/Confucius/",
+    
+    "relUrl": "/Wisdom/authors/Confucius/"
+  },"24": {
+    "doc": "Daniel Kahneman",
+    "title": "Daniel Kahneman",
+    "content": "Welcome to the page of Daniel Kahneman! Here you can find their quotes. ",
+    "url": "/Wisdom/authors/Daniel-Kahneman/",
+    
+    "relUrl": "/Wisdom/authors/Daniel-Kahneman/"
+  },"25": {
+    "doc": "Buddha Siddhartha Gautama",
+    "title": "Buddha Siddhartha Gautama",
+    "content": "Welcome to the page of Buddha Siddhartha Gautama! Here you can find their quotes. ",
+    "url": "/Wisdom/authors/Buddha-Siddhartha-Gautama/",
+    
+    "relUrl": "/Wisdom/authors/Buddha-Siddhartha-Gautama/"
+  },"26": {
+    "doc": "Dalai Lama",
+    "title": "Dalai Lama",
+    "content": "Welcome to the page of Dalai Lama! Here you can find their quotes. ",
+    "url": "/Wisdom/authors/Dalai-Lama/",
+    
+    "relUrl": "/Wisdom/authors/Dalai-Lama/"
+  },"27": {
+    "doc": "Socrates",
+    "title": "Socrates",
+    "content": "Welcome to the page of Socrates! Here you can find their quotes. ",
+    "url": "/Wisdom/authors/Socrates/",
+    
+    "relUrl": "/Wisdom/authors/Socrates/"
+  },"28": {
+    "doc": "Plato",
+    "title": "Plato",
+    "content": "Welcome to the page of Plato! Here you can find their quotes. ",
+    "url": "/Wisdom/authors/Plato/",
+    
+    "relUrl": "/Wisdom/authors/Plato/"
+  },"29": {
+    "doc": "Rumi",
+    "title": "Rumi",
+    "content": "Welcome to the page of Rumi! Here you can find their quotes. ",
+    "url": "/Wisdom/authors/Rumi/",
+    
+    "relUrl": "/Wisdom/authors/Rumi/"
+  },"30": {
+    "doc": "Malcolm Gladwell",
+    "title": "Malcolm Gladwell",
+    "content": "Welcome to the page of Malcolm Gladwell! Here you can find their quotes. ",
+    "url": "/Wisdom/authors/Malcolm-Gladwell/",
+    
+    "relUrl": "/Wisdom/authors/Malcolm-Gladwell/"
+  },"31": {
+    "doc": "Aristotle",
+    "title": "Aristotle",
+    "content": "Welcome to the page of Aristotle! Here you can find their quotes. ",
+    "url": "/Wisdom/authors/Aristotle/",
+    
+    "relUrl": "/Wisdom/authors/Aristotle/"
+  },"32": {
+    "doc": "Wisdom",
+    "title": "Wisdom",
+    "content": "Welcome to the page of Wisdom . ",
+    "url": "/Wisdom",
+    
+    "relUrl": "/Wisdom"
+  },"33": {
+    "doc": "Martin Seligman",
+    "title": "Martin Seligman",
+    "content": "Welcome to the page of Martin Seligman! Here you can find their quotes. ",
+    "url": "/Happiness/authors/Martin-Seligman/",
+    
+    "relUrl": "/Happiness/authors/Martin-Seligman/"
+  },"34": {
+    "doc": "Mihaly Csikszentmihalyi",
+    "title": "Mihaly Csikszentmihalyi",
+    "content": "Welcome to the page of Mihaly Csikszentmihalyi! Here you can find their quotes. ",
+    "url": "/Happiness/authors/Mihaly-Csikszentmihalyi/",
+    
+    "relUrl": "/Happiness/authors/Mihaly-Csikszentmihalyi/"
+  },"35": {
+    "doc": "Elizabeth Gilbert",
+    "title": "Elizabeth Gilbert",
+    "content": "Welcome to the page of Elizabeth Gilbert! Here you can find their quotes. ",
+    "url": "/Happiness/authors/Elizabeth-Gilbert/",
+    
+    "relUrl": "/Happiness/authors/Elizabeth-Gilbert/"
+  },"36": {
+    "doc": "Shawn Achor",
+    "title": "Shawn Achor",
+    "content": "Welcome to the page of Shawn Achor! Here you can find their quotes. ",
+    "url": "/Happiness/authors/Shawn-Achor/",
+    
+    "relUrl": "/Happiness/authors/Shawn-Achor/"
+  },"37": {
+    "doc": "Dan Gilbert",
+    "title": "Dan Gilbert",
+    "content": "Welcome to the page of Dan Gilbert! Here you can find their quotes. ",
+    "url": "/Happiness/authors/Dan-Gilbert/",
+    
+    "relUrl": "/Happiness/authors/Dan-Gilbert/"
+  },"38": {
+    "doc": "Randy Pausch",
+    "title": "Randy Pausch",
+    "content": "Welcome to the page of Randy Pausch! Here you can find their quotes. ",
+    "url": "/Happiness/authors/Randy-Pausch/",
+    
+    "relUrl": "/Happiness/authors/Randy-Pausch/"
+  },"39": {
+    "doc": "Tal Ben-Shahar",
+    "title": "Tal Ben-Shahar",
+    "content": "Welcome to the page of Tal Ben-Shahar! Here you can find their quotes. ",
+    "url": "/Happiness/authors/Tal-Ben-Shahar/",
+    
+    "relUrl": "/Happiness/authors/Tal-Ben-Shahar/"
+  },"40": {
+    "doc": "Sonja Lyubomirsky",
+    "title": "Sonja Lyubomirsky",
+    "content": "Welcome to the page of Sonja Lyubomirsky! Here you can find their quotes. ",
+    "url": "/Happiness/authors/Sonja-Lyubomirsky/",
+    
+    "relUrl": "/Happiness/authors/Sonja-Lyubomirsky/"
+  },"41": {
+    "doc": "Gretchen Rubin",
+    "title": "Gretchen Rubin",
+    "content": "Welcome to the page of Gretchen Rubin! Here you can find their quotes. ",
+    "url": "/Happiness/authors/Gretchen-Rubin/",
+    
+    "relUrl": "/Happiness/authors/Gretchen-Rubin/"
+  },"42": {
+    "doc": "Dalai Lama",
+    "title": "Dalai Lama",
+    "content": "Welcome to the page of Dalai Lama! Here you can find their quotes. ",
+    "url": "/Happiness/authors/Dalai-Lama/",
+    
+    "relUrl": "/Happiness/authors/Dalai-Lama/"
+  },"43": {
+    "doc": "Happiness",
+    "title": "Happiness",
+    "content": "Welcome to the page of Happiness . ",
+    "url": "/Happiness",
+    
+    "relUrl": "/Happiness"
+  },"44": {
+    "doc": "Martin Buber",
+    "title": "Martin Buber",
+    "content": "Welcome to the page of Martin Buber! Here you can find their quotes. ",
+    "url": "/Friendship/authors/Martin-Buber/",
+    
+    "relUrl": "/Friendship/authors/Martin-Buber/"
+  },"45": {
+    "doc": "Maya Angelou",
+    "title": "Maya Angelou",
+    "content": "Welcome to the page of Maya Angelou! Here you can find their quotes. ",
+    "url": "/Friendship/authors/Maya-Angelou/",
+    
+    "relUrl": "/Friendship/authors/Maya-Angelou/"
+  },"46": {
+    "doc": "Brené Brown",
+    "title": "Brené Brown",
+    "content": "Welcome to the page of Brené Brown! Here you can find their quotes. ",
+    "url": "/Friendship/authors/Bren%C3%A9-Brown/",
+    
+    "relUrl": "/Friendship/authors/Brené-Brown/"
+  },"47": {
+    "doc": "Helen Keller",
+    "title": "Helen Keller",
+    "content": "Welcome to the page of Helen Keller! Here you can find their quotes. ",
+    "url": "/Friendship/authors/Helen-Keller/",
+    
+    "relUrl": "/Friendship/authors/Helen-Keller/"
+  },"48": {
+    "doc": "Richard Bach",
+    "title": "Richard Bach",
+    "content": "Welcome to the page of Richard Bach! Here you can find their quotes. ",
+    "url": "/Friendship/authors/Richard-Bach/",
+    
+    "relUrl": "/Friendship/authors/Richard-Bach/"
+  },"49": {
+    "doc": "Tommy Lee Jones",
+    "title": "Tommy Lee Jones",
+    "content": "Welcome to the page of Tommy Lee Jones! Here you can find their quotes. ",
+    "url": "/Friendship/authors/Tommy-Lee-Jones/",
+    
+    "relUrl": "/Friendship/authors/Tommy-Lee-Jones/"
+  },"50": {
+    "doc": "Dalai Lama",
+    "title": "Dalai Lama",
+    "content": "Welcome to the page of Dalai Lama! Here you can find their quotes. ",
+    "url": "/Friendship/authors/Dalai-Lama/",
+    
+    "relUrl": "/Friendship/authors/Dalai-Lama/"
+  },"51": {
+    "doc": "Aristotle",
+    "title": "Aristotle",
+    "content": "Welcome to the page of Aristotle! Here you can find their quotes. ",
+    "url": "/Friendship/authors/Aristotle/",
+    
+    "relUrl": "/Friendship/authors/Aristotle/"
+  },"52": {
+    "doc": "CS Lewis",
+    "title": "CS Lewis",
+    "content": "Welcome to the page of CS Lewis! Here you can find their quotes. ",
+    "url": "/Friendship/authors/CS-Lewis/",
+    
+    "relUrl": "/Friendship/authors/CS-Lewis/"
+  },"53": {
+    "doc": "Ralph Waldo Emerson",
+    "title": "Ralph Waldo Emerson",
+    "content": "Welcome to the page of Ralph Waldo Emerson! Here you can find their quotes. ",
+    "url": "/Friendship/authors/Ralph-Waldo-Emerson/",
+    
+    "relUrl": "/Friendship/authors/Ralph-Waldo-Emerson/"
+  },"54": {
+    "doc": "Friendship",
+    "title": "Friendship",
+    "content": "Welcome to the page of Friendship . ",
+    "url": "/Friendship",
+    
+    "relUrl": "/Friendship"
+  },"55": {
+    "doc": "Zig Ziglar",
+    "title": "Zig Ziglar",
+    "content": "Welcome to the page of Zig Ziglar! Here you can find their quotes. ",
+    "url": "/Motivation/authors/Zig-Ziglar/",
+    
+    "relUrl": "/Motivation/authors/Zig-Ziglar/"
+  },"56": {
+    "doc": "Eric Thomas",
+    "title": "Eric Thomas",
+    "content": "Welcome to the page of Eric Thomas! Here you can find their quotes. ",
+    "url": "/Motivation/authors/Eric-Thomas/",
+    
+    "relUrl": "/Motivation/authors/Eric-Thomas/"
+  },"57": {
+    "doc": "Jim Rohn",
+    "title": "Jim Rohn",
+    "content": "Welcome to the page of Jim Rohn! Here you can find their quotes. ",
+    "url": "/Motivation/authors/Jim-Rohn/",
+    
+    "relUrl": "/Motivation/authors/Jim-Rohn/"
+  },"58": {
+    "doc": "Brené Brown",
+    "title": "Brené Brown",
+    "content": "Welcome to the page of Brené Brown! Here you can find their quotes. ",
+    "url": "/Motivation/authors/Bren%C3%A9-Brown/",
+    
+    "relUrl": "/Motivation/authors/Brené-Brown/"
+  },"59": {
+    "doc": "Brene Brown",
+    "title": "Brene Brown",
+    "content": "Welcome to the page of Brene Brown! Here you can find their quotes. ",
+    "url": "/Success/authors/Brene-Brown/",
+    
+    "relUrl": "/Success/authors/Brene-Brown/"
+  },"60": {
+    "doc": "Robin Sharma",
+    "title": "Robin Sharma",
+    "content": "Welcome to the page of Robin Sharma! Here you can find their quotes. ",
+    "url": "/Motivation/authors/Robin-Sharma/",
+    
+    "relUrl": "/Motivation/authors/Robin-Sharma/"
+  },"61": {
+    "doc": "Mel Robbins",
+    "title": "Mel Robbins",
+    "content": "Welcome to the page of Mel Robbins! Here you can find their quotes. ",
+    "url": "/Motivation/authors/Mel-Robbins/",
+    
+    "relUrl": "/Motivation/authors/Mel-Robbins/"
+  },"62": {
+    "doc": "Simon Sinek",
+    "title": "Simon Sinek",
+    "content": "Welcome to the page of Simon Sinek! Here you can find their quotes. ",
+    "url": "/Motivation/authors/Simon-Sinek/",
+    
+    "relUrl": "/Motivation/authors/Simon-Sinek/"
+  },"63": {
+    "doc": "Gabrielle Bernstein",
+    "title": "Gabrielle Bernstein",
+    "content": "Welcome to the page of Gabrielle Bernstein! Here you can find their quotes. ",
+    "url": "/Motivation/authors/Gabrielle-Bernstein/",
+    
+    "relUrl": "/Motivation/authors/Gabrielle-Bernstein/"
+  },"64": {
+    "doc": "Tony Robbins",
+    "title": "Tony Robbins",
+    "content": "Welcome to the page of Tony Robbins! Here you can find their quotes. ",
+    "url": "/Motivation/authors/Tony-Robbins/",
+    
+    "relUrl": "/Motivation/authors/Tony-Robbins/"
+  },"65": {
+    "doc": "Motivation",
+    "title": "Motivation",
+    "content": "Welcome to the page of Motivation . ",
+    "url": "/Motivation",
+    
+    "relUrl": "/Motivation"
+  },"66": {
+    "doc": "Jennifer Trosper",
+    "title": "Jennifer Trosper",
+    "content": "Welcome to the page of Jennifer Trosper! Here you can find their quotes. ",
+    "url": "/Perseverance/authors/Jennifer-Trosper/",
+    
+    "relUrl": "/Perseverance/authors/Jennifer-Trosper/"
+  },"67": {
+    "doc": "Zibi Turtle",
+    "title": "Zibi Turtle",
+    "content": "Welcome to the page of Zibi Turtle! Here you can find their quotes. ",
+    "url": "/Perseverance/authors/Zibi-Turtle/",
+    
+    "relUrl": "/Perseverance/authors/Zibi-Turtle/"
+  },"68": {
+    "doc": "Ravi Prakash",
+    "title": "Ravi Prakash",
+    "content": "Welcome to the page of Ravi Prakash! Here you can find their quotes. ",
+    "url": "/Perseverance/authors/Ravi-Prakash/",
+    
+    "relUrl": "/Perseverance/authors/Ravi-Prakash/"
+  },"69": {
+    "doc": "Elon Musk",
+    "title": "Elon Musk",
+    "content": "Welcome to the page of Elon Musk! Here you can find their quotes. ",
+    "url": "/Perseverance/authors/Elon-Musk/",
+    
+    "relUrl": "/Perseverance/authors/Elon-Musk/"
+  },"70": {
+    "doc": "John Connolly",
+    "title": "John Connolly",
+    "content": "Welcome to the page of John Connolly! Here you can find their quotes. ",
+    "url": "/Perseverance/authors/John-Connolly/",
+    
+    "relUrl": "/Perseverance/authors/John-Connolly/"
+  },"71": {
+    "doc": "Meenakshi Wadhwa",
+    "title": "Meenakshi Wadhwa",
+    "content": "Welcome to the page of Meenakshi Wadhwa! Here you can find their quotes. ",
+    "url": "/Perseverance/authors/Meenakshi-Wadhwa/",
+    
+    "relUrl": "/Perseverance/authors/Meenakshi-Wadhwa/"
+  },"72": {
+    "doc": "Tanya Harrison",
+    "title": "Tanya Harrison",
+    "content": "Welcome to the page of Tanya Harrison! Here you can find their quotes. ",
+    "url": "/Perseverance/authors/Tanya-Harrison/",
+    
+    "relUrl": "/Perseverance/authors/Tanya-Harrison/"
+  },"73": {
+    "doc": "Thomas Zurbuchen",
+    "title": "Thomas Zurbuchen",
+    "content": "Welcome to the page of Thomas Zurbuchen! Here you can find their quotes. ",
+    "url": "/Perseverance/authors/Thomas-Zurbuchen/",
+    
+    "relUrl": "/Perseverance/authors/Thomas-Zurbuchen/"
+  },"74": {
+    "doc": "Alfred McEwen",
+    "title": "Alfred McEwen",
+    "content": "Welcome to the page of Alfred McEwen! Here you can find their quotes. ",
+    "url": "/Perseverance/authors/Alfred-McEwen/",
+    
+    "relUrl": "/Perseverance/authors/Alfred-McEwen/"
+  },"75": {
+    "doc": "Ken Farley",
+    "title": "Ken Farley",
+    "content": "Welcome to the page of Ken Farley! Here you can find their quotes. ",
+    "url": "/Perseverance/authors/Ken-Farley/",
+    
+    "relUrl": "/Perseverance/authors/Ken-Farley/"
+  },"76": {
+    "doc": "Perseverance",
+    "title": "Perseverance",
+    "content": "Welcome to the page of Perseverance . ",
+    "url": "/Perseverance",
+    
+    "relUrl": "/Perseverance"
+  },"77": {
+    "doc": "Les Brown",
+    "title": "Les Brown",
+    "content": "Welcome to the page of Les Brown! Here you can find their quotes. ",
+    "url": "/Motivation/authors/Les-Brown/",
+    
+    "relUrl": "/Motivation/authors/Les-Brown/"
+  },"78": {
+    "doc": "Zig Ziglar",
+    "title": "Zig Ziglar",
+    "content": "Welcome to the page of Zig Ziglar! Here you can find their quotes. ",
+    "url": "/Success/authors/Zig-Ziglar/",
+    
+    "relUrl": "/Success/authors/Zig-Ziglar/"
+  },"79": {
+    "doc": "Quotes",
+    "title": "Quotes",
+    "content": ". | Socrates - Wonder is the beginning of - December 28, 2024 | Socrates - To find yourself think for - December 28, 2024 | Socrates - There is only one good knowledge and - December 28, 2024 | Socrates - The unexamined life is not worth - December 28, 2024 | Socrates - The Oracle at Delphi said that no one - December 28, 2024 | Socrates - Strong minds discuss ideas average - December 28, 2024 | Socrates - I cannot teach anybody anything I can - December 28, 2024 | Socrates - Education is the kindling of a flame - December 28, 2024 | Socrates - Do not do to others what angers you if - December 28, 2024 | Socrates - An unexamined life is one not worth - December 28, 2024 | Rumi - Your task is not to seek for love but - December 28, 2024 | Rumi - You are not a drop in the ocean You - December 28, 2024 | Rumi - Where there is ruin there is hope for - December 28, 2024 | Rumi - When the soul lies down in that grass - December 28, 2024 | Rumi - Try not to resist the changes that come - December 28, 2024 | Rumi - The wound is the place where the Light - December 28, 2024 | Rumi - The only lasting beauty is the beauty - December 28, 2024 | Rumi - The moment you accept what troubles - December 28, 2024 | Rumi - Let the beauty we love be what we do - December 28, 2024 | Rumi - Dont grieve Anything you lose comes - December 28, 2024 | Plato - Wisdom begins in - December 28, 2024 | Plato - We can easily forgive a child who is - December 28, 2024 | Plato - The measure of a man is what he does - December 28, 2024 | Plato - The greatest wealth is to live content - December 28, 2024 | Plato - The beginning is the most important - December 28, 2024 | Plato - Love is a serious mental - December 28, 2024 | Plato - Knowledge which is acquired under - December 28, 2024 | Plato - It is the mark of an educated mind to - December 28, 2024 | Plato - Courage is knowing what not to - December 28, 2024 | Plato - An empty vessel makes the loudest - December 28, 2024 | Maya Angelou - You may encounter many defeats but you - December 28, 2024 | Maya Angelou - You cant use up creativity The more - December 28, 2024 | Maya Angelou - You are the sum total of everything - December 28, 2024 | Maya Angelou - The horizon leans forward offering you - December 28, 2024 | Maya Angelou - Nothing will work unless you - December 28, 2024 | Maya Angelou - Ive learned that people will forget - December 28, 2024 | Maya Angelou - Ive learned that even when I have - December 28, 2024 | Maya Angelou - If you dont like something change it - December 28, 2024 | Maya Angelou - I can be changed by what happens to me - December 28, 2024 | Maya Angelou - As you grow older you will discover - December 28, 2024 | Malcolm Gladwell - You cant understand the impact of - December 28, 2024 | Malcolm Gladwell - We need to stop asking why and start - December 28, 2024 | Malcolm Gladwell - The tipping point is that magic moment - December 28, 2024 | Malcolm Gladwell - The people who succeed are irrationally - December 28, 2024 | Malcolm Gladwell - The key to good decision making is not - December 28, 2024 | Malcolm Gladwell - The best way to make sense out of - December 28, 2024 | Malcolm Gladwell - The 10000-Hour Rule is a deliberate - December 28, 2024 | Malcolm Gladwell - Practice isnt the thing you do once - December 28, 2024 | Malcolm Gladwell - In a world thats changing really - December 28, 2024 | Malcolm Gladwell - Every time we make a choice we are - December 28, 2024 | Daniel Kahneman - What you see is all there - December 28, 2024 | Daniel Kahneman - We make choices not by maximizing - December 28, 2024 | Daniel Kahneman - We are wired to believe that we are - December 28, 2024 | Daniel Kahneman - The voice of your own mind will always - December 28, 2024 | Daniel Kahneman - The premise of the book is that we can - December 28, 2024 | Daniel Kahneman - The mind is a story processor not a - December 28, 2024 | Daniel Kahneman - The idea that your intuitive beliefs - December 28, 2024 | Daniel Kahneman - The greatest scientists are artists as - December 28, 2024 | Daniel Kahneman - Overconfidence is a consequence of the - December 28, 2024 | Daniel Kahneman - Nothing in life is as important as you - December 28, 2024 | Dalai Lama - When you practice gratefulness there - December 28, 2024 | Dalai Lama - This is my simple religion There is no - December 28, 2024 | Dalai Lama - The ultimate source of a happy life is - December 28, 2024 | Dalai Lama - The purpose of our lives is to be - December 28, 2024 | Dalai Lama - Love and compassion are necessities - December 28, 2024 | Dalai Lama - In the practice of tolerance ones - December 28, 2024 | Dalai Lama - If you want others to be happy - December 28, 2024 | Dalai Lama - I find hope in the darkest of days and - December 28, 2024 | Dalai Lama - Happiness is not something ready made - December 28, 2024 | Dalai Lama - Compassion and tolerance are not a sign - December 28, 2024 | Confucius - Wheresoever you go go with all your - December 28, 2024 | Confucius - When we see men of a contrary - December 28, 2024 | Confucius - To see what is right and not do it is - December 28, 2024 | Confucius - The man who moves a mountain begins by - December 28, 2024 | Confucius - Silence is a true friend that never - December 28, 2024 | Confucius - Real knowledge is to know the extent of - December 28, 2024 | Confucius - Our greatest glory is not in never - December 28, 2024 | Confucius - It is better to light a candle than to - December 28, 2024 | Confucius - It does not matter how slowly you go as - December 28, 2024 | Confucius - He who learns but does not think is - December 28, 2024 | Buddha Siddhartha Gautama - You only lose what you cling - December 28, 2024 | Buddha Siddhartha Gautama - What we think we - December 28, 2024 | Buddha Siddhartha Gautama - Three things cannot be long hidden the - December 28, 2024 | Buddha Siddhartha Gautama - There is no path to happiness - December 28, 2024 | Buddha Siddhartha Gautama - The root of suffering is - December 28, 2024 | Buddha Siddhartha Gautama - The mind is everything What you think - December 28, 2024 | Buddha Siddhartha Gautama - Peace comes from within Do not seek it - December 28, 2024 | Buddha Siddhartha Gautama - It is better to conquer yourself than - December 28, 2024 | Buddha Siddhartha Gautama - Happiness does not depend on what you - December 28, 2024 | Buddha Siddhartha Gautama - All that we are is the result of what - December 28, 2024 | Aristotle - We are what we repeatedly do - December 28, 2024 | Aristotle - The whole is greater than the sum of - December 28, 2024 | Aristotle - The roots of education are bitter but - December 28, 2024 | Aristotle - The more you know the more you realize - December 28, 2024 | Aristotle - Patience is bitter but its fruit is - December 28, 2024 | Aristotle - Knowing yourself is the beginning of - December 28, 2024 | Aristotle - It is the mark of an educated mind to - December 28, 2024 | Aristotle - It is not enough to win a war it is - December 28, 2024 | Aristotle - Happiness depends upon - December 28, 2024 | Aristotle - Courage is the first of human qualities - December 28, 2024 | Zig Ziglar - Your attitude not your aptitude will - December 28, 2024 | Zig Ziglar - You dont have to be great to start - December 28, 2024 | Zig Ziglar - You are the only person on earth who - December 28, 2024 | Zig Ziglar - What you get by achieving your goals is - December 28, 2024 | Zig Ziglar - The only way to get what you want is to - December 28, 2024 | Zig Ziglar - The chief cause of failure and - December 28, 2024 | Zig Ziglar - Success is not a destination its a - December 28, 2024 | Zig Ziglar - People often say that motivation - December 28, 2024 | Zig Ziglar - Its not where you start but how high - December 28, 2024 | Zig Ziglar - If you can dream it you can achieve - December 28, 2024 | Tony Robbins - Your past does not equal your - December 28, 2024 | Tony Robbins - The secret to success is learning how - December 28, 2024 | Tony Robbins - The quality of your life is the quality - December 28, 2024 | Tony Robbins - The only limit to your impact is your - December 28, 2024 | Tony Robbins - Setting goals is the first step in - December 28, 2024 | Tony Robbins - Life is a gift and it offers us the - December 28, 2024 | Tony Robbins - It is in your moments of decision that - December 28, 2024 | Tony Robbins - In life you need either inspiration or - December 28, 2024 | Tony Robbins - If you do what youve always done - December 28, 2024 | Tony Robbins - Change is inevitable Progress is - December 28, 2024 | Tim Ferriss - You are the average of the five people - December 28, 2024 | Tim Ferriss - What we fear doing most is usually what - December 28, 2024 | Tim Ferriss - Time is the resource that you cant get - December 28, 2024 | Tim Ferriss - The question you should be asking - December 28, 2024 | Tim Ferriss - The best things in life are on the - December 28, 2024 | Tim Ferriss - People will choose unhappiness over - December 28, 2024 | Tim Ferriss - Most of the things we want are not - December 28, 2024 | Tim Ferriss - If you let the fear of the unknown stop - December 28, 2024 | Tim Ferriss - Focus on being productive instead of - December 28, 2024 | Tim Ferriss - Being busy is a form of laziness lazy - December 28, 2024 | Simon Sinek - You dont hire for skills you hire for - December 28, 2024 | Simon Sinek - When we are sure of our why the how - December 28, 2024 | Simon Sinek - We are not meant to be perfect We are - December 28, 2024 | Simon Sinek - There is no such thing as business - December 28, 2024 | Simon Sinek - The most successful people are those - December 28, 2024 | Simon Sinek - The goal is not to be perfect by the - December 28, 2024 | Simon Sinek - The challenge is not how to get people - December 28, 2024 | Simon Sinek - People dont buy what you do they buy - December 28, 2024 | Simon Sinek - Leadership is not about being in - December 28, 2024 | Simon Sinek - Great leaders are not born theyre - December 28, 2024 | Robin Sharma - Your I can is more important than - December 28, 2024 | Robin Sharma - To become a great leader you need to - December 28, 2024 | Robin Sharma - The quality of your life is determined - December 28, 2024 | Robin Sharma - The most precious gift we can offer - December 28, 2024 | Robin Sharma - The business of business is to improve - December 28, 2024 | Robin Sharma - Success is not a function of the size - December 28, 2024 | Robin Sharma - Live your life as if everything is - December 28, 2024 | Robin Sharma - Leadership is not about a title or a - December 28, 2024 | Robin Sharma - Great leaders create great leaders not - December 28, 2024 | Robin Sharma - Change is hard at first messy in the - December 28, 2024 | Napoleon Hill - Your big opportunity may be right where - December 28, 2024 | Napoleon Hill - You give before you - December 28, 2024 | Napoleon Hill - Whatever the mind can conceive and - December 28, 2024 | Napoleon Hill - What the mind of man can conceive and - December 28, 2024 | Napoleon Hill - Success comes to those who become - December 28, 2024 | Napoleon Hill - Most great people have attained their - December 28, 2024 | Napoleon Hill - It is literally true that you can - December 28, 2024 | Napoleon Hill - If you cannot do great things do small - December 28, 2024 | Napoleon Hill - Dont wait The time will never be - December 28, 2024 | Napoleon Hill - A goal is a dream with a - December 28, 2024 | Malcolm Gladwell - We need to spend less time thinking - December 28, 2024 | Malcolm Gladwell - We get a lot of things wrong when we - December 28, 2024 | Malcolm Gladwell - The stories we tell ourselves are the - December 28, 2024 | Malcolm Gladwell - The key to good decision making is not - December 28, 2024 | Malcolm Gladwell - Successful people are not just those - December 28, 2024 | Malcolm Gladwell - Sometimes to move forward you need to - December 28, 2024 | Malcolm Gladwell - Practice isnt the thing you do once - December 28, 2024 | Malcolm Gladwell - It is not the strongest or the most - December 28, 2024 | Malcolm Gladwell - Human beings are not a bad science - December 28, 2024 | Malcolm Gladwell - Achievement is talent plus - December 28, 2024 | Gary Vaynerchuk - Your legacy is being written by - December 28, 2024 | Gary Vaynerchuk - You have to be self-aware to be able to - December 28, 2024 | Gary Vaynerchuk - Without hustle talent will only carry - December 28, 2024 | Gary Vaynerchuk - We are living in a time where we get - December 28, 2024 | Gary Vaynerchuk - The best marketing strategy ever - December 28, 2024 | Gary Vaynerchuk - In this world youre either the hammer - December 28, 2024 | Gary Vaynerchuk - If you live for the weekends and - December 28, 2024 | Gary Vaynerchuk - Ideas are shit Implementation is the - December 28, 2024 | Gary Vaynerchuk - Dont ever let someone tell you you - December 28, 2024 | Gary Vaynerchuk - All I care about is being the best - December 28, 2024 | Chris Guillebeau - You should be too busy to do anything - December 28, 2024 | Chris Guillebeau - You dont have to live your life the - December 28, 2024 | Chris Guillebeau - You are not a product of your - December 28, 2024 | Chris Guillebeau - Travel isnt always pretty It isnt - December 28, 2024 | Chris Guillebeau - The obstacle is the way Instead of - December 28, 2024 | Chris Guillebeau - The best way to find yourself is to - December 28, 2024 | Chris Guillebeau - Life is too short to be a - December 28, 2024 | Chris Guillebeau - Even if youre on the right track - December 28, 2024 | Chris Guillebeau - Embrace uncertainty Some of the most - December 28, 2024 | Chris Guillebeau - Define success on your own terms - December 28, 2024 | Brene Brown - You can choose courage or you can - December 28, 2024 | Brene Brown - When we deny our stories they define - December 28, 2024 | Brene Brown - What we know matters but who we are - December 28, 2024 | Brene Brown - We dont have to do it all alone We - December 28, 2024 | Brene Brown - Vulnerability is the birthplace of - December 28, 2024 | Brene Brown - Shame corrodes the very part of us that - December 28, 2024 | Brene Brown - Imperfections are not inadequacies - December 28, 2024 | Brene Brown - Daring leaders work to make sure people - December 28, 2024 | Brene Brown - Courage starts with showing up and - December 28, 2024 | Brene Brown - Connection is why were here it is - December 28, 2024 | Zig Ziglar - Your attitude not your aptitude will - December 28, 2024 | Zig Ziglar - You dont have to be great to start - December 28, 2024 | Zig Ziglar - You can get everything in life you want - December 28, 2024 | Zig Ziglar - What you get by achieving your goals is - December 28, 2024 | Zig Ziglar - Visualization is daydreaming with a - December 28, 2024 | Zig Ziglar - The only thing worse than training your - December 28, 2024 | Zig Ziglar - Success is the maximum utilization of - December 28, 2024 | Zig Ziglar - People often say that motivation - December 28, 2024 | Zig Ziglar - Its not what you pay a man but what - December 28, 2024 | Zig Ziglar - If you can dream it you can achieve - December 28, 2024 | Tony Robbins - Your past does not equal your - December 28, 2024 | Tony Robbins - The quality of your life is the quality - December 28, 2024 | Tony Robbins - The only thing thats keeping you from - December 28, 2024 | Tony Robbins - The only limit to your impact is your - December 28, 2024 | Tony Robbins - Successful people ask better questions - December 28, 2024 | Tony Robbins - Setting goals is the first step in - December 28, 2024 | Tony Robbins - Its not what we do once in a while - December 28, 2024 | Tony Robbins - In life you need either inspiration or - December 28, 2024 | Tony Robbins - If you do what youve always done - December 28, 2024 | Tony Robbins - Change is inevitable Progress is - December 28, 2024 | Simon Sinek - You dont get what you want You get - December 28, 2024 | Simon Sinek - Working hard for something we dont - December 28, 2024 | Simon Sinek - When we are surrounded by each other - December 28, 2024 | Simon Sinek - Vision is not the thing that attracts - December 28, 2024 | Simon Sinek - There is a difference between being - December 28, 2024 | Simon Sinek - The most inspiring leaders of the past - December 28, 2024 | Simon Sinek - The goal is not to be perfect by the - December 28, 2024 | Simon Sinek - The ability to connect with others in a - December 28, 2024 | Simon Sinek - People dont care how much you know - December 28, 2024 | Simon Sinek - Leadership is not about being in - December 28, 2024 | Robin Sharma - Your I Can is more important than - December 28, 2024 | Robin Sharma - You are your greatest asset Put your - December 28, 2024 | Robin Sharma - The way to get started is to quit - December 28, 2024 | Robin Sharma - The quality of your life is determined - December 28, 2024 | Robin Sharma - The many things we think are important - December 28, 2024 | Robin Sharma - Success is not about your resources - December 28, 2024 | Robin Sharma - Leadership is not about a title or a - December 28, 2024 | Robin Sharma - Dream big start small act - December 28, 2024 | Robin Sharma - Dont live the same year 75 times and - December 28, 2024 | Robin Sharma - Change is hard at first messy in the - December 28, 2024 | Mel Robbins - Your dreams dont come true because you - December 28, 2024 | Mel Robbins - You have a choice Every single moment - December 28, 2024 | Mel Robbins - You dont need to be perfect You just - December 28, 2024 | Mel Robbins - You are the only one who can hold - December 28, 2024 | Mel Robbins - You are not a product of your - December 28, 2024 | Mel Robbins - When you feel fear youre on the right - December 28, 2024 | Mel Robbins - The confidence you need to change your - December 28, 2024 | Mel Robbins - The 5 Second Rule works because it - December 28, 2024 | Mel Robbins - Stop waiting for the perfect moment It - December 28, 2024 | Mel Robbins - Its not what you say its what you do - December 28, 2024 | Les Brown - Your level of belief in yourself will - December 28, 2024 | Les Brown - You must be willing to do the things - December 28, 2024 | Les Brown - You have to know what you want and take - December 28, 2024 | Les Brown - You dont have to be great to get - December 28, 2024 | Les Brown - You are never too old to set another - December 28, 2024 | Les Brown - Someones opinion of you does not have - December 28, 2024 | Les Brown - Shoot for the moon Even if you miss it - December 28, 2024 | Les Brown - Set a goal so big that you cant - December 28, 2024 | Les Brown - Life has no limitations except the - December 28, 2024 | Les Brown - If you take responsibility for yourself - December 28, 2024 | Jim Rohn - Your life does not get better by - December 28, 2024 | Jim Rohn - You are the average of the five people - December 28, 2024 | Jim Rohn - Time is more valuable than money You - December 28, 2024 | Jim Rohn - Take care of your body Its the only - December 28, 2024 | Jim Rohn - Successful people do what unsuccessful - December 28, 2024 | Jim Rohn - If you want to make a change you have - December 28, 2024 | Jim Rohn - Formal education will make you a - December 28, 2024 | Jim Rohn - Either you run the day or the day runs - December 28, 2024 | Jim Rohn - Dont wish it were easier wish you - December 28, 2024 | Jim Rohn - Discipline is the bridge between goals - December 28, 2024 | Gabrielle Bernstein - Your thoughts are like boomerangs What - December 28, 2024 | Gabrielle Bernstein - You cannot be afraid of what people - December 28, 2024 | Gabrielle Bernstein - When you learn to love yourself youll - December 28, 2024 | Gabrielle Bernstein - When you choose to see the good in - December 28, 2024 | Gabrielle Bernstein - The universe has your back Trust that - December 28, 2024 | Gabrielle Bernstein - The more you lighten up the more you - December 28, 2024 | Gabrielle Bernstein - Self-love is the greatest middle finger - December 28, 2024 | Gabrielle Bernstein - Life is an unfolding of our highest - December 28, 2024 | Gabrielle Bernstein - Let your faith be bigger than your - December 28, 2024 | Gabrielle Bernstein - Gratitude is the shortcut to - December 28, 2024 | Eric Thomas - You dont have to be great to get - December 28, 2024 | Eric Thomas - You are the master of your own destiny - December 28, 2024 | Eric Thomas - Winners focus on winning losers focus - December 28, 2024 | Eric Thomas - When you want to succeed as bad as you - December 28, 2024 | Eric Thomas - The pain you feel today is the strength - December 28, 2024 | Eric Thomas - The only way to get a thing done is to - December 28, 2024 | Eric Thomas - Success is not for the weak and - December 28, 2024 | Eric Thomas - If you want to be successful you have - December 28, 2024 | Eric Thomas - I can I will I - December 28, 2024 | Eric Thomas - Dont make a habit out of choosing what - December 28, 2024 | Brené Brown - You can choose courage or you can - December 28, 2024 | Brené Brown - We cant be brave in the ways that - December 28, 2024 | Brené Brown - Vulnerability is the birthplace of - December 28, 2024 | Brené Brown - Shame thrives on secrecy silence and - December 28, 2024 | Brené Brown - Joy is the most vulnerable emotion we - December 28, 2024 | Brené Brown - If we want to find our way back to each - December 28, 2024 | Brené Brown - Daring to set boundaries is about - December 28, 2024 | Brené Brown - Courage starts with showing up and - December 28, 2024 | Brené Brown - Connection is why were here it gives - December 28, 2024 | Brené Brown - A willingness to show up changes us It - December 28, 2024 | bell hooks - When we invest in our children we are - December 28, 2024 | bell hooks - We can choose to let the experiences of - December 28, 2024 | bell hooks - To be in love is to be in a state of - December 28, 2024 | bell hooks - The only way to end violence is to stop - December 28, 2024 | bell hooks - The function of art is to do more than - December 28, 2024 | bell hooks - Resistance is a way of life it is a - December 28, 2024 | bell hooks - Love is an action a passion and a - December 28, 2024 | bell hooks - Life-transforming ideas have always - December 28, 2024 | bell hooks - Life is so much more than what you see - December 28, 2024 | bell hooks - Feminism is for - December 28, 2024 | Sigmund Freud - Where id was there ego shall - December 28, 2024 | Sigmund Freud - We are what we are because we have been - December 28, 2024 | Sigmund Freud - Unexpressed emotions will never die - December 28, 2024 | Sigmund Freud - The mind is like an iceberg it floats - December 28, 2024 | Sigmund Freud - The interpretation of dreams is the - December 28, 2024 | Sigmund Freud - The goal of all life is - December 28, 2024 | Sigmund Freud - The first human who hurled an insult - December 28, 2024 | Sigmund Freud - Sometimes a cigar is just a - December 28, 2024 | Sigmund Freud - Dreams are the royal road to the - December 28, 2024 | Sigmund Freud - Being entirely honest with oneself is a - December 28, 2024 | Rumi - You have to keep breaking your heart - December 28, 2024 | Rumi - You are not a drop in the ocean You - December 28, 2024 | Rumi - Where there is ruin there is hope for - December 28, 2024 | Rumi - When the soul lies down in that grass - December 28, 2024 | Rumi - Try not to resist the changes that come - December 28, 2024 | Rumi - The wound is the place where the Light - December 28, 2024 | Rumi - The only lasting beauty is the beauty - December 28, 2024 | Rumi - The moon stays bright when it doesnt - December 28, 2024 | Rumi - Let the beauty we love be what we - December 28, 2024 | Rumi - Dont grieve Anything you lose comes - December 28, 2024 | Patricia Love - When we feel connected we are more - December 28, 2024 | Patricia Love - True intimacy requires us to be both - December 28, 2024 | Patricia Love - To nurture love you must nurture the - December 28, 2024 | Patricia Love - The primary thing that love should do - December 28, 2024 | Patricia Love - Love thrives when there is mutual - December 28, 2024 | Patricia Love - Love is not something you find Love is - December 28, 2024 | Patricia Love - In a loving relationship we readily - December 28, 2024 | Patricia Love - Healthy love allows partners to grow as - December 28, 2024 | Patricia Love - Emotional connection is the foundation - December 28, 2024 | Patricia Love - Communication is a dance between - December 28, 2024 | Maya Angelou - You may not control all the events that - December 28, 2024 | Maya Angelou - You cant use up creativity The more - December 28, 2024 | Maya Angelou - We may encounter many defeats but we - December 28, 2024 | Maya Angelou - Try to be a rainbow in someones - December 28, 2024 | Maya Angelou - Nothing will work unless you - December 28, 2024 | Maya Angelou - Life is not measured by the number of - December 28, 2024 | Maya Angelou - Ive learned that people will forget - December 28, 2024 | Maya Angelou - If you dont like something change it - December 28, 2024 | Maya Angelou - I can be changed by what happens to me - December 28, 2024 | Maya Angelou - A hero is any person really intent on - December 28, 2024 | Khalil Gibran - Your soul is oftentimes a battlefield - December 28, 2024 | Khalil Gibran - Your friend is your needs - December 28, 2024 | Khalil Gibran - Yesterday we obeyed kings and bent our - December 28, 2024 | Khalil Gibran - Wisdom ceases to be wisdom when it - December 28, 2024 | Khalil Gibran - The only lasting beauty is the beauty - December 28, 2024 | Khalil Gibran - The most beautiful things in the world - December 28, 2024 | Khalil Gibran - Love knows not its own depth until the - December 28, 2024 | Khalil Gibran - Life without love is like a tree - December 28, 2024 | Khalil Gibran - Let there be no purpose in friendship - December 28, 2024 | Khalil Gibran - For it is in giving that we - December 28, 2024 | Erich Fromm - We cannot be sure that we are not - December 28, 2024 | Erich Fromm - To be fully alive fully human and - December 28, 2024 | Erich Fromm - The task we must set for ourselves is - December 28, 2024 | Erich Fromm - The main condition for the existence of - December 28, 2024 | Erich Fromm - The greatest product of human activity - December 28, 2024 | Erich Fromm - The fear of freedom is a consequence of - December 28, 2024 | Erich Fromm - Productive activity is not a means to - December 28, 2024 | Erich Fromm - Modern man thinks he loses his manhood - December 28, 2024 | Erich Fromm - Man is the only animal that can be - December 28, 2024 | Erich Fromm - Love is the only way to grasp another - December 28, 2024 | Elizabeth Gilbert - Your emotions are the slaves to your - December 28, 2024 | Elizabeth Gilbert - Your creativity is for you first and - December 28, 2024 | Elizabeth Gilbert - You need to stop and ask yourself Is - December 28, 2024 | Elizabeth Gilbert - You can measure your worth by the - December 28, 2024 | Elizabeth Gilbert - To be fully alive fully human and - December 28, 2024 | Elizabeth Gilbert - Theres something about the way in - December 28, 2024 | Elizabeth Gilbert - The only thing more difficult than - December 28, 2024 | Elizabeth Gilbert - It is not your job to be like anybody - December 28, 2024 | Elizabeth Gilbert - I think the best way to nurture your - December 28, 2024 | Elizabeth Gilbert - Embrace the glorious mess that you - December 28, 2024 | David Schnarch - When we become comfortable with our own - December 28, 2024 | David Schnarch - The quality of a relationship is - December 28, 2024 | David Schnarch - The goal of a mature relationship is to - December 28, 2024 | David Schnarch - The development of intimacy requires - December 28, 2024 | David Schnarch - Sexuality is often the last part of - December 28, 2024 | David Schnarch - Relationship success depends on how - December 28, 2024 | David Schnarch - Intimacy doesnt just happen its - December 28, 2024 | David Schnarch - In relationships understanding and - December 28, 2024 | David Schnarch - Growth in a relationship occurs when - December 28, 2024 | David Schnarch - Each partners ability to self-soothe - December 28, 2024 | CS Lewis - You can make anything by - December 28, 2024 | CS Lewis - You are never too old to set another - December 28, 2024 | CS Lewis - What you see and what you hear depends - December 28, 2024 | CS Lewis - We are what we believe we - December 28, 2024 | CS Lewis - To be a Christian means to forgive the - December 28, 2024 | CS Lewis - The load or burden of life is not so - December 28, 2024 | CS Lewis - The great thing to remember is that - December 28, 2024 | CS Lewis - Happiness is not what you get but what - December 28, 2024 | CS Lewis - Courage dear - December 28, 2024 | Tal Ben-Shahar - We cannot control what others do but - December 28, 2024 | Tal Ben-Shahar - True happiness arises from the - December 28, 2024 | Tal Ben-Shahar - To be happy we must not only think - December 28, 2024 | Tal Ben-Shahar - The key to happiness is not to pursue - December 28, 2024 | Tal Ben-Shahar - The greatest gift you can give yourself - December 28, 2024 | Tal Ben-Shahar - Mindfulness is a vital component of - December 28, 2024 | Tal Ben-Shahar - Happiness is not something that you can - December 28, 2024 | Tal Ben-Shahar - Happiness is a choice It is not a - December 28, 2024 | Tal Ben-Shahar - Embracing the full spectrum of our - December 28, 2024 | Tal Ben-Shahar - Building positive relationships is - December 28, 2024 | Sonja Lyubomirsky - You can choose actions that might lead - December 28, 2024 | Sonja Lyubomirsky - To be happy we need to embrace the - December 28, 2024 | Sonja Lyubomirsky - The roots of happiness are found in our - December 28, 2024 | Sonja Lyubomirsky - The pursuit of happiness overlaps with - December 28, 2024 | Sonja Lyubomirsky - Savoring is a powerful strategy for - December 28, 2024 | Sonja Lyubomirsky - Happiness is not a destination Its a - December 28, 2024 | Sonja Lyubomirsky - Happiness increases when we share it - December 28, 2024 | Sonja Lyubomirsky - Gratitude is not only the greatest of - December 28, 2024 | Sonja Lyubomirsky - Engaging in small acts of kindness can - December 28, 2024 | Sonja Lyubomirsky - Being actively engaged in the lives of - December 28, 2024 | Shawn Achor - We can train our brains to be more - December 28, 2024 | Shawn Achor - Turning positive experiences into - December 28, 2024 | Shawn Achor - The way we invest our time and energy - December 28, 2024 | Shawn Achor - The most successful people are those - December 28, 2024 | Shawn Achor - The greatest competitive advantage in - December 28, 2024 | Shawn Achor - Success is not just about what you - December 28, 2024 | Shawn Achor - Social connections are a key part of - December 28, 2024 | Shawn Achor - If we study what is merely average we - December 28, 2024 | Shawn Achor - Happiness is not the belief that we - December 28, 2024 | Shawn Achor - Happiness is a choice and the more you - December 28, 2024 | Randy Pausch - You just have to decide if you are a - December 28, 2024 | Randy Pausch - We cannot change the cards we are - December 28, 2024 | Randy Pausch - Treat the disease not the - December 28, 2024 | Randy Pausch - To achieve your dreams you have to be - December 28, 2024 | Randy Pausch - The best gift you can give someone is - December 28, 2024 | Randy Pausch - People are more important than - December 28, 2024 | Randy Pausch - Its not how long you live its how - December 28, 2024 | Randy Pausch - If youre not good at it you can still - December 28, 2024 | Randy Pausch - Experience is what you get when you - December 28, 2024 | Randy Pausch - Dream big and never give - December 28, 2024 | Mihaly Csikszentmihalyi - When we are involved in the activity - December 28, 2024 | Mihaly Csikszentmihalyi - What makes life worthwhile is not the - December 28, 2024 | Mihaly Csikszentmihalyi - They did not realize that it was the - December 28, 2024 | Mihaly Csikszentmihalyi - The key to a happy life is learning to - December 28, 2024 | Mihaly Csikszentmihalyi - The best moments in our lives happen - December 28, 2024 | Mihaly Csikszentmihalyi - People are happiest when they are in a - December 28, 2024 | Mihaly Csikszentmihalyi - In order to live a rich and fulfilling - December 28, 2024 | Mihaly Csikszentmihalyi - Flow is the state of being completely - December 28, 2024 | Mihaly Csikszentmihalyi - Creativity is a central source of - December 28, 2024 | Mihaly Csikszentmihalyi - A good life is a life where people are - December 28, 2024 | Martin Seligman - Well-being is made up of five elements - December 28, 2024 | Martin Seligman - We are not doomed to repeat the past - December 28, 2024 | Martin Seligman - The more readily we recognize our - December 28, 2024 | Martin Seligman - The mind is not separate from the body - December 28, 2024 | Martin Seligman - The good life is using your signature - December 28, 2024 | Martin Seligman - Resilience is a way of thinkinga way - December 28, 2024 | Martin Seligman - Positive psychology is a scientific - December 28, 2024 | Martin Seligman - It is the things we choose to attend to - December 28, 2024 | Martin Seligman - Happiness is not something ready made - December 28, 2024 | Martin Seligman - Authentic happiness comes from - December 28, 2024 | Gretchen Rubin - You cant make someone love you but - December 28, 2024 | Gretchen Rubin - What you do every day matters more than - December 28, 2024 | Gretchen Rubin - We cant control what happens to us - December 28, 2024 | Gretchen Rubin - To be happier you need to think about - December 28, 2024 | Gretchen Rubin - The way we spend our days is of - December 28, 2024 | Gretchen Rubin - The greatest best most important - December 28, 2024 | Gretchen Rubin - The days are long but the years are - December 28, 2024 | Gretchen Rubin - The best way to find yourself is to - December 28, 2024 | Gretchen Rubin - Happiness is not a destination Its - December 28, 2024 | Gretchen Rubin - Act the way you want to - December 28, 2024 | Elizabeth Gilbert - Your emotions are the slaves to your - December 28, 2024 | Elizabeth Gilbert - You need to learn how to select your - December 28, 2024 | Elizabeth Gilbert - You have to participate relentlessly - December 28, 2024 | Elizabeth Gilbert - We must risk - December 28, 2024 | Elizabeth Gilbert - To live is to be willing to die over - December 28, 2024 | Elizabeth Gilbert - The quest for a life of purpose is the - December 28, 2024 | Elizabeth Gilbert - The only way to deal with a fear is to - December 28, 2024 | Elizabeth Gilbert - If youre not doing something that - December 28, 2024 | Elizabeth Gilbert - I think creativity is a lot like a - December 28, 2024 | Elizabeth Gilbert - Fear is not an - December 28, 2024 | Dan Gilbert - You are too good at being yourself to - December 28, 2024 | Dan Gilbert - We often overestimate how long we will - December 28, 2024 | Dan Gilbert - We are not good at predicting what will - December 28, 2024 | Dan Gilbert - The wrong way to think about the future - December 28, 2024 | Dan Gilbert - The most important thing is to enjoy - December 28, 2024 | Dan Gilbert - The mind is a storyteller and its up - December 28, 2024 | Dan Gilbert - Our brains are designed to take - December 28, 2024 | Dan Gilbert - Living well is the best revenge but - December 28, 2024 | Dan Gilbert - Happiness is not something that you can - December 28, 2024 | Dan Gilbert - Being in a happy state of mind allows - December 28, 2024 | Dalai Lama - When you practice gratefulness there - December 28, 2024 | Dalai Lama - We can never obtain peace in the outer - December 28, 2024 | Dalai Lama - This is my simple religion There is no - December 28, 2024 | Dalai Lama - The purpose of our lives is to be - December 28, 2024 | Dalai Lama - The more we care for the happiness of - December 28, 2024 | Dalai Lama - My religion is very simple My religion - December 28, 2024 | Dalai Lama - Love and compassion are necessities - December 28, 2024 | Dalai Lama - In the practice of tolerance ones - December 28, 2024 | Dalai Lama - If you want others to be happy - December 28, 2024 | Dalai Lama - Happiness is not something ready made - December 28, 2024 | Tommy Lee Jones - You find something thats beautiful and - December 28, 2024 | Tommy Lee Jones - Whats important to me is that the - December 28, 2024 | Tommy Lee Jones - The thing about doing a movie is youre - December 28, 2024 | Tommy Lee Jones - People respect what you do when you - December 28, 2024 | Tommy Lee Jones - If youre blessed enough to have a - December 28, 2024 | Tommy Lee Jones - I think theres something in the - December 28, 2024 | Tommy Lee Jones - I think the best movies are the ones - December 28, 2024 | Tommy Lee Jones - I dont care about being famous I just - December 28, 2024 | Tommy Lee Jones - Character is the most important thing - December 28, 2024 | Tommy Lee Jones - Acting is not about being famous its - December 28, 2024 | Richard Bach - Youre always free to change your mind - December 28, 2024 | Richard Bach - You teach best what you need to learn - December 28, 2024 | Richard Bach - You are never given a wish without also - December 28, 2024 | Richard Bach - What the caterpillar calls the end of - December 28, 2024 | Richard Bach - The simplest thing is to see a little - December 28, 2024 | Richard Bach - The only thing that matters is how you - December 28, 2024 | Richard Bach - The bond that links your true family is - December 28, 2024 | Richard Bach - Life is like the ocean it goes up and - December 28, 2024 | Richard Bach - Flying is the perfect metaphor for the - December 28, 2024 | Richard Bach - Argue for your limitations and sure - December 28, 2024 | Ralph Waldo Emerson - What lies behind us and what lies - December 28, 2024 | Ralph Waldo Emerson - To be yourself in a world that is - December 28, 2024 | Ralph Waldo Emerson - The only way to have a friend is to be - December 28, 2024 | Ralph Waldo Emerson - The only person you are destined to - December 28, 2024 | Ralph Waldo Emerson - The earth laughs in - December 28, 2024 | Ralph Waldo Emerson - Success is not the result of - December 28, 2024 | Ralph Waldo Emerson - Life is a journey not a - December 28, 2024 | Ralph Waldo Emerson - He who is not a good servant will not - December 28, 2024 | Ralph Waldo Emerson - For every minute you are angry you lose - December 28, 2024 | Ralph Waldo Emerson - Do not go where the path may lead go - December 28, 2024 | Maya Angelou - You may not control all the events that - December 28, 2024 | Maya Angelou - You cant use up creativity The more - December 28, 2024 | Maya Angelou - We may encounter many defeats but we - December 28, 2024 | Maya Angelou - Try to be a rainbow in someones - December 28, 2024 | Maya Angelou - The desire to reach for the stars is - December 28, 2024 | Maya Angelou - Nothing will work unless you - December 28, 2024 | Maya Angelou - Ive learned that people will forget - December 28, 2024 | Maya Angelou - If you dont like something change it - December 28, 2024 | Maya Angelou - I can be changed by what happens to me - December 28, 2024 | Maya Angelou - I am grateful to be a woman I must - December 28, 2024 | Martin Buber - You cannot be aware of your awareness - December 28, 2024 | Martin Buber - When two people relate to each other - December 28, 2024 | Martin Buber - To become aware of oneself is to become - December 28, 2024 | Martin Buber - The world is not a mere aggregation of - December 28, 2024 | Martin Buber - The way to God is in your relationship - December 28, 2024 | Martin Buber - The more we realize love in its - December 28, 2024 | Martin Buber - Life is not a mere matter of being - December 28, 2024 | Martin Buber - In the beginning is the - December 28, 2024 | Martin Buber - An adult is a child who has become old - December 28, 2024 | Martin Buber - All real living is - December 28, 2024 | Helen Keller - What we have once enjoyed we can never - December 28, 2024 | Helen Keller - The only thing worse than being blind - December 28, 2024 | Helen Keller - The most pathetic person in the world - December 28, 2024 | Helen Keller - The highest result of education is - December 28, 2024 | Helen Keller - Optimism is the faith that leads to - December 28, 2024 | Helen Keller - Once I knew only darkness and - December 28, 2024 | Helen Keller - Life is either a daring adventure or - December 28, 2024 | Helen Keller - Keep your face to the sunshine and you - December 28, 2024 | Helen Keller - It is better to be blind and see with - December 28, 2024 | Helen Keller - Alone we can do so little together we - December 28, 2024 | Dalai Lama - We can never obtain peace in the outer - December 28, 2024 | Dalai Lama - Through violence you may solve one - December 28, 2024 | Dalai Lama - This is my simple religion There is no - December 28, 2024 | Dalai Lama - The ultimate source of happiness is not - December 28, 2024 | Dalai Lama - The purpose of our lives is to be - December 28, 2024 | Dalai Lama - The more we care for the happiness of - December 28, 2024 | Dalai Lama - Love and compassion are necessities - December 28, 2024 | Dalai Lama - In order to carry a positive action we - December 28, 2024 | Dalai Lama - If you want others to be happy - December 28, 2024 | Dalai Lama - Happiness is not something ready made - December 28, 2024 | CS Lewis - You can make anything by - December 28, 2024 | CS Lewis - You are never too old to set another - December 28, 2024 | CS Lewis - What you see and what you hear depends - December 28, 2024 | CS Lewis - We are what we believe we - December 28, 2024 | CS Lewis - There are no ordinary people You have - December 28, 2024 | CS Lewis - The task of the modern educator is not - December 28, 2024 | CS Lewis - The great thing to remember is that - December 28, 2024 | CS Lewis - Friendship is born at that moment when - December 28, 2024 | CS Lewis - Courage dear - December 28, 2024 | Brené Brown - You cannot selectively numb emotions - December 28, 2024 | Brené Brown - When we spend our lives waiting for - December 28, 2024 | Brené Brown - Vulnerability is the birthplace of - December 28, 2024 | Brené Brown - To love ourselves and support each - December 28, 2024 | Brené Brown - The willingness to show up changes us - December 28, 2024 | Brené Brown - Shame is the most powerful master - December 28, 2024 | Brené Brown - Perfectionism is a self-destructive and - December 28, 2024 | Brené Brown - Owning our story can be hard but not - December 28, 2024 | Brené Brown - Empathy is simply listening holding - December 28, 2024 | Brené Brown - Courage starts with showing up and - December 28, 2024 | Aristotle - What is a friend A single soul - December 28, 2024 | Aristotle - We are what we repeatedly do - December 28, 2024 | Aristotle - Those who know do those that - December 28, 2024 | Aristotle - The whole is greater than the sum of - December 28, 2024 | Aristotle - The more you know the more you realize - December 28, 2024 | Aristotle - Pleasure in the job puts perfection in - December 28, 2024 | Aristotle - Patience is bitter but its fruit is - December 28, 2024 | Aristotle - Knowing yourself is the beginning of - December 28, 2024 | Aristotle - It is the mark of an educated mind to - December 28, 2024 | Aristotle - Happiness depends upon - December 28, 2024 | . ",
+    "url": "/quotes/",
+    
+    "relUrl": "/quotes/"
+  }
+}
