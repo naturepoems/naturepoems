@@ -23,13 +23,14 @@ class QuoteCollection(BaseModel):
     quotes: list[Quote]
 
 
-def get_author_quotes(author, num=2):
+def get_author_quotes(author, subject, num=2):
     completion = client.beta.chat.completions.parse(
         model="gpt-4o-mini",
         messages=[
-            {"role": "system", "content": "I need some poems from the following author."},
-            {"role": "system", "content": "Dont repeat quotes."},
-            {"role": "user", "content": f"I need up to {num} poems from the author, {author}"},
+            {"role": "system", "content": f"I need some poems from the following author: {author} "},
+            {"role": "system", "content": "Dont repeat poems."},
+            {"role": "system", "content": f"Ensure all poems are nature poems part of the poetic movement {subject}"},
+            {"role": "user", "content": f"Please provide up to {num} poems from the author"},
         ],
         response_format=QuoteCollection,
     )
@@ -38,7 +39,7 @@ def get_author_quotes(author, num=2):
     response_content = completion.choices[0].message.parsed
     return response_content
 
-def get_authors_quotes(authors, num=2):
+def get_authors_quotes(authors, subject, num=2):
     all_quotes={}
     for author in authors:
         pattern = r'[^a-zA-ZáéíóúÁÉÍÓÚñÑ\s-]'
@@ -46,7 +47,7 @@ def get_authors_quotes(authors, num=2):
         author_name=re.sub(pattern, '', author.name)
         print(f"Getting quotes for {author_name}")
         try:
-            quotes=get_author_quotes(author_name, num=num)
+            quotes=get_author_quotes(author_name, subject=subject num=num)
             all_quotes[author_name]=quotes
         except Exception as e:
             print(f"exception: ",e)
@@ -61,7 +62,7 @@ def get_subject_authors(subject, num=2):
         messages=[
             {"role": "system", "content": f"I need a list of poets with works in the {subject} and a brief description about the person"},
             {"role": "system", "content": "Dont repeat people, ensure they are associated directly with the subject"},
-            {"role": "user", "content": f"I need up to {num} people who have written poems as a part of the movement: {subject}"},
+            {"role": "user", "content": f"I need up to {num} people who have written nature poems as a part of the movement: {subject}"},
         ],
         response_format=AuthorCollection,
     )
@@ -103,7 +104,7 @@ def write_subject(subject):
         print("Failed to retrieve valid authors.")
         return
 
-    quotes=get_authors_quotes(authors, num=10)
+    quotes=get_authors_quotes(authors, subject=subject, num=10)
     for k,v in quotes.items():
         print(quotes[k].quotes)
         write_quote_collection(quotes[k].quotes, subject=subject)
