@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Hermann Hesse - Die Wolken ziehen 
+traumhaft über"
+date: 2024-12-28 12:00:00 -0000
+author: Hermann Hesse
+quote: "Die Wolken ziehen, 
+traumhaft über sanfte Hügel, 
+Stille, die umarmt."
+subject: Haiku in German Expressionism (1910s)
+permalink: /Haiku in German Expressionism (1910s)/Hermann Hesse/Hermann Hesse - Die Wolken ziehen 
+traumhaft über
+---
+
+Die Wolken ziehen, 
+traumhaft über sanfte Hügel, 
+Stille, die umarmt.
+
+- Hermann Hesse
