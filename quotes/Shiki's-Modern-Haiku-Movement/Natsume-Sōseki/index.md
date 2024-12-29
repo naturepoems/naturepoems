@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Natsume Sōseki
-description: "Natsume Sōseki (1867–1916) was a novelist and haiku poet who contributed to the modern haiku movement, emphasizing the relationship between humanity and nature in his work, thus aligning with Shiki's vision."
+description: "Although primarily known as a novelist, Natsume Sōseki (1867-1916) was also a poet associated with the modern haiku movement. He wrote haiku that often explored themes of nature, reflecting his deep appreciation for the natural world."
 subject: "Shiki's Modern Haiku Movement"
 parent: Shiki's Modern Haiku Movement
 permalink: /Shiki's Modern Haiku Movement/authors/Natsume-Sōseki/

@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Kobayashi Issa
-description: "Kobayashi Issa (1763-1828) is known for his empathetic view of the natural world and human experience. His haiku frequently express themes of compassion and simplicity, often portraying natural elements in a direct and personal manner."
+description: "Issa (1763-1828) is celebrated for his empathy and humor in his nature-themed haiku. His poems often reflect a deep affection for small creatures and the human experience, as seen in his famous piece 'Ode to a Cricket'."
 subject: "Classical Haiku (Bashō, Buson, Issa)"
 parent: Classical Haiku (Bashō, Buson, Issa)
 permalink: /Classical Haiku (Bashō, Buson, Issa)/authors/Kobayashi-Issa/

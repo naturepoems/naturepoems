@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Masaoka Shiki
-description: "Masaoka Shiki (1867–1902) is often considered the father of modern haiku and redefined it through his advocacy for realism and new stylistic approaches. He insisted on the importance of personal experience and observation in nature writing."
+description: "Considered the father of modern haiku, Masaoka Shiki (1867-1902) advocated for a shift from the traditional haiku forms to a more realistic and naturalistic approach. He emphasized the importance of personal experience and observation in nature."
 subject: "Shiki's Modern Haiku Movement"
 parent: Shiki's Modern Haiku Movement
 permalink: /Shiki's Modern Haiku Movement/authors/Masaoka-Shiki/

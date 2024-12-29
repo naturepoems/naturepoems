@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Seishi Yamaguchi
-description: "Seishi Yamaguchi (1945-present) has gained recognition for his contemporary haiku which continue the classical traditions of Bashō and Issa. His works often reflect a meditative approach to nature and everyday observations."
+description: "Yamaguchi (1907-1993) contributed to the haiku movement with a focus on urban nature and the interplay between human existence and the natural environment in his succinct verses."
 subject: "Classical Haiku (Bashō, Buson, Issa)"
 parent: Classical Haiku (Bashō, Buson, Issa)
 permalink: /Classical Haiku (Bashō, Buson, Issa)/authors/Seishi-Yamaguchi/

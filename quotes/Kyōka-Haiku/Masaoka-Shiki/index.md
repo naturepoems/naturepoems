@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Masaoka Shiki
-description: "Shiki was a prominent Japanese haiku poet and a key figure in reviving haiku from its rigid forms. He is known for his advocacy of naturalness in poetry, which greatly influenced the Kyōka Haiku movement."
+description: "A pivotal figure in modernizing haiku, Shiki emphasized realism in his poetry. His nature-themed Kyōka haiku often explored human emotion in relation to the natural world."
 subject: "Kyōka Haiku"
 parent: Kyōka Haiku
 permalink: /Kyōka Haiku/authors/Masaoka-Shiki/

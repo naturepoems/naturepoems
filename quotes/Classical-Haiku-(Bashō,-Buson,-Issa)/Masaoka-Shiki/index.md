@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Masaoka Shiki
-description: "Masaoka Shiki (1867-1902) is credited with the modernization of haiku. While he deviated from traditional styles, his focus on nature and the seasons remains prominent in his work, paving the way for future haiku poets."
+description: "Shiki (1867-1902) was instrumental in the modernization of haiku, blending traditional forms with new themes. He wrote extensively on nature, capturing the essence of seasons and landscapes in his works."
 subject: "Classical Haiku (Bashō, Buson, Issa)"
 parent: Classical Haiku (Bashō, Buson, Issa)
 permalink: /Classical Haiku (Bashō, Buson, Issa)/authors/Masaoka-Shiki/

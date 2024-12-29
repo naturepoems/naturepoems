@@ -17,7 +17,8 @@ class AuthorCollection(BaseModel):
 
 class Quote(BaseModel):
     text: str
-    author: str 
+    author: str
+    title: str 
 
 class QuoteCollection(BaseModel):
     quotes: list[Quote]
@@ -28,7 +29,7 @@ def get_author_quotes(author, subject, num=2):
         model="gpt-4o-mini",
         messages=[
             {"role": "system", "content": f"I need some nature poems from the following author: {author} "},
-            {"role": "system", "content": "Dont repeat poems."},
+            {"role": "system", "content": f"In your response I need the poem title and the poem itself"},
             {"role": "system", "content": f"Ensure all poems are nature poems part of the poetic movement {subject}"},
             {"role": "system", "content": "If possible, preserve the poems original form - line breaks, punctuation, etc."},
             {"role": "user", "content": f"Please provide up to {num} poems from the author"},
@@ -86,12 +87,12 @@ def write_quote_collection(collection, subject="unknown", ):
         author_name=re.sub(pattern, '', quote.author)
         pattern = r'[<>:"/\\|?*\x00-\x1F]'
         author_name = re.sub(pattern, '', author_name)
-        write_quote_to_jekyll_page(subject, quote.text, author_name)
+        write_quote_to_jekyll_page(subject, quote.text, author_name, quote.title)
         #create_author_index(quote.author, subject, description="No Description" )
         #create_subject_index(subject)
 
-def write_subject(subject):
-    authors=get_subject_authors(subject, num=10).authors
+def write_subject(subject, num=10):
+    authors=get_subject_authors(subject, num=num).authors
     create_subject_index(subject)
     #authors=get_buddhist_authors().authors
     print (type(authors))
@@ -109,7 +110,7 @@ def write_subject(subject):
         print("Failed to retrieve valid authors.")
         return
 
-    quotes=get_authors_quotes(authors, subject=subject, num=10)
+    quotes=get_authors_quotes(authors, subject=subject, num=num)
     for k,v in quotes.items():
         print(quotes[k].quotes)
         write_quote_collection(quotes[k].quotes, subject=subject)
@@ -241,6 +242,12 @@ def main():
     "Philosophical Nature Poetry (19th–Early 20th century)",  # Nature as a source of philosophical reflection and insight in poetry
     "Post-War Nature Poetry (Post-1930)",  # Late 20th-century poets grappling with nature after the World Wars
     "Futurist Nature Poetry (Early 20th century)",  # Poets influenced by Futurism that still explore nature through futuristic lenses
+    ]
+    subjects=[
+    "Classical Haiku (Bashō, Buson, Issa)",  # Japanese haiku with deep nature themes
+    "Shiki's Modern Haiku Movement",  # Haiku focusing on nature's simplicity
+    "Kyōka Haiku",  # Humorous yet nature-focused Japanese haiku
+    "Haikai no Renga Tradition",  # Collaborative renga focused on nature themes
     ]
 
 

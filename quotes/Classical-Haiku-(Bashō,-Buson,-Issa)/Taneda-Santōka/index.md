@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Taneda Santōka
-description: "Taneda Santōka (1882-1940) was a wandering monk whose haiku reflect the beauty of nature and the human spirit's quest for peace. His free-verse style incorporates elements of traditional haiku while focusing on personal experiences."
+description: "Known for his free-spirited lifestyle, Santōka (1882-1940) wrote haiku that reflect his wandering life and observations of nature, imbuing a sense of solitude and reflection in his poetry."
 subject: "Classical Haiku (Bashō, Buson, Issa)"
 parent: Classical Haiku (Bashō, Buson, Issa)
 permalink: /Classical Haiku (Bashō, Buson, Issa)/authors/Taneda-Santōka/

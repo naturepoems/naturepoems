@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Matsuo Bashō
-description: "Often considered the master of haiku, Matsuo Bashō (1644-1694) was a Japanese poet who elevated the art of haikai no renga. His works often reflect a deep appreciation and insight into nature, blending serene observations of the natural world with profound philosophical significance."
+description: "A master of Haiku and foundational figure in the Haikai no Renga tradition, Bashō's works often reflect deep appreciation for nature, capturing fleeting moments and the beauty of the natural world."
 subject: "Haikai no Renga Tradition"
 parent: Haikai no Renga Tradition
 permalink: /Haikai no Renga Tradition/authors/Matsuo-Bashō/

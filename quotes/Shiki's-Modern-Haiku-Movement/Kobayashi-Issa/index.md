@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Kobayashi Issa
-description: "Kobayashi Issa (1763–1828) was known for his ability to convey deep emotion through simple language, capturing the beauty of nature and the human experience. His work greatly influenced Shiki's modern approach to haiku."
+description: "Kobayashi Issa (1763-1828) is sometimes included in discussions of modern haiku for his deeply personal and nature-infused haiku. His works reflect a strong connection to the natural environment and a compassionate observation of life."
 subject: "Shiki's Modern Haiku Movement"
 parent: Shiki's Modern Haiku Movement
 permalink: /Shiki's Modern Haiku Movement/authors/Kobayashi-Issa/

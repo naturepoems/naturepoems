@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Sōseki Natsume
-description: "Sōseki Natsume (1867-1916), though primarily known as a novelist, also engaged in writing poetry influenced by the haikai no renga tradition. He often infused his nature poems with a sense of introspection and allegory."
+description: "Primarily a novelist, Natsume also engaged with poetry, contributing to the Haikai no Renga tradition, illustrating nature's role in human life through his poetic voice."
 subject: "Haikai no Renga Tradition"
 parent: Haikai no Renga Tradition
 permalink: /Haikai no Renga Tradition/authors/Sōseki-Natsume/
