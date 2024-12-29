@@ -2,7 +2,7 @@
 title: Home
 layout: home
 nav_order: 1
-description: "Poems"
+description: "Nature Poems"
 permalink: /
 ---
 
