@@ -45,6 +45,8 @@ def get_authors_quotes(authors, subject, num=2):
         pattern = r'[^a-zA-ZáéíóúÁÉÍÓÚñÑ\s-]'
         pattern=r'[^a-zA-Z0-9\s\-_À-ÿ\u0100-\u017F\u0400-\u04FF]'
         author_name=re.sub(pattern, '', author.name)
+        pattern = r'[<>:"/\\|?*\x00-\x1F]'
+        author_name= re.sub(pattern, '', author_name)
         print(f"Getting quotes for {author_name}")
         try:
             quotes=get_author_quotes(author_name, subject=subject, num=num)
@@ -81,6 +83,8 @@ def write_quote_collection(collection, subject="unknown", ):
         pattern = r'[^a-zA-ZáéíóúÁÉÍÓÚñÑ\s-]'
         pattern=r'[^a-zA-Z0-9\s\-_À-ÿ\u0100-\u017F\u0400-\u04FF]'
         author_name=re.sub(pattern, '', quote.author)
+        pattern = r'[<>:"/\\|?*\x00-\x1F]'
+        author_name = re.sub(pattern, '', author_name)
         write_quote_to_jekyll_page(subject, quote.text, author_name)
         #create_author_index(quote.author, subject, description="No Description" )
         #create_subject_index(subject)
@@ -139,13 +143,13 @@ def main():
     "The Influence of Haiku on Western Modernist Poets",  # Non-Japanese
     "Haiku in the French Avant-Garde (1910s–1920s)",  # Non-Japanese
     "Japanese Haiku and the Symbolist Movement (Late 19th–Early 20th century)",  # Non-Japanese
-    "Haiku and the French Symbolist Poets (e.g., Verlaine, Mallarmé)",  # Non-Japanese
+    "Haiku and the French Symbolist Poets",  # Non-Japanese
     "Haiku's Role in the British Modernist Poets' Works (Early 20th century)",  # Non-Japanese
     "The British Haiku Movement (1900–1930)",  # Non-Japanese
     "Haiku and the Futurist Movement in Italy (1910s)",  # Non-Japanese
     "Haiku and Minimalism in Western Art (1910s–1920s)",  # Non-Japanese
     "Haiku as Part of the Imagist Anthologies (1910s–1920s)",  # Non-Japanese
-    "Transcendental Haiku (Emerson, Thoreau, etc.)",  # Non-Japanese
+    "Transcendental Haiku",  # Non-Japanese
     "Dadaists and Haiku (1910s–1920s)",  # Non-Japanese
     "Haiku in the American Modernist Poets' Works",  # Non-Japanese
     "Haiku Influence on Gertrude Stein and the Parisian Avant-Garde (1910s)",  # Non-Japanese

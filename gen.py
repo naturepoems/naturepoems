@@ -116,14 +116,12 @@ def write_subject(subject):
 
 # Main function to execute the script and print the results
 def main():
-    """
     subjects = [
     # Japanese Haiku Traditions (already included previously)
     "Early Haiku Masters (17th–18th centuries)",  # Japanese
     "Meiji Period Haiku (1868–1912)",  # Japanese
     "Taishō Period Haiku (1912–1926)",  # Japanese
-    """
-    subjects= ["Shiki's Modern Haiku Movement",  # Japanese
+    "Shiki's Modern Haiku Movement",  # Japanese
     "Classical Haiku (Bashō, Buson, Issa)",  # Japanese
     "Haikai no Renga Tradition",  # Japanese
     "Kyōka Haiku",  # Japanese
