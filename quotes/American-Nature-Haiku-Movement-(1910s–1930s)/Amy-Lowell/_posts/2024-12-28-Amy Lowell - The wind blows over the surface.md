@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Amy Lowell - The wind blows over the surface"
+date: 2024-12-28 12:00:00 -0000
+author: Amy Lowell
+quote: "The wind blows over the surface  "
+subject: American Nature Haiku Movement (1910s–1930s)
+permalink: /American Nature Haiku Movement (1910s–1930s)/Amy Lowell/Amy Lowell - The wind blows over the surface
+---
+
+The wind blows over the surface  
+Of the lake,  
+And the ripples chase one another  
+With laughing faces.  
+A lily floats in the waters,  
+And the sun glints down through  
+The dark green leaves.  
+I am alone,  
+Yet I am not lonely.  
+-- Amy Lowell
+
+- Amy Lowell
