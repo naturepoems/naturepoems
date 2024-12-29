@@ -16,5 +16,8 @@ permalink: /
 
 ## Getting started
 {: .note }
-Take a look around. Find some poems. Read some things.
+Take a look around
+Find some nature poems here 
+Read some things, maybe
+
 
