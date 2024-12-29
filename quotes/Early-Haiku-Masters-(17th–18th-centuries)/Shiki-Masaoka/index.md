@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Shiki Masaoka
-description: "Masaoka Shiki (1867-1902), though slightly later than the traditional 17th–18th century haiku masters, is known for his contributions to revitalizing the haiku form and emphasizing observational nature poetry. He is also credited with coining the term 'haiku' and is revered for his work that captures seasonal changes and the subtleties of nature."
+description: "Shiki, a key figure in the modernization of haiku, wrote extensively about nature, capturing its transient beauty and the seasonal cycles. His works laid a foundation for the evolution of haiku poetry."
 subject: "Early Haiku Masters (17th–18th centuries)"
 parent: Early Haiku Masters (17th–18th centuries)
 permalink: /Early Haiku Masters (17th–18th centuries)/authors/Shiki-Masaoka/

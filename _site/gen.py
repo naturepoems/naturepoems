@@ -27,9 +27,10 @@ def get_author_quotes(author, subject, num=2):
     completion = client.beta.chat.completions.parse(
         model="gpt-4o-mini",
         messages=[
-            {"role": "system", "content": f"I need some poems from the following author: {author} "},
+            {"role": "system", "content": f"I need some nature poems from the following author: {author} "},
             {"role": "system", "content": "Dont repeat poems."},
             {"role": "system", "content": f"Ensure all poems are nature poems part of the poetic movement {subject}"},
+            {"role": "system", "content": "If possible, preserve the poems original form - line breaks, punctuation, etc."},
             {"role": "user", "content": f"Please provide up to {num} poems from the author"},
         ],
         response_format=QuoteCollection,
@@ -159,8 +160,88 @@ def main():
     "Haiku and the New York School Poets (1920s)",  # Non-Japanese
     "Haiku's Influence on Modernist Short-Form Poetry (1910s–1930s)",  # Non-Japanese
     "Haiku and its Use in Post-Impressionist Art and Literature (Early 20th century)",  # Non-Japanese
-    "Influence of Haiku on American Beat Poets (late 1920s–1940s)"  # Non-Japanese
-]
+    "Influence of Haiku on American Beat Poets (late 1920s–1940s)"  # Non-Japanese 
+    ]
+
+    subjects= [
+    # Japanese Nature Haiku Movements
+    "Early Haiku Masters (17th–18th centuries)",  # Japanese haiku focused on nature
+    "Classical Haiku (Bashō, Buson, Issa)",  # Japanese haiku with deep nature themes
+    "Shiki's Modern Haiku Movement",  # Haiku focusing on nature's simplicity
+    "Kyōka Haiku",  # Humorous yet nature-focused Japanese haiku
+    "Haikai no Renga Tradition",  # Collaborative renga focused on nature themes
+    "Haiku as a Popular Literary Form (Late 19th century)",  # Emergence of nature-based haiku
+    "Haiku in the Edo Period (1603–1868)",  # Traditional haiku with nature themes
+    "Haiku in the Meiji Period (1868–1912)",  # Nature poetry as part of modernization
+    "Haiku and Zen Buddhism",  # Zen influences on nature-centric haiku
+    "Modern Japanese Haiku (20th century)",  # Post-World War II haiku with nature themes
+
+    # Western Nature Poetry Movements
+    "Romanticism (Late 18th–Mid-19th century)",  # Nature as the central theme in poetry
+    "Transcendentalism (1830s–1850s)",  # American poets like Thoreau and Emerson, nature-focused
+    "The Hudson River School Poets (19th century)",  # Nature-focused American poetry
+    "Nature Poetry in the British Romantic Period (1800–1850)",  # Keats, Wordsworth, Shelley, nature-focused
+    "The Pre-Raphaelite Brotherhood (1850s–1860s)",  # English poets with strong nature themes
+    "American Nature Poets (19th century)",  # Emerson, Whitman, Dickinson (nature-centric poems)
+    "Imagist Movement and Nature (Early 20th century)",  # Nature observed in concise, clear terms
+    "Naturalism (Late 19th century)",  # Nature's harsh realities in poetry (e.g., Crane)
+    "American Realism and Nature Poetry (Late 19th–Early 20th century)",  # Focus on nature's authenticity
+    "The French Symbolist Movement (Late 19th century)",  # Nature seen as a symbol for deeper meanings
+    "Haiku in the English-Speaking World (Early 20th century)",  # Nature-haiku influence in English
+    "American Nature Haiku Movement (1910s–1930s)",  # Adoption of Japanese haiku in American nature poetry
+    "British Nature Poetry (19th century)",  # Poets like John Clare, nature-centric verse
+    "The Chicago Imagists (1920s–1930s)",  # A modernist group exploring nature through minimalist forms
+    "Dadaism and Nature (1910s–1920s)",  # Experimental nature-focused poetry within the Dada movement
+    "French Romanticism and Nature (Early 19th century)",  # Nature as a source of poetic inspiration in France
+    "Futurism and Nature (Early 20th century)",  # Nature interpreted through new artistic lenses
+    "The Haiku Influence on Modern Nature Poetry (1910s–1920s)",  # Western poets influenced by Japanese haiku's focus on nature
+    "Post-Impressionist Poets and Nature (Late 19th–Early 20th century)",  # Nature explored through visual poetry
+    "American Modernism and Nature (1910s–1930s)",  # Nature in the context of modern American poetry
+    "Early Eco-Poetry and Nature (Early 20th century)",  # Emerging environmental themes in poetry
+
+    # Expanded Western Nature Movements
+    "The Bloomsbury Group and Nature (1910s–1930s)",  # Exploration of nature in the context of modernist thought
+    "Victorian Nature Poetry (1837–1901)",  # Nature's complexities in Victorian literature
+    "The Beat Generation and Nature (1940s–1950s)",  # A late influence of nature in poetry, connected with spirituality
+    "The Nature Poets of the American South (19th–Early 20th century)",  # Focus on Southern landscapes and nature
+    "Renaissance Nature Poetry (16th century)",  # Nature's symbolic and spiritual meaning in Renaissance poetry
+    "Post-Romantic Nature in European Poetry (Mid 19th century)",  # Nature after the Romantic period in Europe
+    "The Lake Poets and Nature (1790s–1820s)",  # William Wordsworth and others focused on nature’s spiritual influence
+    "French Realism and Nature (Mid 19th century)",  # Nature’s representation of real life (e.g., Flaubert, Zola)
+    "British Neo-Romanticism (Early 20th century)",  # Poets focusing on nature in a post-Romantic context
+    "Modernist Nature Writing in Spain (1920s)",  # Early 20th-century Spanish poets reflecting on nature
+    "The Nature and Animal Poetry Movement (19th–20th century)",  # Poets concerned with animals and their relationships with nature
+    "Nature in New Zealand Poetry (Late 19th–Early 20th century)",  # Poetic focus on the landscape and environment
+    "Scandinavian Nature Poetry (Late 19th century)",  # Nature as a theme in Swedish, Norwegian, and Danish poetry
+    "Nature in Russian Symbolism (Late 19th century)",  # Russian poets incorporating nature into symbolic meaning
+    "The Natural World in Early 20th Century Australian Poetry",  # Nature-focused poets in Australia
+    "Canadian Nature Poets (Late 19th–Early 20th century)",  # Poets like Archibald Lampman focusing on Canadian landscapes
+    "The Romantic Poets of the Iberian Peninsula (19th century)",  # Spanish and Portuguese poets with nature as a theme
+    "Modern Nature Poetry in South America",  # Poets reflecting on the natural world in Latin America
+    "African Nature Poets (19th–Early 20th century)",  # African poets using nature as a metaphor or focus
+    "Modernist Nature Writing in Italy (Early 20th century)",  # Italian poets embracing nature in modernist contexts
+    "The Nature Poets of the Baltic States (Early 20th century)",  # Poets from Estonia, Latvia, and Lithuania with nature-centric works
+    "Modern Nature Poetry in Poland (Early 20th century)",  # Polish poets writing on nature through modernist lenses
+
+    # Additional Expansions
+    "Ecofeminist Poetry and Nature (Late 19th–Early 20th century)",  # Poetic focus on women's connection to nature
+    "Anthropocentric Nature Poetry (Early 20th century)",  # Nature seen through the lens of human relations
+    "Imagism's Influence on Nature (Early 20th century)",  # The Imagist movement's influence on nature poems in Europe and America
+    "Ecosophy in Poetry (Early 20th century)",  # Environmental philosophy influencing poetry
+    "Psychological Nature Poetry (20th century)",  # Nature as a reflection of human psychology in poetry
+    "Romanticized Nature Poetry in Colonial Contexts (19th century)",  # Exploration of nature from colonial perspectives
+    "Symbolist Nature Poetry (19th–20th century)",  # Nature as an expression of the subconscious and symbols
+    "Lyrical Nature Writing (Late 19th–Early 20th century)",  # Poets using nature as a form of lyrical expression
+    "The Nature of Childhood in Poetry (19th–Early 20th century)",  # Nature as seen through the eyes of children in literature
+    "Nature as Political Allegory (Early 20th century)",  # Poets using nature as a metaphor for political movements and struggles
+    "Nature and the Sublime in Literature (18th–19th century)",  # Nature viewed as awe-inspiring and sublime, especially in the romantic tradition
+    "Mythological Nature Poetry (19th–20th century)",  # The use of myth and folklore to represent nature in poetry
+    "The Wilds of Nature in Exploration Poetry (19th–Early 20th century)",  # Poets inspired by the exploration of wild, uncharted territories
+    "Poetry of Environmental Crisis (Early 20th century)",  # Poets writing about environmental degradation and the loss of nature
+    "Philosophical Nature Poetry (19th–Early 20th century)",  # Nature as a source of philosophical reflection and insight in poetry
+    "Post-War Nature Poetry (Post-1930)",  # Late 20th-century poets grappling with nature after the World Wars
+    "Futurist Nature Poetry (Early 20th century)",  # Poets influenced by Futurism that still explore nature through futuristic lenses
+    ]
 
 
     for subject in subjects:

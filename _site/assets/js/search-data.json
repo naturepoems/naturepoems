@@ -1,7 +1,7 @@
 {"0": {
     "doc": "Home",
     "title": "Getting started",
-    "content": "Take a look around Find some nature poems here Read some things, maybe . ",
+    "content": "Take a look around . Find some nature poems here . Read some things, maybe . ",
     "url": "/#getting-started",
     
     "relUrl": "/#getting-started"
@@ -13,12 +13,12 @@
     
     "relUrl": "/"
   },"2": {
-    "doc": "Sōgi",
-    "title": "Sōgi",
-    "content": "Welcome to the page of Sōgi! Here you can find their quotes. ",
-    "url": "/Early%20Haiku%20Masters%20(17th%E2%80%9318th%20centuries)/authors/S%C5%8Dgi/",
+    "doc": "Matsuo Bashō",
+    "title": "Matsuo Bashō",
+    "content": "Welcome to the page of Matsuo Bashō! Here you can find their quotes. ",
+    "url": "/Early%20Haiku%20Masters%20(17th%E2%80%9318th%20centuries)/authors/Matsuo-Bash%C5%8D/",
     
-    "relUrl": "/Early Haiku Masters (17th–18th centuries)/authors/Sōgi/"
+    "relUrl": "/Early Haiku Masters (17th–18th centuries)/authors/Matsuo-Bashō/"
   },"3": {
     "doc": "Yosa Buson",
     "title": "Yosa Buson",
@@ -34,146 +34,839 @@
     
     "relUrl": "/Early Haiku Masters (17th–18th centuries)/authors/Shiki-Masaoka/"
   },"5": {
-    "doc": "Takarai Sanya",
-    "title": "Takarai Sanya",
-    "content": "Welcome to the page of Takarai Sanya! Here you can find their quotes. ",
-    "url": "/Early%20Haiku%20Masters%20(17th%E2%80%9318th%20centuries)/authors/Takarai-Sanya/",
+    "doc": "Ninomiya Sontoku",
+    "title": "Ninomiya Sontoku",
+    "content": "Welcome to the page of Ninomiya Sontoku! Here you can find their quotes. ",
+    "url": "/Early%20Haiku%20Masters%20(17th%E2%80%9318th%20centuries)/authors/Ninomiya-Sontoku/",
     
-    "relUrl": "/Early Haiku Masters (17th–18th centuries)/authors/Takarai-Sanya/"
+    "relUrl": "/Early Haiku Masters (17th–18th centuries)/authors/Ninomiya-Sontoku/"
   },"6": {
-    "doc": "Natsume Sōseki",
-    "title": "Natsume Sōseki",
-    "content": "Welcome to the page of Natsume Sōseki! Here you can find their quotes. ",
-    "url": "/Early%20Haiku%20Masters%20(17th%E2%80%9318th%20centuries)/authors/Natsume-S%C5%8Dseki/",
+    "doc": "Saito Mokichi",
+    "title": "Saito Mokichi",
+    "content": "Welcome to the page of Saito Mokichi! Here you can find their quotes. ",
+    "url": "/Early%20Haiku%20Masters%20(17th%E2%80%9318th%20centuries)/authors/Saito-Mokichi/",
     
-    "relUrl": "/Early Haiku Masters (17th–18th centuries)/authors/Natsume-Sōseki/"
+    "relUrl": "/Early Haiku Masters (17th–18th centuries)/authors/Saito-Mokichi/"
   },"7": {
-    "doc": "Chiyo-ni",
-    "title": "Chiyo-ni",
-    "content": "Welcome to the page of Chiyo-ni! Here you can find their quotes. ",
-    "url": "/Early%20Haiku%20Masters%20(17th%E2%80%9318th%20centuries)/authors/Chiyo-ni/",
+    "doc": "Bashōs disciples eg Nakahara Nantenbō",
+    "title": "Bashōs disciples eg Nakahara Nantenbō",
+    "content": "Welcome to the page of Bashōs disciples eg Nakahara Nantenbō! Here you can find their quotes. ",
+    "url": "/Early%20Haiku%20Masters%20(17th%E2%80%9318th%20centuries)/authors/Bash%C5%8Ds-disciples-eg-Nakahara-Nantenb%C5%8D/",
     
-    "relUrl": "/Early Haiku Masters (17th–18th centuries)/authors/Chiyo-ni/"
+    "relUrl": "/Early Haiku Masters (17th–18th centuries)/authors/Bashōs-disciples-eg-Nakahara-Nantenbō/"
   },"8": {
-    "doc": "Akao Jutaro",
-    "title": "Akao Jutaro",
-    "content": "Welcome to the page of Akao Jutaro! Here you can find their quotes. ",
-    "url": "/Early%20Haiku%20Masters%20(17th%E2%80%9318th%20centuries)/authors/Akao-Jutaro/",
+    "doc": "Kaga no Chiyo",
+    "title": "Kaga no Chiyo",
+    "content": "Welcome to the page of Kaga no Chiyo! Here you can find their quotes. ",
+    "url": "/Early%20Haiku%20Masters%20(17th%E2%80%9318th%20centuries)/authors/Kaga-no-Chiyo/",
     
-    "relUrl": "/Early Haiku Masters (17th–18th centuries)/authors/Akao-Jutaro/"
+    "relUrl": "/Early Haiku Masters (17th–18th centuries)/authors/Kaga-no-Chiyo/"
   },"9": {
+    "doc": "Takarai Kikaku",
+    "title": "Takarai Kikaku",
+    "content": "Welcome to the page of Takarai Kikaku! Here you can find their quotes. ",
+    "url": "/Early%20Haiku%20Masters%20(17th%E2%80%9318th%20centuries)/authors/Takarai-Kikaku/",
+    
+    "relUrl": "/Early Haiku Masters (17th–18th centuries)/authors/Takarai-Kikaku/"
+  },"10": {
+    "doc": "Kuzan Shōha",
+    "title": "Kuzan Shōha",
+    "content": "Welcome to the page of Kuzan Shōha! Here you can find their quotes. ",
+    "url": "/Early%20Haiku%20Masters%20(17th%E2%80%9318th%20centuries)/authors/Kuzan-Sh%C5%8Dha/",
+    
+    "relUrl": "/Early Haiku Masters (17th–18th centuries)/authors/Kuzan-Shōha/"
+  },"11": {
     "doc": "Kobayashi Issa",
     "title": "Kobayashi Issa",
     "content": "Welcome to the page of Kobayashi Issa! Here you can find their quotes. ",
     "url": "/Early%20Haiku%20Masters%20(17th%E2%80%9318th%20centuries)/authors/Kobayashi-Issa/",
     
     "relUrl": "/Early Haiku Masters (17th–18th centuries)/authors/Kobayashi-Issa/"
-  },"10": {
+  },"12": {
+    "doc": "Takahashi Sekiun",
+    "title": "Takahashi Sekiun",
+    "content": "Welcome to the page of Takahashi Sekiun! Here you can find their quotes. ",
+    "url": "/Haiku%20in%20the%20Meiji%20Period%20(1868%E2%80%931912)/authors/Takahashi-Sekiun/",
+    
+    "relUrl": "/Haiku in the Meiji Period (1868–1912)/authors/Takahashi-Sekiun/"
+  },"13": {
+    "doc": "Nakahara Nantenbo",
+    "title": "Nakahara Nantenbo",
+    "content": "Welcome to the page of Nakahara Nantenbo! Here you can find their quotes. ",
+    "url": "/Haiku%20in%20the%20Meiji%20Period%20(1868%E2%80%931912)/authors/Nakahara-Nantenbo/",
+    
+    "relUrl": "/Haiku in the Meiji Period (1868–1912)/authors/Nakahara-Nantenbo/"
+  },"14": {
+    "doc": "Masaoka Shiki",
+    "title": "Masaoka Shiki",
+    "content": "Welcome to the page of Masaoka Shiki! Here you can find their quotes. ",
+    "url": "/Haiku%20in%20the%20Meiji%20Period%20(1868%E2%80%931912)/authors/Masaoka-Shiki/",
+    
+    "relUrl": "/Haiku in the Meiji Period (1868–1912)/authors/Masaoka-Shiki/"
+  },"15": {
+    "doc": "Yosa Buson",
+    "title": "Yosa Buson",
+    "content": "Welcome to the page of Yosa Buson! Here you can find their quotes. ",
+    "url": "/Haiku%20in%20the%20Meiji%20Period%20(1868%E2%80%931912)/authors/Yosa-Buson/",
+    
+    "relUrl": "/Haiku in the Meiji Period (1868–1912)/authors/Yosa-Buson/"
+  },"16": {
+    "doc": "Hekigoto",
+    "title": "Hekigoto",
+    "content": "Welcome to the page of Hekigoto! Here you can find their quotes. ",
+    "url": "/Haiku%20in%20the%20Meiji%20Period%20(1868%E2%80%931912)/authors/Hekigoto/",
+    
+    "relUrl": "/Haiku in the Meiji Period (1868–1912)/authors/Hekigoto/"
+  },"17": {
+    "doc": "Saito Mokichi",
+    "title": "Saito Mokichi",
+    "content": "Welcome to the page of Saito Mokichi! Here you can find their quotes. ",
+    "url": "/Haiku%20in%20the%20Meiji%20Period%20(1868%E2%80%931912)/authors/Saito-Mokichi/",
+    
+    "relUrl": "/Haiku in the Meiji Period (1868–1912)/authors/Saito-Mokichi/"
+  },"18": {
+    "doc": "Natsume Sōseki",
+    "title": "Natsume Sōseki",
+    "content": "Welcome to the page of Natsume Sōseki! Here you can find their quotes. ",
+    "url": "/Haiku%20in%20the%20Meiji%20Period%20(1868%E2%80%931912)/authors/Natsume-S%C5%8Dseki/",
+    
+    "relUrl": "/Haiku in the Meiji Period (1868–1912)/authors/Natsume-Sōseki/"
+  },"19": {
+    "doc": "Takahama Kyoshi",
+    "title": "Takahama Kyoshi",
+    "content": "Welcome to the page of Takahama Kyoshi! Here you can find their quotes. ",
+    "url": "/Haiku%20in%20the%20Meiji%20Period%20(1868%E2%80%931912)/authors/Takahama-Kyoshi/",
+    
+    "relUrl": "/Haiku in the Meiji Period (1868–1912)/authors/Takahama-Kyoshi/"
+  },"20": {
+    "doc": "Kato Shuson",
+    "title": "Kato Shuson",
+    "content": "Welcome to the page of Kato Shuson! Here you can find their quotes. ",
+    "url": "/Haiku%20in%20the%20Meiji%20Period%20(1868%E2%80%931912)/authors/Kato-Shuson/",
+    
+    "relUrl": "/Haiku in the Meiji Period (1868–1912)/authors/Kato-Shuson/"
+  },"21": {
+    "doc": "Kobayashi Issa",
+    "title": "Kobayashi Issa",
+    "content": "Welcome to the page of Kobayashi Issa! Here you can find their quotes. ",
+    "url": "/Haiku%20in%20the%20Meiji%20Period%20(1868%E2%80%931912)/authors/Kobayashi-Issa/",
+    
+    "relUrl": "/Haiku in the Meiji Period (1868–1912)/authors/Kobayashi-Issa/"
+  },"22": {
+    "doc": "Kikaku",
+    "title": "Kikaku",
+    "content": "Welcome to the page of Kikaku! Here you can find their quotes. ",
+    "url": "/Haiku%20in%20the%20Edo%20Period%20(1603%E2%80%931868)/authors/Kikaku/",
+    
+    "relUrl": "/Haiku in the Edo Period (1603–1868)/authors/Kikaku/"
+  },"23": {
+    "doc": "Matsuo Bashō",
+    "title": "Matsuo Bashō",
+    "content": "Welcome to the page of Matsuo Bashō! Here you can find their quotes. ",
+    "url": "/Haiku%20in%20the%20Edo%20Period%20(1603%E2%80%931868)/authors/Matsuo-Bash%C5%8D/",
+    
+    "relUrl": "/Haiku in the Edo Period (1603–1868)/authors/Matsuo-Bashō/"
+  },"24": {
+    "doc": "Sora",
+    "title": "Sora",
+    "content": "Welcome to the page of Sora! Here you can find their quotes. ",
+    "url": "/Haiku%20in%20the%20Edo%20Period%20(1603%E2%80%931868)/authors/Sora/",
+    
+    "relUrl": "/Haiku in the Edo Period (1603–1868)/authors/Sora/"
+  },"25": {
+    "doc": "Ryōkan",
+    "title": "Ryōkan",
+    "content": "Welcome to the page of Ryōkan! Here you can find their quotes. ",
+    "url": "/Haiku%20in%20the%20Edo%20Period%20(1603%E2%80%931868)/authors/Ry%C5%8Dkan/",
+    
+    "relUrl": "/Haiku in the Edo Period (1603–1868)/authors/Ryōkan/"
+  },"26": {
+    "doc": "Masaoka Shiki",
+    "title": "Masaoka Shiki",
+    "content": "Welcome to the page of Masaoka Shiki! Here you can find their quotes. ",
+    "url": "/Haiku%20in%20the%20Edo%20Period%20(1603%E2%80%931868)/authors/Masaoka-Shiki/",
+    
+    "relUrl": "/Haiku in the Edo Period (1603–1868)/authors/Masaoka-Shiki/"
+  },"27": {
+    "doc": "Yosa Buson",
+    "title": "Yosa Buson",
+    "content": "Welcome to the page of Yosa Buson! Here you can find their quotes. ",
+    "url": "/Haiku%20in%20the%20Edo%20Period%20(1603%E2%80%931868)/authors/Yosa-Buson/",
+    
+    "relUrl": "/Haiku in the Edo Period (1603–1868)/authors/Yosa-Buson/"
+  },"28": {
+    "doc": "Kobayashi Jūzō",
+    "title": "Kobayashi Jūzō",
+    "content": "Welcome to the page of Kobayashi Jūzō! Here you can find their quotes. ",
+    "url": "/Haiku%20in%20the%20Edo%20Period%20(1603%E2%80%931868)/authors/Kobayashi-J%C5%ABz%C5%8D/",
+    
+    "relUrl": "/Haiku in the Edo Period (1603–1868)/authors/Kobayashi-Jūzō/"
+  },"29": {
+    "doc": "Natsume Sōseki",
+    "title": "Natsume Sōseki",
+    "content": "Welcome to the page of Natsume Sōseki! Here you can find their quotes. ",
+    "url": "/Haiku%20in%20the%20Edo%20Period%20(1603%E2%80%931868)/authors/Natsume-S%C5%8Dseki/",
+    
+    "relUrl": "/Haiku in the Edo Period (1603–1868)/authors/Natsume-Sōseki/"
+  },"30": {
+    "doc": "Korin",
+    "title": "Korin",
+    "content": "Welcome to the page of Korin! Here you can find their quotes. ",
+    "url": "/Haiku%20in%20the%20Edo%20Period%20(1603%E2%80%931868)/authors/Korin/",
+    
+    "relUrl": "/Haiku in the Edo Period (1603–1868)/authors/Korin/"
+  },"31": {
+    "doc": "Kobayashi Issa",
+    "title": "Kobayashi Issa",
+    "content": "Welcome to the page of Kobayashi Issa! Here you can find their quotes. ",
+    "url": "/Haiku%20in%20the%20Edo%20Period%20(1603%E2%80%931868)/authors/Kobayashi-Issa/",
+    
+    "relUrl": "/Haiku in the Edo Period (1603–1868)/authors/Kobayashi-Issa/"
+  },"32": {
+    "doc": "Shiki's Modern Haiku Movement",
+    "title": "Shiki's Modern Haiku Movement",
+    "content": "Welcome to the page of Shiki’s Modern Haiku Movement . ",
+    "url": "/Shiki's%20Modern%20Haiku%20Movement",
+    
+    "relUrl": "/Shiki's Modern Haiku Movement"
+  },"33": {
+    "doc": "Lord Byron George Gordon Byron",
+    "title": "Lord Byron George Gordon Byron",
+    "content": "Welcome to the page of Lord Byron George Gordon Byron! Here you can find their quotes. ",
+    "url": "/Romanticism%20(Late%2018th%E2%80%93Mid-19th%20century)/authors/Lord-Byron-George-Gordon-Byron/",
+    
+    "relUrl": "/Romanticism (Late 18th–Mid-19th century)/authors/Lord-Byron-George-Gordon-Byron/"
+  },"34": {
+    "doc": "William Wordsworth",
+    "title": "William Wordsworth",
+    "content": "Welcome to the page of William Wordsworth! Here you can find their quotes. ",
+    "url": "/Romanticism%20(Late%2018th%E2%80%93Mid-19th%20century)/authors/William-Wordsworth/",
+    
+    "relUrl": "/Romanticism (Late 18th–Mid-19th century)/authors/William-Wordsworth/"
+  },"35": {
+    "doc": "Elizabeth Barrett Browning",
+    "title": "Elizabeth Barrett Browning",
+    "content": "Welcome to the page of Elizabeth Barrett Browning! Here you can find their quotes. ",
+    "url": "/Romanticism%20(Late%2018th%E2%80%93Mid-19th%20century)/authors/Elizabeth-Barrett-Browning/",
+    
+    "relUrl": "/Romanticism (Late 18th–Mid-19th century)/authors/Elizabeth-Barrett-Browning/"
+  },"36": {
+    "doc": "Percy Bysshe Shelley",
+    "title": "Percy Bysshe Shelley",
+    "content": "Welcome to the page of Percy Bysshe Shelley! Here you can find their quotes. ",
+    "url": "/Romanticism%20(Late%2018th%E2%80%93Mid-19th%20century)/authors/Percy-Bysshe-Shelley/",
+    
+    "relUrl": "/Romanticism (Late 18th–Mid-19th century)/authors/Percy-Bysshe-Shelley/"
+  },"37": {
+    "doc": "John Clare",
+    "title": "John Clare",
+    "content": "Welcome to the page of John Clare! Here you can find their quotes. ",
+    "url": "/Romanticism%20(Late%2018th%E2%80%93Mid-19th%20century)/authors/John-Clare/",
+    
+    "relUrl": "/Romanticism (Late 18th–Mid-19th century)/authors/John-Clare/"
+  },"38": {
+    "doc": "John Keats",
+    "title": "John Keats",
+    "content": "Welcome to the page of John Keats! Here you can find their quotes. ",
+    "url": "/Romanticism%20(Late%2018th%E2%80%93Mid-19th%20century)/authors/John-Keats/",
+    
+    "relUrl": "/Romanticism (Late 18th–Mid-19th century)/authors/John-Keats/"
+  },"39": {
+    "doc": "William Blake",
+    "title": "William Blake",
+    "content": "Welcome to the page of William Blake! Here you can find their quotes. ",
+    "url": "/Romanticism%20(Late%2018th%E2%80%93Mid-19th%20century)/authors/William-Blake/",
+    
+    "relUrl": "/Romanticism (Late 18th–Mid-19th century)/authors/William-Blake/"
+  },"40": {
+    "doc": "Henry Wadsworth Longfellow",
+    "title": "Henry Wadsworth Longfellow",
+    "content": "Welcome to the page of Henry Wadsworth Longfellow! Here you can find their quotes. ",
+    "url": "/Romanticism%20(Late%2018th%E2%80%93Mid-19th%20century)/authors/Henry-Wadsworth-Longfellow/",
+    
+    "relUrl": "/Romanticism (Late 18th–Mid-19th century)/authors/Henry-Wadsworth-Longfellow/"
+  },"41": {
+    "doc": "Alfred Lord Tennyson",
+    "title": "Alfred Lord Tennyson",
+    "content": "Welcome to the page of Alfred Lord Tennyson! Here you can find their quotes. ",
+    "url": "/Romanticism%20(Late%2018th%E2%80%93Mid-19th%20century)/authors/Alfred-Lord-Tennyson/",
+    
+    "relUrl": "/Romanticism (Late 18th–Mid-19th century)/authors/Alfred-Lord-Tennyson/"
+  },"42": {
+    "doc": "Samuel Taylor Coleridge",
+    "title": "Samuel Taylor Coleridge",
+    "content": "Welcome to the page of Samuel Taylor Coleridge! Here you can find their quotes. ",
+    "url": "/Romanticism%20(Late%2018th%E2%80%93Mid-19th%20century)/authors/Samuel-Taylor-Coleridge/",
+    
+    "relUrl": "/Romanticism (Late 18th–Mid-19th century)/authors/Samuel-Taylor-Coleridge/"
+  },"43": {
+    "doc": "Matsuo Bashō",
+    "title": "Matsuo Bashō",
+    "content": "Welcome to the page of Matsuo Bashō! Here you can find their quotes. ",
+    "url": "/Haikai%20no%20Renga%20Tradition/authors/Matsuo-Bash%C5%8D/",
+    
+    "relUrl": "/Haikai no Renga Tradition/authors/Matsuo-Bashō/"
+  },"44": {
+    "doc": "Yosa Buson",
+    "title": "Yosa Buson",
+    "content": "Welcome to the page of Yosa Buson! Here you can find their quotes. ",
+    "url": "/Haikai%20no%20Renga%20Tradition/authors/Yosa-Buson/",
+    
+    "relUrl": "/Haikai no Renga Tradition/authors/Yosa-Buson/"
+  },"45": {
+    "doc": "Shiki Masaoka",
+    "title": "Shiki Masaoka",
+    "content": "Welcome to the page of Shiki Masaoka! Here you can find their quotes. ",
+    "url": "/Haikai%20no%20Renga%20Tradition/authors/Shiki-Masaoka/",
+    
+    "relUrl": "/Haikai no Renga Tradition/authors/Shiki-Masaoka/"
+  },"46": {
+    "doc": "Kawabata Yasunari",
+    "title": "Kawabata Yasunari",
+    "content": "Welcome to the page of Kawabata Yasunari! Here you can find their quotes. ",
+    "url": "/Haikai%20no%20Renga%20Tradition/authors/Kawabata-Yasunari/",
+    
+    "relUrl": "/Haikai no Renga Tradition/authors/Kawabata-Yasunari/"
+  },"47": {
+    "doc": "Taneda Santōki",
+    "title": "Taneda Santōki",
+    "content": "Welcome to the page of Taneda Santōki! Here you can find their quotes. ",
+    "url": "/Haikai%20no%20Renga%20Tradition/authors/Taneda-Sant%C5%8Dki/",
+    
+    "relUrl": "/Haikai no Renga Tradition/authors/Taneda-Santōki/"
+  },"48": {
+    "doc": "Mizuhara Shūji",
+    "title": "Mizuhara Shūji",
+    "content": "Welcome to the page of Mizuhara Shūji! Here you can find their quotes. ",
+    "url": "/Haikai%20no%20Renga%20Tradition/authors/Mizuhara-Sh%C5%ABji/",
+    
+    "relUrl": "/Haikai no Renga Tradition/authors/Mizuhara-Shūji/"
+  },"49": {
+    "doc": "Sōseki Natsume",
+    "title": "Sōseki Natsume",
+    "content": "Welcome to the page of Sōseki Natsume! Here you can find their quotes. ",
+    "url": "/Haikai%20no%20Renga%20Tradition/authors/S%C5%8Dseki-Natsume/",
+    
+    "relUrl": "/Haikai no Renga Tradition/authors/Sōseki-Natsume/"
+  },"50": {
+    "doc": "Kato Shuson",
+    "title": "Kato Shuson",
+    "content": "Welcome to the page of Kato Shuson! Here you can find their quotes. ",
+    "url": "/Haikai%20no%20Renga%20Tradition/authors/Kato-Shuson/",
+    
+    "relUrl": "/Haikai no Renga Tradition/authors/Kato-Shuson/"
+  },"51": {
+    "doc": "Nakahara Chūya",
+    "title": "Nakahara Chūya",
+    "content": "Welcome to the page of Nakahara Chūya! Here you can find their quotes. ",
+    "url": "/Haikai%20no%20Renga%20Tradition/authors/Nakahara-Ch%C5%ABya/",
+    
+    "relUrl": "/Haikai no Renga Tradition/authors/Nakahara-Chūya/"
+  },"52": {
+    "doc": "Kobayashi Issa",
+    "title": "Kobayashi Issa",
+    "content": "Welcome to the page of Kobayashi Issa! Here you can find their quotes. ",
+    "url": "/Haikai%20no%20Renga%20Tradition/authors/Kobayashi-Issa/",
+    
+    "relUrl": "/Haikai no Renga Tradition/authors/Kobayashi-Issa/"
+  },"53": {
+    "doc": "Seishi Yamaguchi",
+    "title": "Seishi Yamaguchi",
+    "content": "Welcome to the page of Seishi Yamaguchi! Here you can find their quotes. ",
+    "url": "/Haiku%20and%20Zen%20Buddhism/authors/Seishi-Yamaguchi/",
+    
+    "relUrl": "/Haiku and Zen Buddhism/authors/Seishi-Yamaguchi/"
+  },"54": {
+    "doc": "Tōgō Kenji",
+    "title": "Tōgō Kenji",
+    "content": "Welcome to the page of Tōgō Kenji! Here you can find their quotes. ",
+    "url": "/Haiku%20and%20Zen%20Buddhism/authors/T%C5%8Dg%C5%8D-Kenji/",
+    
+    "relUrl": "/Haiku and Zen Buddhism/authors/Tōgō-Kenji/"
+  },"55": {
+    "doc": "Matsuo Bashō",
+    "title": "Matsuo Bashō",
+    "content": "Welcome to the page of Matsuo Bashō! Here you can find their quotes. ",
+    "url": "/Haiku%20and%20Zen%20Buddhism/authors/Matsuo-Bash%C5%8D/",
+    
+    "relUrl": "/Haiku and Zen Buddhism/authors/Matsuo-Bashō/"
+  },"56": {
+    "doc": "Masaoka Shiki",
+    "title": "Masaoka Shiki",
+    "content": "Welcome to the page of Masaoka Shiki! Here you can find their quotes. ",
+    "url": "/Haiku%20and%20Zen%20Buddhism/authors/Masaoka-Shiki/",
+    
+    "relUrl": "/Haiku and Zen Buddhism/authors/Masaoka-Shiki/"
+  },"57": {
+    "doc": "Yosa Buson",
+    "title": "Yosa Buson",
+    "content": "Welcome to the page of Yosa Buson! Here you can find their quotes. ",
+    "url": "/Haiku%20and%20Zen%20Buddhism/authors/Yosa-Buson/",
+    
+    "relUrl": "/Haiku and Zen Buddhism/authors/Yosa-Buson/"
+  },"58": {
+    "doc": "Okamoto Kanoko",
+    "title": "Okamoto Kanoko",
+    "content": "Welcome to the page of Okamoto Kanoko! Here you can find their quotes. ",
+    "url": "/Haiku%20and%20Zen%20Buddhism/authors/Okamoto-Kanoko/",
+    
+    "relUrl": "/Haiku and Zen Buddhism/authors/Okamoto-Kanoko/"
+  },"59": {
+    "doc": "Natsume Sōseki",
+    "title": "Natsume Sōseki",
+    "content": "Welcome to the page of Natsume Sōseki! Here you can find their quotes. ",
+    "url": "/Haiku%20and%20Zen%20Buddhism/authors/Natsume-S%C5%8Dseki/",
+    
+    "relUrl": "/Haiku and Zen Buddhism/authors/Natsume-Sōseki/"
+  },"60": {
+    "doc": "Taneda Santōka",
+    "title": "Taneda Santōka",
+    "content": "Welcome to the page of Taneda Santōka! Here you can find their quotes. ",
+    "url": "/Haiku%20and%20Zen%20Buddhism/authors/Taneda-Sant%C5%8Dka/",
+    
+    "relUrl": "/Haiku and Zen Buddhism/authors/Taneda-Santōka/"
+  },"61": {
+    "doc": "Tada Chimako",
+    "title": "Tada Chimako",
+    "content": "Welcome to the page of Tada Chimako! Here you can find their quotes. ",
+    "url": "/Haiku%20and%20Zen%20Buddhism/authors/Tada-Chimako/",
+    
+    "relUrl": "/Haiku and Zen Buddhism/authors/Tada-Chimako/"
+  },"62": {
+    "doc": "Kobayashi Issa",
+    "title": "Kobayashi Issa",
+    "content": "Welcome to the page of Kobayashi Issa! Here you can find their quotes. ",
+    "url": "/Haiku%20and%20Zen%20Buddhism/authors/Kobayashi-Issa/",
+    
+    "relUrl": "/Haiku and Zen Buddhism/authors/Kobayashi-Issa/"
+  },"63": {
+    "doc": "Nakahara Nantenbo",
+    "title": "Nakahara Nantenbo",
+    "content": "Welcome to the page of Nakahara Nantenbo! Here you can find their quotes. ",
+    "url": "/Shiki's%20Modern%20Haiku%20Movement/authors/Nakahara-Nantenbo/",
+    
+    "relUrl": "/Shiki's Modern Haiku Movement/authors/Nakahara-Nantenbo/"
+  },"64": {
+    "doc": "Shikis disciples various disciples",
+    "title": "Shikis disciples various disciples",
+    "content": "Welcome to the page of Shikis disciples various disciples! Here you can find their quotes. ",
+    "url": "/Shiki's%20Modern%20Haiku%20Movement/authors/Shikis-disciples-various-disciples/",
+    
+    "relUrl": "/Shiki's Modern Haiku Movement/authors/Shikis-disciples-various-disciples/"
+  },"65": {
+    "doc": "Masaoka Shiki",
+    "title": "Masaoka Shiki",
+    "content": "Welcome to the page of Masaoka Shiki! Here you can find their quotes. ",
+    "url": "/Shiki's%20Modern%20Haiku%20Movement/authors/Masaoka-Shiki/",
+    
+    "relUrl": "/Shiki's Modern Haiku Movement/authors/Masaoka-Shiki/"
+  },"66": {
+    "doc": "Yosa Buson",
+    "title": "Yosa Buson",
+    "content": "Welcome to the page of Yosa Buson! Here you can find their quotes. ",
+    "url": "/Shiki's%20Modern%20Haiku%20Movement/authors/Yosa-Buson/",
+    
+    "relUrl": "/Shiki's Modern Haiku Movement/authors/Yosa-Buson/"
+  },"67": {
+    "doc": "Miyoshi Tōkō",
+    "title": "Miyoshi Tōkō",
+    "content": "Welcome to the page of Miyoshi Tōkō! Here you can find their quotes. ",
+    "url": "/Shiki's%20Modern%20Haiku%20Movement/authors/Miyoshi-T%C5%8Dk%C5%8D/",
+    
+    "relUrl": "/Shiki's Modern Haiku Movement/authors/Miyoshi-Tōkō/"
+  },"68": {
+    "doc": "Hayashi Takahashi",
+    "title": "Hayashi Takahashi",
+    "content": "Welcome to the page of Hayashi Takahashi! Here you can find their quotes. ",
+    "url": "/Shiki's%20Modern%20Haiku%20Movement/authors/Hayashi-Takahashi/",
+    
+    "relUrl": "/Shiki's Modern Haiku Movement/authors/Hayashi-Takahashi/"
+  },"69": {
+    "doc": "Natsume Sōseki",
+    "title": "Natsume Sōseki",
+    "content": "Welcome to the page of Natsume Sōseki! Here you can find their quotes. ",
+    "url": "/Shiki's%20Modern%20Haiku%20Movement/authors/Natsume-S%C5%8Dseki/",
+    
+    "relUrl": "/Shiki's Modern Haiku Movement/authors/Natsume-Sōseki/"
+  },"70": {
+    "doc": "Hachiya Natsumi",
+    "title": "Hachiya Natsumi",
+    "content": "Welcome to the page of Hachiya Natsumi! Here you can find their quotes. ",
+    "url": "/Shiki's%20Modern%20Haiku%20Movement/authors/Hachiya-Natsumi/",
+    
+    "relUrl": "/Shiki's Modern Haiku Movement/authors/Hachiya-Natsumi/"
+  },"71": {
+    "doc": "Kato Shuson",
+    "title": "Kato Shuson",
+    "content": "Welcome to the page of Kato Shuson! Here you can find their quotes. ",
+    "url": "/Shiki's%20Modern%20Haiku%20Movement/authors/Kato-Shuson/",
+    
+    "relUrl": "/Shiki's Modern Haiku Movement/authors/Kato-Shuson/"
+  },"72": {
+    "doc": "Kobayashi Issa",
+    "title": "Kobayashi Issa",
+    "content": "Welcome to the page of Kobayashi Issa! Here you can find their quotes. ",
+    "url": "/Shiki's%20Modern%20Haiku%20Movement/authors/Kobayashi-Issa/",
+    
+    "relUrl": "/Shiki's Modern Haiku Movement/authors/Kobayashi-Issa/"
+  },"73": {
+    "doc": "Haiku in the Edo Period (1603–1868)",
+    "title": "Haiku in the Edo Period (1603–1868)",
+    "content": "Welcome to the page of Haiku in the Edo Period (1603–1868) . ",
+    "url": "/Haiku%20in%20the%20Edo%20Period%20(1603%E2%80%931868)",
+    
+    "relUrl": "/Haiku in the Edo Period (1603–1868)"
+  },"74": {
+    "doc": "Haikai no Renga Tradition",
+    "title": "Haikai no Renga Tradition",
+    "content": "Welcome to the page of Haikai no Renga Tradition . ",
+    "url": "/Haikai%20no%20Renga%20Tradition",
+    
+    "relUrl": "/Haikai no Renga Tradition"
+  },"75": {
     "doc": "Early Haiku Masters (17th–18th centuries)",
     "title": "Early Haiku Masters (17th–18th centuries)",
     "content": "Welcome to the page of Early Haiku Masters (17th–18th centuries) . ",
     "url": "/Early%20Haiku%20Masters%20(17th%E2%80%9318th%20centuries)",
     
     "relUrl": "/Early Haiku Masters (17th–18th centuries)"
-  },"11": {
-    "doc": "Meiji Period Haiku (1868–1912)",
-    "title": "Meiji Period Haiku (1868–1912)",
-    "content": "Welcome to the page of Meiji Period Haiku (1868–1912) . ",
-    "url": "/Meiji%20Period%20Haiku%20(1868%E2%80%931912)",
+  },"76": {
+    "doc": "Seishi Yamaguchi",
+    "title": "Seishi Yamaguchi",
+    "content": "Welcome to the page of Seishi Yamaguchi! Here you can find their quotes. ",
+    "url": "/Classical%20Haiku%20(Bash%C5%8D,%20Buson,%20Issa)/authors/Seishi-Yamaguchi/",
     
-    "relUrl": "/Meiji Period Haiku (1868–1912)"
-  },"12": {
-    "doc": "Kagawa Kageki",
-    "title": "Kagawa Kageki",
-    "content": "Welcome to the page of Kagawa Kageki! Here you can find their quotes. ",
-    "url": "/Meiji%20Period%20Haiku%20(1868%E2%80%931912)/authors/Kagawa-Kageki/",
-    
-    "relUrl": "/Meiji Period Haiku (1868–1912)/authors/Kagawa-Kageki/"
-  },"13": {
-    "doc": "Masaoka Shiki",
-    "title": "Masaoka Shiki",
-    "content": "Welcome to the page of Masaoka Shiki! Here you can find their quotes. ",
-    "url": "/Meiji%20Period%20Haiku%20(1868%E2%80%931912)/authors/Masaoka-Shiki/",
-    
-    "relUrl": "/Meiji Period Haiku (1868–1912)/authors/Masaoka-Shiki/"
-  },"14": {
-    "doc": "Yosa Buson",
-    "title": "Yosa Buson",
-    "content": "Welcome to the page of Yosa Buson! Here you can find their quotes. ",
-    "url": "/Meiji%20Period%20Haiku%20(1868%E2%80%931912)/authors/Yosa-Buson/",
-    
-    "relUrl": "/Meiji Period Haiku (1868–1912)/authors/Yosa-Buson/"
-  },"15": {
-    "doc": "Ishikawa Takuboku",
-    "title": "Ishikawa Takuboku",
-    "content": "Welcome to the page of Ishikawa Takuboku! Here you can find their quotes. ",
-    "url": "/Meiji%20Period%20Haiku%20(1868%E2%80%931912)/authors/Ishikawa-Takuboku/",
-    
-    "relUrl": "/Meiji Period Haiku (1868–1912)/authors/Ishikawa-Takuboku/"
-  },"16": {
-    "doc": "Yamaguchi Seishi",
-    "title": "Yamaguchi Seishi",
-    "content": "Welcome to the page of Yamaguchi Seishi! Here you can find their quotes. ",
-    "url": "/Meiji%20Period%20Haiku%20(1868%E2%80%931912)/authors/Yamaguchi-Seishi/",
-    
-    "relUrl": "/Meiji Period Haiku (1868–1912)/authors/Yamaguchi-Seishi/"
-  },"17": {
-    "doc": "Ueda Bin",
-    "title": "Ueda Bin",
-    "content": "Welcome to the page of Ueda Bin! Here you can find their quotes. ",
-    "url": "/Meiji%20Period%20Haiku%20(1868%E2%80%931912)/authors/Ueda-Bin/",
-    
-    "relUrl": "/Meiji Period Haiku (1868–1912)/authors/Ueda-Bin/"
-  },"18": {
-    "doc": "Tōyama Masayuki",
-    "title": "Tōyama Masayuki",
-    "content": "Welcome to the page of Tōyama Masayuki! Here you can find their quotes. ",
-    "url": "/Meiji%20Period%20Haiku%20(1868%E2%80%931912)/authors/T%C5%8Dyama-Masayuki/",
-    
-    "relUrl": "/Meiji Period Haiku (1868–1912)/authors/Tōyama-Masayuki/"
-  },"19": {
-    "doc": "Narasaki Kiyoshi",
-    "title": "Narasaki Kiyoshi",
-    "content": "Welcome to the page of Narasaki Kiyoshi! Here you can find their quotes. ",
-    "url": "/Meiji%20Period%20Haiku%20(1868%E2%80%931912)/authors/Narasaki-Kiyoshi/",
-    
-    "relUrl": "/Meiji Period Haiku (1868–1912)/authors/Narasaki-Kiyoshi/"
-  },"20": {
-    "doc": "Shikis contemporaries various poets",
-    "title": "Shikis contemporaries various poets",
-    "content": "Welcome to the page of Shikis contemporaries various poets! Here you can find their quotes. ",
-    "url": "/Meiji%20Period%20Haiku%20(1868%E2%80%931912)/authors/Shikis-contemporaries-various-poets/",
-    
-    "relUrl": "/Meiji Period Haiku (1868–1912)/authors/Shikis-contemporaries-various-poets/"
-  },"21": {
-    "doc": "Kobayashi Issa",
-    "title": "Kobayashi Issa",
-    "content": "Welcome to the page of Kobayashi Issa! Here you can find their quotes. ",
-    "url": "/Meiji%20Period%20Haiku%20(1868%E2%80%931912)/authors/Kobayashi-Issa/",
-    
-    "relUrl": "/Meiji Period Haiku (1868–1912)/authors/Kobayashi-Issa/"
-  },"22": {
+    "relUrl": "/Classical Haiku (Bashō, Buson, Issa)/authors/Seishi-Yamaguchi/"
+  },"77": {
     "doc": "Matsuo Bashō",
     "title": "Matsuo Bashō",
     "content": "Welcome to the page of Matsuo Bashō! Here you can find their quotes. ",
-    "url": "/Early%20Haiku%20Masters%20(17th%E2%80%9318th%20centuries)/authors/Matsuo-Bash%C5%8D/",
+    "url": "/Classical%20Haiku%20(Bash%C5%8D,%20Buson,%20Issa)/authors/Matsuo-Bash%C5%8D/",
     
-    "relUrl": "/Early Haiku Masters (17th–18th centuries)/authors/Matsuo-Bashō/"
-  },"23": {
-    "doc": "Kusama Shizuen",
-    "title": "Kusama Shizuen",
-    "content": "Welcome to the page of Kusama Shizuen! Here you can find their quotes. ",
-    "url": "/Early%20Haiku%20Masters%20(17th%E2%80%9318th%20centuries)/authors/Kusama-Shizuen/",
+    "relUrl": "/Classical Haiku (Bashō, Buson, Issa)/authors/Matsuo-Bashō/"
+  },"78": {
+    "doc": "Masaoka Shiki",
+    "title": "Masaoka Shiki",
+    "content": "Welcome to the page of Masaoka Shiki! Here you can find their quotes. ",
+    "url": "/Classical%20Haiku%20(Bash%C5%8D,%20Buson,%20Issa)/authors/Masaoka-Shiki/",
     
-    "relUrl": "/Early Haiku Masters (17th–18th centuries)/authors/Kusama-Shizuen/"
-  },"24": {
+    "relUrl": "/Classical Haiku (Bashō, Buson, Issa)/authors/Masaoka-Shiki/"
+  },"79": {
+    "doc": "Yosa Buson",
+    "title": "Yosa Buson",
+    "content": "Welcome to the page of Yosa Buson! Here you can find their quotes. ",
+    "url": "/Classical%20Haiku%20(Bash%C5%8D,%20Buson,%20Issa)/authors/Yosa-Buson/",
+    
+    "relUrl": "/Classical Haiku (Bashō, Buson, Issa)/authors/Yosa-Buson/"
+  },"80": {
+    "doc": "Ishikawa Takuboku",
+    "title": "Ishikawa Takuboku",
+    "content": "Welcome to the page of Ishikawa Takuboku! Here you can find their quotes. ",
+    "url": "/Classical%20Haiku%20(Bash%C5%8D,%20Buson,%20Issa)/authors/Ishikawa-Takuboku/",
+    
+    "relUrl": "/Classical Haiku (Bashō, Buson, Issa)/authors/Ishikawa-Takuboku/"
+  },"81": {
+    "doc": "Natsume Sōseki",
+    "title": "Natsume Sōseki",
+    "content": "Welcome to the page of Natsume Sōseki! Here you can find their quotes. ",
+    "url": "/Classical%20Haiku%20(Bash%C5%8D,%20Buson,%20Issa)/authors/Natsume-S%C5%8Dseki/",
+    
+    "relUrl": "/Classical Haiku (Bashō, Buson, Issa)/authors/Natsume-Sōseki/"
+  },"82": {
+    "doc": "Taneda Santōka",
+    "title": "Taneda Santōka",
+    "content": "Welcome to the page of Taneda Santōka! Here you can find their quotes. ",
+    "url": "/Classical%20Haiku%20(Bash%C5%8D,%20Buson,%20Issa)/authors/Taneda-Sant%C5%8Dka/",
+    
+    "relUrl": "/Classical Haiku (Bashō, Buson, Issa)/authors/Taneda-Santōka/"
+  },"83": {
+    "doc": "Kakeki Shōshū",
+    "title": "Kakeki Shōshū",
+    "content": "Welcome to the page of Kakeki Shōshū! Here you can find their quotes. ",
+    "url": "/Classical%20Haiku%20(Bash%C5%8D,%20Buson,%20Issa)/authors/Kakeki-Sh%C5%8Dsh%C5%AB/",
+    
+    "relUrl": "/Classical Haiku (Bashō, Buson, Issa)/authors/Kakeki-Shōshū/"
+  },"84": {
+    "doc": "Aku Ginkō",
+    "title": "Aku Ginkō",
+    "content": "Welcome to the page of Aku Ginkō! Here you can find their quotes. ",
+    "url": "/Classical%20Haiku%20(Bash%C5%8D,%20Buson,%20Issa)/authors/Aku-Gink%C5%8D/",
+    
+    "relUrl": "/Classical Haiku (Bashō, Buson, Issa)/authors/Aku-Ginkō/"
+  },"85": {
+    "doc": "Kobayashi Issa",
+    "title": "Kobayashi Issa",
+    "content": "Welcome to the page of Kobayashi Issa! Here you can find their quotes. ",
+    "url": "/Classical%20Haiku%20(Bash%C5%8D,%20Buson,%20Issa)/authors/Kobayashi-Issa/",
+    
+    "relUrl": "/Classical Haiku (Bashō, Buson, Issa)/authors/Kobayashi-Issa/"
+  },"86": {
+    "doc": "Romanticism (Late 18th–Mid-19th century)",
+    "title": "Romanticism (Late 18th–Mid-19th century)",
+    "content": "Welcome to the page of Romanticism (Late 18th–Mid-19th century) . ",
+    "url": "/Romanticism%20(Late%2018th%E2%80%93Mid-19th%20century)",
+    
+    "relUrl": "/Romanticism (Late 18th–Mid-19th century)"
+  },"87": {
+    "doc": "Kawamoto Kiyoko",
+    "title": "Kawamoto Kiyoko",
+    "content": "Welcome to the page of Kawamoto Kiyoko! Here you can find their quotes. ",
+    "url": "/Modern%20Japanese%20Haiku%20(20th%20century)/authors/Kawamoto-Kiyoko/",
+    
+    "relUrl": "/Modern Japanese Haiku (20th century)/authors/Kawamoto-Kiyoko/"
+  },"88": {
+    "doc": "Taneda Santoka",
+    "title": "Taneda Santoka",
+    "content": "Welcome to the page of Taneda Santoka! Here you can find their quotes. ",
+    "url": "/Modern%20Japanese%20Haiku%20(20th%20century)/authors/Taneda-Santoka/",
+    
+    "relUrl": "/Modern Japanese Haiku (20th century)/authors/Taneda-Santoka/"
+  },"89": {
+    "doc": "Tanikawa Shuntaro",
+    "title": "Tanikawa Shuntaro",
+    "content": "Welcome to the page of Tanikawa Shuntaro! Here you can find their quotes. ",
+    "url": "/Modern%20Japanese%20Haiku%20(20th%20century)/authors/Tanikawa-Shuntaro/",
+    
+    "relUrl": "/Modern Japanese Haiku (20th century)/authors/Tanikawa-Shuntaro/"
+  },"90": {
+    "doc": "Yosa Buson",
+    "title": "Yosa Buson",
+    "content": "Welcome to the page of Yosa Buson! Here you can find their quotes. ",
+    "url": "/Modern%20Japanese%20Haiku%20(20th%20century)/authors/Yosa-Buson/",
+    
+    "relUrl": "/Modern Japanese Haiku (20th century)/authors/Yosa-Buson/"
+  },"91": {
+    "doc": "Shiki Masaoka",
+    "title": "Shiki Masaoka",
+    "content": "Welcome to the page of Shiki Masaoka! Here you can find their quotes. ",
+    "url": "/Modern%20Japanese%20Haiku%20(20th%20century)/authors/Shiki-Masaoka/",
+    
+    "relUrl": "/Modern Japanese Haiku (20th century)/authors/Shiki-Masaoka/"
+  },"92": {
+    "doc": "Saito Mokichi",
+    "title": "Saito Mokichi",
+    "content": "Welcome to the page of Saito Mokichi! Here you can find their quotes. ",
+    "url": "/Modern%20Japanese%20Haiku%20(20th%20century)/authors/Saito-Mokichi/",
+    
+    "relUrl": "/Modern Japanese Haiku (20th century)/authors/Saito-Mokichi/"
+  },"93": {
+    "doc": "Haiku as a Popular Literary Form (Late 19th century)",
+    "title": "Haiku as a Popular Literary Form (Late 19th century)",
+    "content": "Welcome to the page of Haiku as a Popular Literary Form (Late 19th century) . ",
+    "url": "/Haiku%20as%20a%20Popular%20Literary%20Form%20(Late%2019th%20century)",
+    
+    "relUrl": "/Haiku as a Popular Literary Form (Late 19th century)"
+  },"94": {
+    "doc": "Kato Shuson",
+    "title": "Kato Shuson",
+    "content": "Welcome to the page of Kato Shuson! Here you can find their quotes. ",
+    "url": "/Modern%20Japanese%20Haiku%20(20th%20century)/authors/Kato-Shuson/",
+    
+    "relUrl": "/Modern Japanese Haiku (20th century)/authors/Kato-Shuson/"
+  },"95": {
+    "doc": "Higashi Kyuin",
+    "title": "Higashi Kyuin",
+    "content": "Welcome to the page of Higashi Kyuin! Here you can find their quotes. ",
+    "url": "/Modern%20Japanese%20Haiku%20(20th%20century)/authors/Higashi-Kyuin/",
+    
+    "relUrl": "/Modern Japanese Haiku (20th century)/authors/Higashi-Kyuin/"
+  },"96": {
+    "doc": "Kobayashi Issa",
+    "title": "Kobayashi Issa",
+    "content": "Welcome to the page of Kobayashi Issa! Here you can find their quotes. ",
+    "url": "/Modern%20Japanese%20Haiku%20(20th%20century)/authors/Kobayashi-Issa/",
+    
+    "relUrl": "/Modern Japanese Haiku (20th century)/authors/Kobayashi-Issa/"
+  },"97": {
+    "doc": "Haiku and Zen Buddhism",
+    "title": "Haiku and Zen Buddhism",
+    "content": "Welcome to the page of Haiku and Zen Buddhism . ",
+    "url": "/Haiku%20and%20Zen%20Buddhism",
+    
+    "relUrl": "/Haiku and Zen Buddhism"
+  },"98": {
+    "doc": "Inagaki Taruho",
+    "title": "Inagaki Taruho",
+    "content": "Welcome to the page of Inagaki Taruho! Here you can find their quotes. ",
+    "url": "/Haiku%20as%20a%20Popular%20Literary%20Form%20(Late%2019th%20century)/authors/Inagaki-Taruho/",
+    
+    "relUrl": "/Haiku as a Popular Literary Form (Late 19th century)/authors/Inagaki-Taruho/"
+  },"99": {
+    "doc": "Masaoka Shiki",
+    "title": "Masaoka Shiki",
+    "content": "Welcome to the page of Masaoka Shiki! Here you can find their quotes. ",
+    "url": "/Haiku%20as%20a%20Popular%20Literary%20Form%20(Late%2019th%20century)/authors/Masaoka-Shiki/",
+    
+    "relUrl": "/Haiku as a Popular Literary Form (Late 19th century)/authors/Masaoka-Shiki/"
+  },"100": {
+    "doc": "Yosa Buson",
+    "title": "Yosa Buson",
+    "content": "Welcome to the page of Yosa Buson! Here you can find their quotes. ",
+    "url": "/Haiku%20as%20a%20Popular%20Literary%20Form%20(Late%2019th%20century)/authors/Yosa-Buson/",
+    
+    "relUrl": "/Haiku as a Popular Literary Form (Late 19th century)/authors/Yosa-Buson/"
+  },"101": {
+    "doc": "Yamaguchi Seishi",
+    "title": "Yamaguchi Seishi",
+    "content": "Welcome to the page of Yamaguchi Seishi! Here you can find their quotes. ",
+    "url": "/Haiku%20as%20a%20Popular%20Literary%20Form%20(Late%2019th%20century)/authors/Yamaguchi-Seishi/",
+    
+    "relUrl": "/Haiku as a Popular Literary Form (Late 19th century)/authors/Yamaguchi-Seishi/"
+  },"102": {
+    "doc": "Kawaguchi Matsuo",
+    "title": "Kawaguchi Matsuo",
+    "content": "Welcome to the page of Kawaguchi Matsuo! Here you can find their quotes. ",
+    "url": "/Haiku%20as%20a%20Popular%20Literary%20Form%20(Late%2019th%20century)/authors/Kawaguchi-Matsuo/",
+    
+    "relUrl": "/Haiku as a Popular Literary Form (Late 19th century)/authors/Kawaguchi-Matsuo/"
+  },"103": {
+    "doc": "Natsume Sōseki",
+    "title": "Natsume Sōseki",
+    "content": "Welcome to the page of Natsume Sōseki! Here you can find their quotes. ",
+    "url": "/Haiku%20as%20a%20Popular%20Literary%20Form%20(Late%2019th%20century)/authors/Natsume-S%C5%8Dseki/",
+    
+    "relUrl": "/Haiku as a Popular Literary Form (Late 19th century)/authors/Natsume-Sōseki/"
+  },"104": {
+    "doc": "Saito Makoto",
+    "title": "Saito Makoto",
+    "content": "Welcome to the page of Saito Makoto! Here you can find their quotes. ",
+    "url": "/Haiku%20as%20a%20Popular%20Literary%20Form%20(Late%2019th%20century)/authors/Saito-Makoto/",
+    
+    "relUrl": "/Haiku as a Popular Literary Form (Late 19th century)/authors/Saito-Makoto/"
+  },"105": {
+    "doc": "Taneda Santōka",
+    "title": "Taneda Santōka",
+    "content": "Welcome to the page of Taneda Santōka! Here you can find their quotes. ",
+    "url": "/Haiku%20as%20a%20Popular%20Literary%20Form%20(Late%2019th%20century)/authors/Taneda-Sant%C5%8Dka/",
+    
+    "relUrl": "/Haiku as a Popular Literary Form (Late 19th century)/authors/Taneda-Santōka/"
+  },"106": {
+    "doc": "Natsume Tsubouchi",
+    "title": "Natsume Tsubouchi",
+    "content": "Welcome to the page of Natsume Tsubouchi! Here you can find their quotes. ",
+    "url": "/Haiku%20as%20a%20Popular%20Literary%20Form%20(Late%2019th%20century)/authors/Natsume-Tsubouchi/",
+    
+    "relUrl": "/Haiku as a Popular Literary Form (Late 19th century)/authors/Natsume-Tsubouchi/"
+  },"107": {
+    "doc": "Kobayashi Issa",
+    "title": "Kobayashi Issa",
+    "content": "Welcome to the page of Kobayashi Issa! Here you can find their quotes. ",
+    "url": "/Haiku%20as%20a%20Popular%20Literary%20Form%20(Late%2019th%20century)/authors/Kobayashi-Issa/",
+    
+    "relUrl": "/Haiku as a Popular Literary Form (Late 19th century)/authors/Kobayashi-Issa/"
+  },"108": {
+    "doc": "Classical Haiku (Bashō, Buson, Issa)",
+    "title": "Classical Haiku (Bashō, Buson, Issa)",
+    "content": "Welcome to the page of Classical Haiku (Bashō, Buson, Issa) . ",
+    "url": "/Classical%20Haiku%20(Bash%C5%8D,%20Buson,%20Issa)",
+    
+    "relUrl": "/Classical Haiku (Bashō, Buson, Issa)"
+  },"109": {
+    "doc": "Kyōka Haiku",
+    "title": "Kyōka Haiku",
+    "content": "Welcome to the page of Kyōka Haiku . ",
+    "url": "/Ky%C5%8Dka%20Haiku",
+    
+    "relUrl": "/Kyōka Haiku"
+  },"110": {
+    "doc": "Haiku in the Meiji Period (1868–1912)",
+    "title": "Haiku in the Meiji Period (1868–1912)",
+    "content": "Welcome to the page of Haiku in the Meiji Period (1868–1912) . ",
+    "url": "/Haiku%20in%20the%20Meiji%20Period%20(1868%E2%80%931912)",
+    
+    "relUrl": "/Haiku in the Meiji Period (1868–1912)"
+  },"111": {
+    "doc": "Kikaku",
+    "title": "Kikaku",
+    "content": "Welcome to the page of Kikaku! Here you can find their quotes. ",
+    "url": "/Ky%C5%8Dka%20Haiku/authors/Kikaku/",
+    
+    "relUrl": "/Kyōka Haiku/authors/Kikaku/"
+  },"112": {
+    "doc": "Miyazawa Kenji",
+    "title": "Miyazawa Kenji",
+    "content": "Welcome to the page of Miyazawa Kenji! Here you can find their quotes. ",
+    "url": "/Ky%C5%8Dka%20Haiku/authors/Miyazawa-Kenji/",
+    
+    "relUrl": "/Kyōka Haiku/authors/Miyazawa-Kenji/"
+  },"113": {
+    "doc": "Masaoka Shiki",
+    "title": "Masaoka Shiki",
+    "content": "Welcome to the page of Masaoka Shiki! Here you can find their quotes. ",
+    "url": "/Ky%C5%8Dka%20Haiku/authors/Masaoka-Shiki/",
+    
+    "relUrl": "/Kyōka Haiku/authors/Masaoka-Shiki/"
+  },"114": {
+    "doc": "Yosa Buson",
+    "title": "Yosa Buson",
+    "content": "Welcome to the page of Yosa Buson! Here you can find their quotes. ",
+    "url": "/Ky%C5%8Dka%20Haiku/authors/Yosa-Buson/",
+    
+    "relUrl": "/Kyōka Haiku/authors/Yosa-Buson/"
+  },"115": {
+    "doc": "Shiki Sōseki",
+    "title": "Shiki Sōseki",
+    "content": "Welcome to the page of Shiki Sōseki! Here you can find their quotes. ",
+    "url": "/Ky%C5%8Dka%20Haiku/authors/Shiki-S%C5%8Dseki/",
+    
+    "relUrl": "/Kyōka Haiku/authors/Shiki-Sōseki/"
+  },"116": {
+    "doc": "Nakahara Chuya",
+    "title": "Nakahara Chuya",
+    "content": "Welcome to the page of Nakahara Chuya! Here you can find their quotes. ",
+    "url": "/Ky%C5%8Dka%20Haiku/authors/Nakahara-Chuya/",
+    
+    "relUrl": "/Kyōka Haiku/authors/Nakahara-Chuya/"
+  },"117": {
+    "doc": "Taneda Santōka",
+    "title": "Taneda Santōka",
+    "content": "Welcome to the page of Taneda Santōka! Here you can find their quotes. ",
+    "url": "/Ky%C5%8Dka%20Haiku/authors/Taneda-Sant%C5%8Dka/",
+    
+    "relUrl": "/Kyōka Haiku/authors/Taneda-Santōka/"
+  },"118": {
+    "doc": "Kasa no Taijun",
+    "title": "Kasa no Taijun",
+    "content": "Welcome to the page of Kasa no Taijun! Here you can find their quotes. ",
+    "url": "/Ky%C5%8Dka%20Haiku/authors/Kasa-no-Taijun/",
+    
+    "relUrl": "/Kyōka Haiku/authors/Kasa-no-Taijun/"
+  },"119": {
+    "doc": "Takarai Kikaku",
+    "title": "Takarai Kikaku",
+    "content": "Welcome to the page of Takarai Kikaku! Here you can find their quotes. ",
+    "url": "/Ky%C5%8Dka%20Haiku/authors/Takarai-Kikaku/",
+    
+    "relUrl": "/Kyōka Haiku/authors/Takarai-Kikaku/"
+  },"120": {
+    "doc": "Kobayashi Issa",
+    "title": "Kobayashi Issa",
+    "content": "Welcome to the page of Kobayashi Issa! Here you can find their quotes. ",
+    "url": "/Ky%C5%8Dka%20Haiku/authors/Kobayashi-Issa/",
+    
+    "relUrl": "/Kyōka Haiku/authors/Kobayashi-Issa/"
+  },"121": {
+    "doc": "Natsume Sōseki",
+    "title": "Natsume Sōseki",
+    "content": "Welcome to the page of Natsume Sōseki! Here you can find their quotes. ",
+    "url": "/Modern%20Japanese%20Haiku%20(20th%20century)/authors/Natsume-S%C5%8Dseki/",
+    
+    "relUrl": "/Modern Japanese Haiku (20th century)/authors/Natsume-Sōseki/"
+  },"122": {
+    "doc": "Modern Japanese Haiku (20th century)",
+    "title": "Modern Japanese Haiku (20th century)",
+    "content": "Welcome to the page of Modern Japanese Haiku (20th century) . ",
+    "url": "/Modern%20Japanese%20Haiku%20(20th%20century)",
+    
+    "relUrl": "/Modern Japanese Haiku (20th century)"
+  },"123": {
     "doc": "Nature Poems",
     "title": "Poems",
-    "content": ". | Yosa Buson - The old ponda frog jumps insplash - December 28, 2024 | Yosa Buson - The light of a candleIs as distant as - December 28, 2024 | Yosa Buson - On a branch tipA tiny sparrowHolds - December 28, 2024 | Yosa Buson - In the cicadas cryNo sign can - December 28, 2024 | Yosa Buson - Dew clings to the grassIn the morning - December 28, 2024 | Yosa Buson - Clouds slip by at dawnThe nightingale - December 28, 2024 | Yosa Buson - Autumn moonlighta worm digs - December 28, 2024 | Yosa Buson - Amidst the blossomsThe gentle wind - December 28, 2024 | Yosa Buson - Alone in the moonlightA cherry blossom - December 28, 2024 | Yosa Buson - A summer river being crossedHow - December 28, 2024 | Takarai Sanya - Under the old tree A squirrel dances - December 28, 2024 | Takarai Sanya - The sound of the stream Gently - December 28, 2024 | Takarai Sanya - The light of a candleIs as great as - December 28, 2024 | Takarai Sanya - Stars twinkle above Reflections on - December 28, 2024 | Takarai Sanya - Raindrops on the leaves Each a pearl - December 28, 2024 | Takarai Sanya - Morning mist rises Veiling the - December 28, 2024 | Takarai Sanya - In the quiet woods Footprints left by - December 28, 2024 | Takarai Sanya - Cherry blossoms drift Carried on the - December 28, 2024 | Takarai Sanya - An old silent pond A frog jumps in - December 28, 2024 | Takarai Sanya - A single snowflake Whirls down in the - December 28, 2024 | Sōgi - Winter seclusionSnowflakes dance - December 28, 2024 | Sōgi - The autumn breeze blowsScattering - December 28, 2024 | Sōgi - Morning frost lingersOn the petals of - December 28, 2024 | Sōgi - In the cicadas cryNo sign can - December 28, 2024 | Sōgi - Close to the riverThe blossoms sway - December 28, 2024 | Sōgi - Beneath the narrowMoonlight on the - December 28, 2024 | Sōgi - As the sun dips lowFading colors - December 28, 2024 | Sōgi - An old silent pondA frog jumps into - December 28, 2024 | Sōgi - A solitary crowPerched upon a barren - December 28, 2024 | Sōgi - A gentle rain fallsOn the leaves of - December 28, 2024 | Shiki Masaoka - The white dew is falling The thick - December 28, 2024 | Shiki Masaoka - Softly falls the snow Each flake a - December 28, 2024 | Shiki Masaoka - Pink blossoms flutter In the - December 28, 2024 | Shiki Masaoka - On the quiet path Fireflies dance in - December 28, 2024 | Shiki Masaoka - Morning mist rises Awakening the old - December 28, 2024 | Shiki Masaoka - In the twilight hours Old dreams - December 28, 2024 | Shiki Masaoka - Crimson leaves scatter The sound of - December 28, 2024 | Shiki Masaoka - Bamboo sways gently In the breeze a - December 28, 2024 | Shiki Masaoka - A single cicada Calls out to the - December 28, 2024 | Shiki Masaoka - A single chrysanthemum Frost-covered - December 28, 2024 | Natsume Sōseki - The river flows softly a - December 28, 2024 | Natsume Sōseki - The mist rises over the lakeShrouding - December 28, 2024 | Natsume Sōseki - The first snow blankets the groundA - December 28, 2024 | Natsume Sōseki - The fallen leaves swirl round and - December 28, 2024 | Natsume Sōseki - The cicadas sing in the heatTheir - December 28, 2024 | Natsume Sōseki - In the quiet of the nightA lone owl - December 28, 2024 | Natsume Sōseki - In the garden a lone flower - December 28, 2024 | Natsume Sōseki - Crickets sing in the twilightTheir - December 28, 2024 | Natsume Sōseki - Beneath the vast expanseThe mountain - December 28, 2024 | Natsume Sōseki - A single cherry tree bloomsWith - December 28, 2024 | Matsuo Bashō - Winter seclusionListening that - December 28, 2024 | Matsuo Bashō - The morning gloryIt was taken by the - December 28, 2024 | Matsuo Bashō - The light of a candleIs transferred to - December 28, 2024 | Matsuo Bashō - The first cold showerEven the - December 28, 2024 | Matsuo Bashō - So lonely lonelyA single autumn - December 28, 2024 | Matsuo Bashō - In the cicadas cryNo sign can - December 28, 2024 | Matsuo Bashō - Cherry blossoms flutterIn the echoes - December 28, 2024 | Matsuo Bashō - An old silent pondA frog jumps into - December 28, 2024 | Matsuo Bashō - A mountain pathThe sound of a - December 28, 2024 | Matsuo Bashō - A crow has landedOn a bare branch a - December 28, 2024 | Kusama Shizuen - The nightingale calls Echoing - December 28, 2024 | Kusama Shizuen - Snowflakes gently fall Veiling the - December 28, 2024 | Kusama Shizuen - Raindrops on the pond Rippling - December 28, 2024 | Kusama Shizuen - Mountain peaks so high Touched by - December 28, 2024 | Kusama Shizuen - Morning dew glistens Each blade of - December 28, 2024 | Kusama Shizuen - Moonlight through the trees Shadows - December 28, 2024 | Kusama Shizuen - In the tranquil night A firefly - December 28, 2024 | Kusama Shizuen - Cherry blossoms fall Softly on the - December 28, 2024 | Kusama Shizuen - Autumn leaves descend Rustling - December 28, 2024 | Kusama Shizuen - A lone cicada Sings beneath the - December 28, 2024 | Kobayashi Issa - The years end nowa deer grazes - December 28, 2024 | Kobayashi Issa - The winter seclusiona stumble into - December 28, 2024 | Kobayashi Issa - The snow is fallingand falling once - December 28, 2024 | Kobayashi Issa - The light of a candleis like the light - December 28, 2024 | Kobayashi Issa - The first winter raintoo silent to be - December 28, 2024 | Kobayashi Issa - In the cicadas crytheres no sign - December 28, 2024 | Kobayashi Issa - Even in a treeI hear the sound of the - December 28, 2024 | Kobayashi Issa - Deep in the mountaina single crow - December 28, 2024 | Kobayashi Issa - An old silent ponda frog jumps into - December 28, 2024 | Kobayashi Issa - A world of dewand within every - December 28, 2024 | Chiyo-ni - Winters last snowfallAn old crow on - December 28, 2024 | Chiyo-ni - The summer sunlightFireflies dance - December 28, 2024 | Chiyo-ni - The dawn is breakingOn the swamp a - December 28, 2024 | Chiyo-ni - Silkworms tend to eatAmid the - December 28, 2024 | Chiyo-ni - Nestled in blossomsThe sleeping bee - December 28, 2024 | Chiyo-ni - In the still eveningCranes take wing - December 28, 2024 | Chiyo-ni - Evening shadows fallA cool breeze - December 28, 2024 | Chiyo-ni - Blossoms on the branchThe scent of - December 28, 2024 | Chiyo-ni - Bamboo sways with easeWhile the wind - December 28, 2024 | Chiyo-ni - A waterfalls songIn the deep canyon - December 28, 2024 | Akao Jutaro - The sound of the wavesEchoing in the - December 28, 2024 | Akao Jutaro - The light of a candleIs transferred to - December 28, 2024 | Akao Jutaro - The cherry blossomFalling softly in - December 28, 2024 | Akao Jutaro - Over the wintryForest winds howl in - December 28, 2024 | Akao Jutaro - Misty morning breaksOver the hills - December 28, 2024 | Akao Jutaro - In the deepening duskThe bare trees - December 28, 2024 | Akao Jutaro - In the cicadas cryNo sign can - December 28, 2024 | Akao Jutaro - An old silent pondA frog jumps into - December 28, 2024 | Akao Jutaro - A world of dewAnd within every - December 28, 2024 | Akao Jutaro - A cold rain fallsLeaves scatter on - December 28, 2024 | . ",
+    "content": ". | Yosa Buson - twilight - December 28, 2024 | Yosa Buson - over the moons - December 28, 2024 | Yosa Buson - morning - December 28, 2024 | Yosa Buson - in the quiet - December 28, 2024 | Yosa Buson - in the moonlit - December 28, 2024 | Yosa Buson - falling leaves - December 28, 2024 | Yosa Buson - after the long - December 28, 2024 | Yosa Buson - across the - December 28, 2024 | Yosa Buson - a single plum - December 28, 2024 | Yosa Buson - a cool - December 28, 2024 | Yamaguchi Seishi - morning - December 28, 2024 | Yamaguchi Seishi - moonlit - December 28, 2024 | Yamaguchi Seishi - autumn leaves - December 28, 2024 | Natsume Sōseki - The old - December 28, 2024 | Natsume Sōseki - The moon - December 28, 2024 | Natsume Sōseki - The light of a - December 28, 2024 | Natsume Sōseki - The deep blue sea - December 28, 2024 | Natsume Sōseki - Over the - December 28, 2024 | Natsume Sōseki - In the cicadas - December 28, 2024 | Natsume Sōseki - Cherry blossoms - December 28, 2024 | Natsume Sōseki - An old silent pond - December 28, 2024 | Natsume Sōseki - A world of - December 28, 2024 | Nakahara Nantenbo - the sound of raindrops - December 28, 2024 | Nakahara Nantenbo - the old pine tree - December 28, 2024 | Nakahara Nantenbo - snowflakes gently fall - December 28, 2024 | Nakahara Nantenbo - new buds breaking free - December 28, 2024 | Nakahara Nantenbo - morning mist rises - December 28, 2024 | Nakahara Nantenbo - fireflies at dusk - December 28, 2024 | Nakahara Nantenbo - deep in the forest - December 28, 2024 | Nakahara Nantenbo - blossoms - December 28, 2024 | Nakahara Nantenbo - beneath the pale moon - December 28, 2024 | Nakahara Nantenbo - autumn leaves swirl down - December 28, 2024 | Miyoshi Tōkō - under the full moon - December 28, 2024 | Miyoshi Tōkō - the old stone bridge - December 28, 2024 | Miyoshi Tōkō - mountains in the mist - December 28, 2024 | Miyoshi Tōkō - morning dew glistens - December 28, 2024 | Miyoshi Tōkō - in the winters hush - December 28, 2024 | Miyoshi Tōkō - in the quiet woods - December 28, 2024 | Miyoshi Tōkō - by the rivers edge - December 28, 2024 | Miyoshi Tōkō - autumn leaves tumble - December 28, 2024 | Miyoshi Tōkō - ancient cherry tree - December 28, 2024 | Miyoshi Tōkō - after the rainfall - December 28, 2024 | Masaoka Shiki - water reeds bend - December 28, 2024 | Masaoka Shiki - the wild grasses - December 28, 2024 | Masaoka Shiki - the summer breeze blows - December 28, 2024 | Masaoka Shiki - the shining moonlight - December 28, 2024 | Masaoka Shiki - the cool shade - December 28, 2024 | Masaoka Shiki - snowflakes drifting down - December 28, 2024 | Masaoka Shiki - silent - December 28, 2024 | Masaoka Shiki - over the still pond - December 28, 2024 | Masaoka Shiki - on a windless day - December 28, 2024 | Masaoka Shiki - in the autumn air - December 28, 2024 | Masaoka Shiki - falling cherry blooms - December 28, 2024 | Masaoka Shiki - beneath the old oak - December 28, 2024 | Masaoka Shiki - autumn dusk - December 28, 2024 | Masaoka Shiki - a winter - December 28, 2024 | Kobayashi Issa - the mountain - December 28, 2024 | Kobayashi Issa - in the quiet - December 28, 2024 | Kobayashi Issa - cherry blossoms - December 28, 2024 | Kobayashi Issa - The sun sets - December 28, 2024 | Kobayashi Issa - The snow is all - December 28, 2024 | Kobayashi Issa - The old ponds - December 28, 2024 | Kobayashi Issa - The butterfly - December 28, 2024 | Kobayashi Issa - On a leafless - December 28, 2024 | Kobayashi Issa - Morning - December 28, 2024 | Kobayashi Issa - In the - December 28, 2024 | Kobayashi Issa - In the cicadas - December 28, 2024 | Kobayashi Issa - Autumn - December 28, 2024 | Kobayashi Issa - A world of - December 28, 2024 | Kato Shuson - - December 28, 2024 | Hayashi Takahashi - winter seclusion - December 28, 2024 | Hayashi Takahashi - the old pond - December 28, 2024 | Hayashi Takahashi - spring rain - December 28, 2024 | Hayashi Takahashi - nights stillness - December 28, 2024 | Hayashi Takahashi - in the morning dew - December 28, 2024 | Hayashi Takahashi - in the cicadas cry - December 28, 2024 | Hayashi Takahashi - cold winds from the sea - December 28, 2024 | Hayashi Takahashi - autumn moonlight - December 28, 2024 | Hayashi Takahashi - after the storm - December 28, 2024 | Hayashi Takahashi - a single chestnut - December 28, 2024 | Hachiya Natsumi - winters first snowfall - December 28, 2024 | Hachiya Natsumi - the mountain stands tall - December 28, 2024 | Hachiya Natsumi - the cicada calls - December 28, 2024 | Hachiya Natsumi - morning dew glistens - December 28, 2024 | Hachiya Natsumi - in the autumn breeze - December 28, 2024 | Hachiya Natsumi - gentle spring breeze - December 28, 2024 | Hachiya Natsumi - cherry blossoms fall - December 28, 2024 | Hachiya Natsumi - by the quiet pond - December 28, 2024 | Hachiya Natsumi - beneath the full moon - December 28, 2024 | Hachiya Natsumi - as night draws its veil - December 28, 2024 | William Wordsworth - When on my bed I lie - December 28, 2024 | William Wordsworth - What man has made of man - December 28, 2024 | William Wordsworth - To me the meanest flower that blows - December 28, 2024 | William Wordsworth - Those who are horned winds and rivers - December 28, 2024 | William Wordsworth - There is a comfort in the strength of - December 28, 2024 | William Wordsworth - The child is father of the man - December 28, 2024 | William Wordsworth - Surprised by joyimpassioned by a - December 28, 2024 | William Wordsworth - I wandered lonely as a cloud - December 28, 2024 | William Wordsworth - For oft when on my couch I lie - December 28, 2024 | William Wordsworth - A poet could not but be gay - December 28, 2024 | William Blake - To - December 28, 2024 | William Blake - The - December 28, 2024 | William Blake - The Garden of - December 28, 2024 | William Blake - The Ecchoing - December 28, 2024 | William Blake - Spring - December 28, 2024 | William Blake - Night - December 28, 2024 | William Blake - Morning - December 28, 2024 | William Blake - A Poison - December 28, 2024 | Samuel Taylor Coleridge - This Lime-Tree Bower My - December 28, 2024 | Percy Bysshe Shelley - To a - December 28, 2024 | Percy Bysshe Shelley - The - December 28, 2024 | Percy Bysshe Shelley - The Sensitive - December 28, 2024 | Percy Bysshe Shelley - Ode to the West - December 28, 2024 | Percy Bysshe Shelley - Mont - December 28, 2024 | Percy Bysshe Shelley - Loves - December 28, 2024 | Percy Bysshe Shelley - Lines Written in the Bay of - December 28, 2024 | Percy Bysshe Shelley - Adonaïs An Elegy on the Death of John - December 28, 2024 | Percy Bysshe Shelley - A Winters - December 28, 2024 | Lord Byron - Upon the Rivers brow a silver - December 28, 2024 | Lord Byron - To stand beside the sea and offer - December 28, 2024 | Lord Byron - There is a pleasure in the pathless - December 28, 2024 | Lord Byron - The sky is bright without a - December 28, 2024 | Lord Byron - The clouds are resting on the - December 28, 2024 | Lord Byron - So well go no more a - December 28, 2024 | Lord Byron - She walks in beauty like the - December 28, 2024 | Lord Byron - Oh I could gaze for ever on the - December 28, 2024 | Lord Byron - My soul is darkoh soon - December 28, 2024 | John Keats - The grass the leaves of - December 28, 2024 | John Keats - Season of mists and mellow - December 28, 2024 | John Keats - Ode to a - December 28, 2024 | John Keats - In the midst of the rosemarys - December 28, 2024 | John Keats - I wandered lonely as a - December 28, 2024 | John Keats - Gathering of the clouds high as a - December 28, 2024 | John Keats - Come away O human - December 28, 2024 | John Keats - Beauty is truth truth beautythat is - December 28, 2024 | John Keats - A thing of beauty is a joy for - December 28, 2024 | John Keats - A Faun or perhaps a - December 28, 2024 | John Clare - Thy voice is the music of wild - December 28, 2024 | John Clare - The woods and fields all whisper - December 28, 2024 | John Clare - The woodland larkwhose voice was - December 28, 2024 | John Clare - The flower that smiles - December 28, 2024 | John Clare - O once I wondered how the woods could - December 28, 2024 | John Clare - I see them on their long trek to the - December 28, 2024 | John Clare - I amyet what I am none cares or - December 28, 2024 | John Clare - Gathering clouds were in the - December 28, 2024 | John Clare - A wildness fills the sky - December 28, 2024 | Henry Wadsworth Longfellow - To the River - December 28, 2024 | Henry Wadsworth Longfellow - There is a - December 28, 2024 | Henry Wadsworth Longfellow - The - December 28, 2024 | Henry Wadsworth Longfellow - The Song of - December 28, 2024 | Henry Wadsworth Longfellow - The Skeleton in - December 28, 2024 | Henry Wadsworth Longfellow - The Rainy - December 28, 2024 | Henry Wadsworth Longfellow - The Fire of - December 28, 2024 | Henry Wadsworth Longfellow - Nature - December 28, 2024 | Henry Wadsworth Longfellow - Hiawathas - December 28, 2024 | Elizabeth Barrett Browning - The world is full of love and - December 28, 2024 | Elizabeth Barrett Browning - The mountains look on - December 28, 2024 | Elizabeth Barrett Browning - Shall I not let thee go O where has - December 28, 2024 | Elizabeth Barrett Browning - Like a lone wild flower in a garden - December 28, 2024 | Elizabeth Barrett Browning - I wander through the fields - December 28, 2024 | Elizabeth Barrett Browning - I thank you my God that you are so - December 28, 2024 | Elizabeth Barrett Browning - How do I love thee Let me count the - December 28, 2024 | Elizabeth Barrett Browning - Go from me yet I feel that I shall - December 28, 2024 | Elizabeth Barrett Browning - By the tranquil seaward shore I - December 28, 2024 | Elizabeth Barrett Browning - Awake awake The sun chastened - December 28, 2024 | Alfred Lord Tennyson - What is more gentle than a - December 28, 2024 | Alfred Lord Tennyson - The - December 28, 2024 | Alfred Lord Tennyson - The tides and the flow of - December 28, 2024 | Alfred Lord Tennyson - The sun is far down on the western - December 28, 2024 | Alfred Lord Tennyson - The brook is a constant stream a - December 28, 2024 | Alfred Lord Tennyson - Stars they are whispers of the - December 28, 2024 | Alfred Lord Tennyson - Ode to the West - December 28, 2024 | Alfred Lord Tennyson - In Memoriam - December 28, 2024 | Alfred Lord Tennyson - Fallen leaves in the autumn - December 28, 2024 | Yosa Buson - winter - December 28, 2024 | Yosa Buson - the ponds - December 28, 2024 | Yosa Buson - the old - December 28, 2024 | Yosa Buson - the morning - December 28, 2024 | Yosa Buson - the big tree - December 28, 2024 | Yosa Buson - lightning - December 28, 2024 | Yosa Buson - in the cicadas - December 28, 2024 | Yosa Buson - crumbling the - December 28, 2024 | Yosa Buson - cool breeze a - December 28, 2024 | Yosa Buson - a summer river being - December 28, 2024 | Tanikawa Shuntaro - the rivers voice - December 28, 2024 | Tanikawa Shuntaro - the moon is - December 28, 2024 | Tanikawa Shuntaro - the first snowflakes - December 28, 2024 | Tanikawa Shuntaro - the cicadas - December 28, 2024 | Tanikawa Shuntaro - snow falls - December 28, 2024 | Tanikawa Shuntaro - in the forest - December 28, 2024 | Tanikawa Shuntaro - in autumns - December 28, 2024 | Tanikawa Shuntaro - beneath the - December 28, 2024 | Tanikawa Shuntaro - a slice of - December 28, 2024 | Tanikawa Shuntaro - a lone crow caws - December 28, 2024 | Taneda Santoka - where the river bends - December 28, 2024 | Taneda Santoka - under the pine - December 28, 2024 | Taneda Santoka - the wild plum blooms - December 28, 2024 | Taneda Santoka - the sound of rain - December 28, 2024 | Taneda Santoka - snow falling deep - December 28, 2024 | Taneda Santoka - morning fog - December 28, 2024 | Taneda Santoka - moonlit night - December 28, 2024 | Taneda Santoka - crickets chorus - December 28, 2024 | Taneda Santoka - clouds drift by - December 28, 2024 | Taneda Santoka - a mountain stream - December 28, 2024 | Shiki Masaoka - the winter wind howls - December 28, 2024 | Shiki Masaoka - the summer sun sets - December 28, 2024 | Shiki Masaoka - the sound of wild geese - December 28, 2024 | Shiki Masaoka - the peony blooms - December 28, 2024 | Shiki Masaoka - the evening dew falls - December 28, 2024 | Shiki Masaoka - in the quiet garden - December 28, 2024 | Shiki Masaoka - in the autumn moonlight - December 28, 2024 | Shiki Masaoka - by the riverbank - December 28, 2024 | Shiki Masaoka - a soft breeze blows - December 28, 2024 | Shiki Masaoka - a butterfly flits - December 28, 2024 | Saito Mokichi - - December 28, 2024 | Natsume Sōseki - Upon a - December 28, 2024 | Natsume Sōseki - The Old - December 28, 2024 | Natsume Sōseki - Morning dew - December 28, 2024 | Natsume Sōseki - In the quiet - December 28, 2024 | Natsume Sōseki - In the cicadas - December 28, 2024 | Natsume Sōseki - Emerging from - December 28, 2024 | Natsume Sōseki - Cherry blossoms - December 28, 2024 | Natsume Sōseki - Beneath the cold - December 28, 2024 | Natsume Sōseki - Among the pine - December 28, 2024 | Natsume Sōseki - Amidst the - December 28, 2024 | Kobayashi Issa - With a light heart - December 28, 2024 | Kobayashi Issa - Under the - December 28, 2024 | Kobayashi Issa - The snow is - December 28, 2024 | Kobayashi Issa - The light of a - December 28, 2024 | Kobayashi Issa - Morning glory - December 28, 2024 | Kobayashi Issa - In the cicadas - December 28, 2024 | Kobayashi Issa - Blowing out the - December 28, 2024 | Kobayashi Issa - An old - December 28, 2024 | Kobayashi Issa - A world of - December 28, 2024 | Kobayashi Issa - A dragonfly - December 28, 2024 | Kawamoto Kiyoko - under the full - December 28, 2024 | Kawamoto Kiyoko - tide pulls the - December 28, 2024 | Kawamoto Kiyoko - the quiet - December 28, 2024 | Kawamoto Kiyoko - morning mist clings - December 28, 2024 | Kawamoto Kiyoko - morning dew - December 28, 2024 | Kawamoto Kiyoko - fireflies - December 28, 2024 | Kawamoto Kiyoko - crickets - December 28, 2024 | Kawamoto Kiyoko - beneath the - December 28, 2024 | Kawamoto Kiyoko - autumn leaves - December 28, 2024 | Kawamoto Kiyoko - a mountains - December 28, 2024 | Kato Shuson - under the old pine - December 28, 2024 | Kato Shuson - the river flows on - December 28, 2024 | Kato Shuson - the autumn wind - December 28, 2024 | Kato Shuson - snow on the branches - December 28, 2024 | Kato Shuson - morning mist lifts - December 28, 2024 | Kato Shuson - moonlit nightfall - December 28, 2024 | Kato Shuson - in the quiet dusk - December 28, 2024 | Kato Shuson - first snow falling - December 28, 2024 | Kato Shuson - cherry blossoms fall - December 28, 2024 | Kato Shuson - beneath the willow - December 28, 2024 | Higashi Kyuin - winters chill - December 28, 2024 | Higashi Kyuin - wildflowers bloom - December 28, 2024 | Higashi Kyuin - the river flows - December 28, 2024 | Higashi Kyuin - snow blankets the - December 28, 2024 | Higashi Kyuin - morning - December 28, 2024 | Higashi Kyuin - moonlight on water - December 28, 2024 | Higashi Kyuin - in the quiet - December 28, 2024 | Higashi Kyuin - cherry blossoms - December 28, 2024 | Higashi Kyuin - autumn leaves dance - December 28, 2024 | Higashi Kyuin - a lone - December 28, 2024 | Yosa Buson - white clouds scattered - December 28, 2024 | Yosa Buson - the stillness of dawn - December 28, 2024 | Yosa Buson - the coolness of the water - December 28, 2024 | Yosa Buson - taking in the spring - December 28, 2024 | Yosa Buson - snowflakes falling - December 28, 2024 | Yosa Buson - in the cicadas cry - December 28, 2024 | Yosa Buson - beneath the blue sky - December 28, 2024 | Yosa Buson - a summer moon - December 28, 2024 | Yosa Buson - a red maple leaf - December 28, 2024 | Yosa Buson - a cicadas cry - December 28, 2024 | Taneda Santōka - winter twilight - December 28, 2024 | Taneda Santōka - wild cherries - December 28, 2024 | Taneda Santōka - the moons soft - December 28, 2024 | Taneda Santōka - the first morning - December 28, 2024 | Taneda Santōka - snowflakes drifting - December 28, 2024 | Taneda Santōka - old abandoned - December 28, 2024 | Taneda Santōka - gentle summer - December 28, 2024 | Taneda Santōka - autumns end - December 28, 2024 | Taneda Santōka - a field of spring - December 28, 2024 | Taneda Santōka - a distant - December 28, 2024 | Takarai Kikaku - - December 28, 2024 | Shiki Sōseki - Winter - December 28, 2024 | Shiki Sōseki - Under the full - December 28, 2024 | Shiki Sōseki - Spring wind gently - December 28, 2024 | Shiki Sōseki - Morning - December 28, 2024 | Shiki Sōseki - In the quiet - December 28, 2024 | Shiki Sōseki - Bamboo groves - December 28, 2024 | Shiki Sōseki - Autumn - December 28, 2024 | Shiki Sōseki - After the rain the gardens - December 28, 2024 | Shiki Sōseki - A persimmons - December 28, 2024 | Shiki Sōseki - A cicadas - December 28, 2024 | Nakahara Chuya - - December 28, 2024 | Miyazawa Kenji - Waves crash on the - December 28, 2024 | Miyazawa Kenji - Underneath the - December 28, 2024 | Miyazawa Kenji - The snowflakes dance - December 28, 2024 | Miyazawa Kenji - The night sky - December 28, 2024 | Miyazawa Kenji - The autumn leaves - December 28, 2024 | Miyazawa Kenji - Morning dew - December 28, 2024 | Miyazawa Kenji - In the quiet - December 28, 2024 | Miyazawa Kenji - In springs warm - December 28, 2024 | Miyazawa Kenji - Among the tall - December 28, 2024 | Miyazawa Kenji - A lone mountain - December 28, 2024 | Masaoka Shiki - The river moves - December 28, 2024 | Masaoka Shiki - The first snowflakes - December 28, 2024 | Masaoka Shiki - Silent winter - December 28, 2024 | Masaoka Shiki - Pink petals - December 28, 2024 | Masaoka Shiki - Morning dew - December 28, 2024 | Masaoka Shiki - Moonlight on the - December 28, 2024 | Masaoka Shiki - In the cool cool - December 28, 2024 | Masaoka Shiki - Hazy summer rain - December 28, 2024 | Masaoka Shiki - Crow perched on - December 28, 2024 | Masaoka Shiki - A lone firefly - December 28, 2024 | Kobayashi Issa - Winter seclusion - December 28, 2024 | Kobayashi Issa - The mosquitos cry - December 28, 2024 | Kobayashi Issa - The first plum blossom - December 28, 2024 | Kobayashi Issa - Over the wintry - December 28, 2024 | Kobayashi Issa - Light rain at dawn - December 28, 2024 | Kobayashi Issa - In the cool moist air - December 28, 2024 | Kobayashi Issa - In the cicadas cry - December 28, 2024 | Kobayashi Issa - Came a butterfly - December 28, 2024 | Kobayashi Issa - An old silent pond - December 28, 2024 | Kobayashi Issa - A snowy evening - December 28, 2024 | Kikaku - White dew drips slowly - December 28, 2024 | Kikaku - The river flows on - December 28, 2024 | Kikaku - The moonlight filtering - December 28, 2024 | Kikaku - The fireflies dance bright - December 28, 2024 | Kikaku - The cry of the crow - December 28, 2024 | Kikaku - In the morning mist - December 28, 2024 | Kikaku - An autumn wind blows - December 28, 2024 | Kikaku - Among the pine trees - December 28, 2024 | Kikaku - A single cherry bloom - December 28, 2024 | Kikaku - A frog leaps into - December 28, 2024 | Kasa no Taijun - snowflakes gently - December 28, 2024 | Kasa no Taijun - reflections - December 28, 2024 | Kasa no Taijun - mountain peaks rise - December 28, 2024 | Kasa no Taijun - moonlight on the - December 28, 2024 | Kasa no Taijun - in the quiet - December 28, 2024 | Kasa no Taijun - dawn breaks softly - December 28, 2024 | Kasa no Taijun - crickets - December 28, 2024 | Kasa no Taijun - breezes - December 28, 2024 | Kasa no Taijun - blossoms in the - December 28, 2024 | Kasa no Taijun - autumn leaves - December 28, 2024 | Yosa Buson - The smell of the - December 28, 2024 | Yosa Buson - The light of a - December 28, 2024 | Yosa Buson - The cicadas - December 28, 2024 | Yosa Buson - Spring rain is - December 28, 2024 | Yosa Buson - Over the - December 28, 2024 | Yosa Buson - On a - December 28, 2024 | Yosa Buson - In the cicadas - December 28, 2024 | Yosa Buson - First snowflakes - December 28, 2024 | Yosa Buson - A world of - December 28, 2024 | Yosa Buson - A blade of - December 28, 2024 | Takahashi Sekiun - - December 28, 2024 | Takahama Kyoshi - - December 28, 2024 | Saito Mokichi - Whispers of the wind - December 28, 2024 | Saito Mokichi - Rain upon the leaves - December 28, 2024 | Saito Mokichi - Mountain peak in mist - December 28, 2024 | Saito Mokichi - Moonlight on still lake - December 28, 2024 | Saito Mokichi - In the quiet dusk - December 28, 2024 | Saito Mokichi - Frost upon the grass - December 28, 2024 | Saito Mokichi - Creeping vines entwined - December 28, 2024 | Saito Mokichi - Blossoms greet the dawn - December 28, 2024 | Saito Mokichi - Amidst the pine grove - December 28, 2024 | Saito Mokichi - A herons still gaze - December 28, 2024 | Natsume Sōseki - The yume no - December 28, 2024 | Natsume Sōseki - The mountain path - December 28, 2024 | Natsume Sōseki - Spring rain - December 28, 2024 | Natsume Sōseki - Silence of the - December 28, 2024 | Natsume Sōseki - In the quiet - December 28, 2024 | Natsume Sōseki - Beneath the still - December 28, 2024 | Natsume Sōseki - An old pond - December 28, 2024 | Natsume Sōseki - Among the tall - December 28, 2024 | Natsume Sōseki - A world of - December 28, 2024 | Natsume Sōseki - A wild - December 28, 2024 | Nakahara Nantenbo - The first light of - December 28, 2024 | Nakahara Nantenbo - The cool breeze at - December 28, 2024 | Nakahara Nantenbo - Sunset paints the - December 28, 2024 | Nakahara Nantenbo - Snowflakes gently - December 28, 2024 | Nakahara Nantenbo - Rippling river - December 28, 2024 | Nakahara Nantenbo - Morning dew - December 28, 2024 | Nakahara Nantenbo - Fallen leaves drift - December 28, 2024 | Nakahara Nantenbo - Crickets in the - December 28, 2024 | Nakahara Nantenbo - A single - December 28, 2024 | Nakahara Nantenbo - A distant - December 28, 2024 | Masaoka Shiki - Under the full moon - December 28, 2024 | Masaoka Shiki - The winds of autumn - December 28, 2024 | Masaoka Shiki - The old pond - December 28, 2024 | Masaoka Shiki - The cherry blossoms - December 28, 2024 | Masaoka Shiki - Snow on daisies now - December 28, 2024 | Masaoka Shiki - In the cicadas cry - December 28, 2024 | Masaoka Shiki - Autumn leaves falling - December 28, 2024 | Masaoka Shiki - After the storm - December 28, 2024 | Masaoka Shiki - A world of dew - December 28, 2024 | Masaoka Shiki - A single wildflower - December 28, 2024 | Kobayashi Issa - Under cherry - December 28, 2024 | Kobayashi Issa - The snow is - December 28, 2024 | Kobayashi Issa - The light of a - December 28, 2024 | Kobayashi Issa - On a - December 28, 2024 | Kobayashi Issa - Old - December 28, 2024 | Kobayashi Issa - O - December 28, 2024 | Kobayashi Issa - Morning - December 28, 2024 | Kobayashi Issa - In the cicadas - December 28, 2024 | Kobayashi Issa - Beneath the - December 28, 2024 | Kobayashi Issa - A world of - December 28, 2024 | Kato Shuson - whenever spring - December 28, 2024 | Kato Shuson - the thunder - December 28, 2024 | Kato Shuson - the distant - December 28, 2024 | Kato Shuson - moonlight on the - December 28, 2024 | Kato Shuson - mist rising at - December 28, 2024 | Kato Shuson - fireflies at - December 28, 2024 | Kato Shuson - beneath the old - December 28, 2024 | Kato Shuson - a single - December 28, 2024 | Kato Shuson - a lonely bird - December 28, 2024 | Kato Shuson - a ahh in - December 28, 2024 | Hekigoto - - December 28, 2024 | Yosa Buson - Winter - December 28, 2024 | Yosa Buson - Wet with autumn - December 28, 2024 | Yosa Buson - Underneath the - December 28, 2024 | Yosa Buson - The light of a - December 28, 2024 | Yosa Buson - The fragrant - December 28, 2024 | Yosa Buson - The first snowflakes - December 28, 2024 | Yosa Buson - Green leaves and - December 28, 2024 | Yosa Buson - Evening - December 28, 2024 | Yosa Buson - Dew on the - December 28, 2024 | Yosa Buson - Amidst the - December 28, 2024 | Sora - Winter seclusion - December 28, 2024 | Sora - The moon tonight - December 28, 2024 | Sora - The light of a candle - December 28, 2024 | Sora - Over the wintry - December 28, 2024 | Sora - On a branch - December 28, 2024 | Sora - In the quiet dusk - December 28, 2024 | Sora - In the cicadas cry - December 28, 2024 | Sora - An old silent pond - December 28, 2024 | Sora - An empty seat - December 28, 2024 | Sora - A world of dew - December 28, 2024 | Ryōkan - Through the tall pines - December 28, 2024 | Ryōkan - The moonlit garden - December 28, 2024 | Ryōkan - Snow falls silently - December 28, 2024 | Ryōkan - Ripples on the stream - December 28, 2024 | Ryōkan - In the morning mist - December 28, 2024 | Ryōkan - Drifting autumn leaves - December 28, 2024 | Ryōkan - Cherry blossoms float - December 28, 2024 | Ryōkan - Bamboo sways softly - December 28, 2024 | Ryōkan - A peaceful night - December 28, 2024 | Ryōkan - A lone cicadas - December 28, 2024 | Natsume Sōseki - - December 28, 2024 | Natsume Sōseki - - December 28, 2024 | Natsume Sōseki - - December 28, 2024 | Matsuo Bashō - Whispering through the pines - December 28, 2024 | Matsuo Bashō - The light of a candle - December 28, 2024 | Matsuo Bashō - The first winter rain - December 28, 2024 | Matsuo Bashō - The end of the road - December 28, 2024 | Matsuo Bashō - The autumn wind blows - December 28, 2024 | Matsuo Bashō - On a branch - December 28, 2024 | Matsuo Bashō - In the cicadas cry - December 28, 2024 | Matsuo Bashō - An old silent pond - December 28, 2024 | Matsuo Bashō - A mushroom - December 28, 2024 | Masaoka Shiki - The wind unhurried - December 28, 2024 | Masaoka Shiki - The sparkling river - December 28, 2024 | Masaoka Shiki - The first light of dawn - December 28, 2024 | Masaoka Shiki - The autumn leaves fall - December 28, 2024 | Masaoka Shiki - Snowflakes gently fall - December 28, 2024 | Masaoka Shiki - In the quiet night - December 28, 2024 | Masaoka Shiki - Cherry blossoms fall - December 28, 2024 | Masaoka Shiki - Bamboo sways softly - December 28, 2024 | Masaoka Shiki - A single plum tree - December 28, 2024 | Masaoka Shiki - A light dew drifts - December 28, 2024 | Korin - Winters chill - December 28, 2024 | Korin - Through the bamboo - December 28, 2024 | Korin - Quiet river - December 28, 2024 | Korin - Mountains touch the - December 28, 2024 | Korin - Moonlight on the - December 28, 2024 | Korin - Misty morning - December 28, 2024 | Korin - In the rice fields - December 28, 2024 | Korin - Cherry blossoms - December 28, 2024 | Korin - Autumn leaves - December 28, 2024 | Korin - A snowy - December 28, 2024 | Kobayashi Jūzō - Through the whispering pines - December 28, 2024 | Kobayashi Jūzō - The old stone lantern - December 28, 2024 | Kobayashi Jūzō - Stars above the sea - December 28, 2024 | Kobayashi Jūzō - Rain on the rooftop - December 28, 2024 | Kobayashi Jūzō - On the mountain trail - December 28, 2024 | Kobayashi Jūzō - Moonlight on still ponds - December 28, 2024 | Kobayashi Jūzō - In the meadow blooms - December 28, 2024 | Kobayashi Jūzō - Frost upon the grass - December 28, 2024 | Kobayashi Jūzō - Dawns first light - December 28, 2024 | Kobayashi Jūzō - A river flows past - December 28, 2024 | Kobayashi Issa - Winter - December 28, 2024 | Kobayashi Issa - Venomous snake - December 28, 2024 | Kobayashi Issa - This spiders - December 28, 2024 | Kobayashi Issa - The silent - December 28, 2024 | Kobayashi Issa - The old - December 28, 2024 | Kobayashi Issa - The butterfly - December 28, 2024 | Kobayashi Issa - Over the moss - December 28, 2024 | Kobayashi Issa - Morning dew drips - December 28, 2024 | Kobayashi Issa - In the cicadas - December 28, 2024 | Kobayashi Issa - A world of - December 28, 2024 | Kikaku - Winter seclusion - December 28, 2024 | Kikaku - Underneath the stars - December 28, 2024 | Kikaku - The light of a candle - December 28, 2024 | Kikaku - Scattered cherry petals - December 28, 2024 | Kikaku - On a lonely path - December 28, 2024 | Kikaku - Morning glory blooms - December 28, 2024 | Kikaku - In the cicadas cry - December 28, 2024 | Kikaku - By the mountain stream - December 28, 2024 | Kikaku - Beneath the full moon - December 28, 2024 | Kikaku - An old silent pond - December 28, 2024 | Yosa Buson - Winter - December 28, 2024 | Yosa Buson - The mountains - December 28, 2024 | Yosa Buson - The moon - December 28, 2024 | Yosa Buson - The light of a - December 28, 2024 | Yosa Buson - Moonlit nights - December 28, 2024 | Yosa Buson - In the cicadas - December 28, 2024 | Yosa Buson - Falling leaves - December 28, 2024 | Yosa Buson - Drifting blossoms - December 28, 2024 | Yosa Buson - Crows are - December 28, 2024 | Yosa Buson - A summer river being - December 28, 2024 | Yamaguchi Seishi - Winters chill - December 28, 2024 | Yamaguchi Seishi - Under the full - December 28, 2024 | Yamaguchi Seishi - The river flows - December 28, 2024 | Yamaguchi Seishi - The flutter of - December 28, 2024 | Yamaguchi Seishi - Mountains in the - December 28, 2024 | Yamaguchi Seishi - Morning dew clings - December 28, 2024 | Yamaguchi Seishi - In the quiet - December 28, 2024 | Yamaguchi Seishi - Cicadas sing - December 28, 2024 | Yamaguchi Seishi - Beneath the spring - December 28, 2024 | Yamaguchi Seishi - Autumn colors - December 28, 2024 | Taneda Santōka - the full harvest - December 28, 2024 | Taneda Santōka - the cold mountain - December 28, 2024 | Taneda Santōka - summer - December 28, 2024 | Taneda Santōka - spring - December 28, 2024 | Taneda Santōka - snow on the - December 28, 2024 | Taneda Santōka - in the quiet - December 28, 2024 | Taneda Santōka - in the evening - December 28, 2024 | Taneda Santōka - freshly fallen - December 28, 2024 | Taneda Santōka - an autumn - December 28, 2024 | Taneda Santōka - a willow tree - December 28, 2024 | Saito Makoto - winter seclusion - December 28, 2024 | Saito Makoto - the cicadas song - December 28, 2024 | Saito Makoto - silent pond - December 28, 2024 | Saito Makoto - river stones whisper - December 28, 2024 | Saito Makoto - morning dew spreads - December 28, 2024 | Saito Makoto - moonlit cherry trees - December 28, 2024 | Saito Makoto - fog drapes the valley - December 28, 2024 | Saito Makoto - blossoms in spring - December 28, 2024 | Saito Makoto - autumns gold leaves - December 28, 2024 | Saito Makoto - a single raindrop - December 28, 2024 | Natsume Tsubouchi - Winters breath is - December 28, 2024 | Natsume Tsubouchi - Thunder rumbles - December 28, 2024 | Natsume Tsubouchi - The distant - December 28, 2024 | Natsume Tsubouchi - Quiet night - December 28, 2024 | Natsume Tsubouchi - Murmuring stream - December 28, 2024 | Natsume Tsubouchi - Morning dew - December 28, 2024 | Natsume Tsubouchi - Gentle winds - December 28, 2024 | Natsume Tsubouchi - Birds in evening - December 28, 2024 | Natsume Tsubouchi - Autumn leaves - December 28, 2024 | Natsume Tsubouchi - A single - December 28, 2024 | Natsume Sōseki - Winters breath is - December 28, 2024 | Natsume Sōseki - The first snowflakes - December 28, 2024 | Natsume Sōseki - Moonlight spills - December 28, 2024 | Natsume Sōseki - In the quiet - December 28, 2024 | Natsume Sōseki - In the morning - December 28, 2024 | Natsume Sōseki - Fields of - December 28, 2024 | Natsume Sōseki - Cascading - December 28, 2024 | Natsume Sōseki - Bamboo sways - December 28, 2024 | Natsume Sōseki - Autumn leaves - December 28, 2024 | Natsume Sōseki - A single - December 28, 2024 | Masaoka Shiki - Under the moonlight - December 28, 2024 | Masaoka Shiki - The summer - December 28, 2024 | Masaoka Shiki - The rustling - December 28, 2024 | Masaoka Shiki - The cicadas - December 28, 2024 | Masaoka Shiki - Snowflakes fall - December 28, 2024 | Masaoka Shiki - Morning glory - December 28, 2024 | Masaoka Shiki - In the dead of - December 28, 2024 | Masaoka Shiki - From the mountain - December 28, 2024 | Masaoka Shiki - Blossoms drift like dreams - December 28, 2024 | Masaoka Shiki - A bird in the - December 28, 2024 | Kobayashi Issa - Winter - December 28, 2024 | Kobayashi Issa - The snow is - December 28, 2024 | Kobayashi Issa - The plums are - December 28, 2024 | Kobayashi Issa - The morning - December 28, 2024 | Kobayashi Issa - The light of a - December 28, 2024 | Kobayashi Issa - The crow has flown - December 28, 2024 | Kobayashi Issa - On a - December 28, 2024 | Kobayashi Issa - O - December 28, 2024 | Kobayashi Issa - In the cicadas - December 28, 2024 | Kobayashi Issa - A teacup of - December 28, 2024 | Kawaguchi Matsuo - Winters first - December 28, 2024 | Kawaguchi Matsuo - Through the tall pine - December 28, 2024 | Kawaguchi Matsuo - The light of a - December 28, 2024 | Kawaguchi Matsuo - Sunrise through the - December 28, 2024 | Kawaguchi Matsuo - Moonlit night so - December 28, 2024 | Kawaguchi Matsuo - Cascading - December 28, 2024 | Kawaguchi Matsuo - By the quiet - December 28, 2024 | Kawaguchi Matsuo - Bamboo sways - December 28, 2024 | Kawaguchi Matsuo - Among the wild - December 28, 2024 | Kawaguchi Matsuo - Amid the cherry - December 28, 2024 | Inagaki Taruho - Winters breath - December 28, 2024 | Inagaki Taruho - Through the quiet - December 28, 2024 | Inagaki Taruho - The old tree stands - December 28, 2024 | Inagaki Taruho - Sparrows - December 28, 2024 | Inagaki Taruho - Morning dew - December 28, 2024 | Inagaki Taruho - Moonlit mountain - December 28, 2024 | Inagaki Taruho - Golden leaves - December 28, 2024 | Inagaki Taruho - Cherry blossoms - December 28, 2024 | Inagaki Taruho - Amidst the tall - December 28, 2024 | Inagaki Taruho - A lone cicadas - December 28, 2024 | Yosa Buson - The temple bell - December 28, 2024 | Yosa Buson - The moonlight - December 28, 2024 | Yosa Buson - The light of a - December 28, 2024 | Yosa Buson - Spring rain - December 28, 2024 | Yosa Buson - Originally the - December 28, 2024 | Yosa Buson - Only a few - December 28, 2024 | Yosa Buson - On a - December 28, 2024 | Yosa Buson - In the dark of - December 28, 2024 | Yosa Buson - In the cicadas - December 28, 2024 | Yosa Buson - A world of - December 28, 2024 | Tōgō Kenji - Winters first - December 28, 2024 | Tōgō Kenji - The spring breeze - December 28, 2024 | Tōgō Kenji - Mountain peaks - December 28, 2024 | Tōgō Kenji - Morning dew - December 28, 2024 | Tōgō Kenji - Moonlight on the - December 28, 2024 | Tōgō Kenji - In the ancient - December 28, 2024 | Tōgō Kenji - Cicadas - December 28, 2024 | Tōgō Kenji - Beneath the hot - December 28, 2024 | Tōgō Kenji - A single leaf - December 28, 2024 | Tōgō Kenji - A rivers soft - December 28, 2024 | Taneda Santōka - Under the moonlight - December 28, 2024 | Taneda Santōka - The cherry blossom - December 28, 2024 | Taneda Santōka - On a winter night - December 28, 2024 | Taneda Santōka - Old bones creaking I - December 28, 2024 | Taneda Santōka - Morning fog lifting - December 28, 2024 | Taneda Santōka - In the mountain stream - December 28, 2024 | Taneda Santōka - Autumn leaves falling - December 28, 2024 | Taneda Santōka - A single snowflake - December 28, 2024 | Taneda Santōka - A cold dreary day - December 28, 2024 | Taneda Santōka - A cicada echoes - December 28, 2024 | Tada Chimako - waves kiss the shore - December 28, 2024 | Tada Chimako - the old pine tree - December 28, 2024 | Tada Chimako - silent - December 28, 2024 | Tada Chimako - mountain tops gleam - December 28, 2024 | Tada Chimako - moonlight on the - December 28, 2024 | Tada Chimako - mist upon the - December 28, 2024 | Tada Chimako - gentle rain - December 28, 2024 | Tada Chimako - crickets - December 28, 2024 | Tada Chimako - cherry blossoms - December 28, 2024 | Tada Chimako - a lone fern - December 28, 2024 | Seishi Yamaguchi - the river flows - December 28, 2024 | Seishi Yamaguchi - snowflakes gently - December 28, 2024 | Seishi Yamaguchi - silent mountain - December 28, 2024 | Seishi Yamaguchi - morning dew - December 28, 2024 | Seishi Yamaguchi - moonlight on still - December 28, 2024 | Seishi Yamaguchi - in the quiet - December 28, 2024 | Seishi Yamaguchi - in the morning - December 28, 2024 | Seishi Yamaguchi - beneath the full - December 28, 2024 | Seishi Yamaguchi - autumn leaves - December 28, 2024 | Seishi Yamaguchi - a lone cherry - December 28, 2024 | Okamoto Kanoko - the soft snowfall - December 28, 2024 | Okamoto Kanoko - silently the - December 28, 2024 | Okamoto Kanoko - mountain peak in - December 28, 2024 | Okamoto Kanoko - in the quiet - December 28, 2024 | Okamoto Kanoko - frozen pond at - December 28, 2024 | Okamoto Kanoko - dewdrops on the - December 28, 2024 | Okamoto Kanoko - beneath the - December 28, 2024 | Okamoto Kanoko - beneath the long - December 28, 2024 | Okamoto Kanoko - autumns brisk cool - December 28, 2024 | Okamoto Kanoko - a single pine - December 28, 2024 | Natsume Sōseki - Waves of the - December 28, 2024 | Natsume Sōseki - Snow falls softly - December 28, 2024 | Natsume Sōseki - Moonlight on the - December 28, 2024 | Natsume Sōseki - Lonely mountain - December 28, 2024 | Natsume Sōseki - In the quiet - December 28, 2024 | Natsume Sōseki - Cicadas croon - December 28, 2024 | Natsume Sōseki - Cherry blossoms - December 28, 2024 | Natsume Sōseki - Autumns cool - December 28, 2024 | Natsume Sōseki - A wet summers - December 28, 2024 | Natsume Sōseki - A solitary - December 28, 2024 | Matsuo Bashō - Winter - December 28, 2024 | Matsuo Bashō - The temple bell - December 28, 2024 | Matsuo Bashō - The sad tale of - December 28, 2024 | Matsuo Bashō - The light of a - December 28, 2024 | Matsuo Bashō - Over the - December 28, 2024 | Matsuo Bashō - On a - December 28, 2024 | Matsuo Bashō - In the cicadas - December 28, 2024 | Matsuo Bashō - An old silent - December 28, 2024 | Matsuo Bashō - After the storm - December 28, 2024 | Matsuo Bashō - A world of - December 28, 2024 | Masaoka Shiki - Under the cold - December 28, 2024 | Masaoka Shiki - The - December 28, 2024 | Masaoka Shiki - The robin sings - December 28, 2024 | Masaoka Shiki - Summer rain drips - December 28, 2024 | Masaoka Shiki - Snowflakes drift - December 28, 2024 | Masaoka Shiki - On a mountain - December 28, 2024 | Masaoka Shiki - Cicadas singing - December 28, 2024 | Masaoka Shiki - Beneath the old - December 28, 2024 | Masaoka Shiki - A single tree - December 28, 2024 | Masaoka Shiki - A distant temple - December 28, 2024 | Kobayashi Issa - When the mind is - December 28, 2024 | Kobayashi Issa - Under the cherry trees - December 28, 2024 | Kobayashi Issa - The - December 28, 2024 | Kobayashi Issa - The snow is - December 28, 2024 | Kobayashi Issa - The light of a - December 28, 2024 | Kobayashi Issa - The first soft snow - December 28, 2024 | Kobayashi Issa - O snail - December 28, 2024 | Kobayashi Issa - In the cicadas - December 28, 2024 | Kobayashi Issa - An old silent pond - December 28, 2024 | Kobayashi Issa - A world of - December 28, 2024 | Yosa Buson - The voice of a - December 28, 2024 | Yosa Buson - The song of the warbler - December 28, 2024 | Yosa Buson - The old - December 28, 2024 | Yosa Buson - The cherry blossoms - December 28, 2024 | Yosa Buson - On a leafless tree - December 28, 2024 | Yosa Buson - In the deep night - December 28, 2024 | Yosa Buson - In the cicadas - December 28, 2024 | Yosa Buson - Cicada - December 28, 2024 | Yosa Buson - A summer - December 28, 2024 | Yosa Buson - A drifting - December 28, 2024 | Taneda Santōki - Winter seclusion - December 28, 2024 | Taneda Santōki - The old pond - December 28, 2024 | Taneda Santōki - The light of a candle - December 28, 2024 | Taneda Santōki - Light a fire now - December 28, 2024 | Taneda Santōki - In the cicadas cry - December 28, 2024 | Taneda Santōki - In a bamboo grove - December 28, 2024 | Taneda Santōki - Cicadas cry - December 28, 2024 | Taneda Santōki - Between the pines - December 28, 2024 | Taneda Santōki - Autumn moonlight - December 28, 2024 | Taneda Santōki - A single cherry - December 28, 2024 | Sōseki Natsume - Upon the mountains - December 28, 2024 | Sōseki Natsume - Through the quiet - December 28, 2024 | Sōseki Natsume - The summer - December 28, 2024 | Sōseki Natsume - The sound of the - December 28, 2024 | Sōseki Natsume - The autumn - December 28, 2024 | Sōseki Natsume - In the - December 28, 2024 | Sōseki Natsume - In the spring rains - December 28, 2024 | Sōseki Natsume - In the cicadas - December 28, 2024 | Sōseki Natsume - Crickets in the - December 28, 2024 | Sōseki Natsume - A cool evening - December 28, 2024 | Shiki Masaoka - When the blooms - December 28, 2024 | Shiki Masaoka - Wakabas new - December 28, 2024 | Shiki Masaoka - Under the pine - December 28, 2024 | Shiki Masaoka - The sound of the - December 28, 2024 | Shiki Masaoka - The cool pond - December 28, 2024 | Shiki Masaoka - Just a single - December 28, 2024 | Shiki Masaoka - In the cicadas - December 28, 2024 | Shiki Masaoka - Autumn leaves - December 28, 2024 | Shiki Masaoka - Alone in the - December 28, 2024 | Shiki Masaoka - A distant - December 28, 2024 | Nakahara Chūya - When the rain - December 28, 2024 | Nakahara Chūya - Shivering in the - December 28, 2024 | Nakahara Chūya - Mountains wrapped in - December 28, 2024 | Nakahara Chūya - In a field of - December 28, 2024 | Nakahara Chūya - Frost on the - December 28, 2024 | Nakahara Chūya - Beneath the full - December 28, 2024 | Nakahara Chūya - Bare trees stretch their - December 28, 2024 | Nakahara Chūya - Autumn leaves - December 28, 2024 | Nakahara Chūya - Amidst cherry - December 28, 2024 | Nakahara Chūya - A lone cicada - December 28, 2024 | Mizuhara Shūji - Winters breath is - December 28, 2024 | Mizuhara Shūji - Under the old - December 28, 2024 | Mizuhara Shūji - The distant - December 28, 2024 | Mizuhara Shūji - Raindrops on the - December 28, 2024 | Mizuhara Shūji - Morning dew clings - December 28, 2024 | Mizuhara Shūji - Moonlit night - December 28, 2024 | Mizuhara Shūji - In the evening - December 28, 2024 | Mizuhara Shūji - Cherry blossoms - December 28, 2024 | Mizuhara Shūji - Autumn leaves - December 28, 2024 | Mizuhara Shūji - A single crow - December 28, 2024 | Matsuo Bashō - Winter seclusion - December 28, 2024 | Matsuo Bashō - The winds of spring - December 28, 2024 | Matsuo Bashō - The light of a candle - December 28, 2024 | Matsuo Bashō - The first soft snow - December 28, 2024 | Matsuo Bashō - Summer grasses - December 28, 2024 | Matsuo Bashō - On a branch - December 28, 2024 | Matsuo Bashō - In the cicadas cry - December 28, 2024 | Matsuo Bashō - Flavors of autumn - December 28, 2024 | Matsuo Bashō - An old silent pond - December 28, 2024 | Matsuo Bashō - A snow-covered hut - December 28, 2024 | Kobayashi Issa - The winter - December 28, 2024 | Kobayashi Issa - The old - December 28, 2024 | Kobayashi Issa - The light of a - December 28, 2024 | Kobayashi Issa - The first cold - December 28, 2024 | Kobayashi Issa - On a - December 28, 2024 | Kobayashi Issa - O - December 28, 2024 | Kobayashi Issa - Morning glory - December 28, 2024 | Kobayashi Issa - In the cicadas - December 28, 2024 | Kobayashi Issa - A world of - December 28, 2024 | Kobayashi Issa - A crow has - December 28, 2024 | Kawabata Yasunari - The wind whispers - December 28, 2024 | Kawabata Yasunari - The old - December 28, 2024 | Kawabata Yasunari - The light of a - December 28, 2024 | Kawabata Yasunari - The fields are - December 28, 2024 | Kawabata Yasunari - Raindrops on the - December 28, 2024 | Kawabata Yasunari - Misty morning - December 28, 2024 | Kawabata Yasunari - In the cicadas - December 28, 2024 | Kawabata Yasunari - Cherry blossoms - December 28, 2024 | Kawabata Yasunari - Along the quiet - December 28, 2024 | Kawabata Yasunari - A river flows - December 28, 2024 | Kato Shuson - Under the full moon - December 28, 2024 | Kato Shuson - Snow falls silently - December 28, 2024 | Kato Shuson - On the quiet lake - December 28, 2024 | Kato Shuson - Moss-covered stones lie - December 28, 2024 | Kato Shuson - Fallen blossoms - December 28, 2024 | Kato Shuson - Dewdrops on the grass - December 28, 2024 | Kato Shuson - Crickets serenade - December 28, 2024 | Kato Shuson - Cherry blossoms fall - December 28, 2024 | Kato Shuson - Bamboo sways in wind - December 28, 2024 | Kato Shuson - A lone crow caws out - December 28, 2024 | Yosa Buson - Under the willow - December 28, 2024 | Yosa Buson - The wind has - December 28, 2024 | Yosa Buson - The snow is - December 28, 2024 | Yosa Buson - The light of a - December 28, 2024 | Yosa Buson - On a - December 28, 2024 | Yosa Buson - Old - December 28, 2024 | Yosa Buson - In the cicadas - December 28, 2024 | Yosa Buson - First winter - December 28, 2024 | Yosa Buson - A field of summer - December 28, 2024 | Yosa Buson - A bee stirs up the - December 28, 2024 | Takarai Kikaku - The snowy - December 28, 2024 | Takarai Kikaku - The sand of the - December 28, 2024 | Takarai Kikaku - The light of the - December 28, 2024 | Takarai Kikaku - The fragrance of - December 28, 2024 | Takarai Kikaku - Old pond a frog - December 28, 2024 | Takarai Kikaku - In the cicadas - December 28, 2024 | Takarai Kikaku - Autumn wind - December 28, 2024 | Takarai Kikaku - A world of - December 28, 2024 | Takarai Kikaku - A lonely - December 28, 2024 | Takarai Kikaku - A cup of - December 28, 2024 | Shiki Masaoka - - December 28, 2024 | Saito Mokichi - Through the bamboo grove - December 28, 2024 | Saito Mokichi - The old pine tree sways - December 28, 2024 | Saito Mokichi - Snow blankets the earth - December 28, 2024 | Saito Mokichi - Rippling river songs - December 28, 2024 | Saito Mokichi - Morning dew glistens - December 28, 2024 | Saito Mokichi - In the quiet woods - December 28, 2024 | Saito Mokichi - Cicadas singing - December 28, 2024 | Saito Mokichi - Beneath the full moon - December 28, 2024 | Saito Mokichi - A soft breeze drifts - December 28, 2024 | Saito Mokichi - A distant mountain - December 28, 2024 | Ninomiya Sontoku - Winter - December 28, 2024 | Ninomiya Sontoku - The light of the - December 28, 2024 | Ninomiya Sontoku - Over the - December 28, 2024 | Ninomiya Sontoku - On a - December 28, 2024 | Ninomiya Sontoku - In the cool - December 28, 2024 | Ninomiya Sontoku - In the cicadas - December 28, 2024 | Ninomiya Sontoku - Even a rock will - December 28, 2024 | Ninomiya Sontoku - As the sun sets - December 28, 2024 | Ninomiya Sontoku - An old silent - December 28, 2024 | Ninomiya Sontoku - A world of - December 28, 2024 | Nakahara Nantenbō - Winter seclusion - December 28, 2024 | Nakahara Nantenbō - The moon drifts slowly - December 28, 2024 | Nakahara Nantenbō - Spring rain softly - December 28, 2024 | Nakahara Nantenbō - Morning dew settles - December 28, 2024 | Nakahara Nantenbō - Moonlight on water - December 28, 2024 | Nakahara Nantenbō - In a quiet grove - December 28, 2024 | Nakahara Nantenbō - Golden leaves dancing - December 28, 2024 | Nakahara Nantenbō - Cicadas joyfully - December 28, 2024 | Nakahara Nantenbō - Blossoms unfolding - December 28, 2024 | Nakahara Nantenbō - A lone pine stands tall - December 28, 2024 | Matsuo Bashō - an old silent pond - December 28, 2024 | Matsuo Bashō - Winter seclusion - December 28, 2024 | Matsuo Bashō - Under the cherry blossoms - December 28, 2024 | Matsuo Bashō - The temple bell stops - December 28, 2024 | Matsuo Bashō - The light of the moon - December 28, 2024 | Matsuo Bashō - The Light of a Candle - December 28, 2024 | Matsuo Bashō - On a bare branch - December 28, 2024 | Matsuo Bashō - In the green grass - December 28, 2024 | Matsuo Bashō - In the cicadas cry - December 28, 2024 | Matsuo Bashō - A world of dew - December 28, 2024 | Kuzan Shōha - The sound of the bell - December 28, 2024 | Kuzan Shōha - The first chill of fall - December 28, 2024 | Kuzan Shōha - The crow has flown away - December 28, 2024 | Kuzan Shōha - Over the wintry - December 28, 2024 | Kuzan Shōha - Old pond a frog jumps - December 28, 2024 | Kuzan Shōha - In the cicadas cry - December 28, 2024 | Kuzan Shōha - Dew on the grass blades - December 28, 2024 | Kuzan Shōha - Cherry blossoms fall - December 28, 2024 | Kuzan Shōha - Beyond the flapping - December 28, 2024 | Kuzan Shōha - A world of dew - December 28, 2024 | Kobayashi Issa - Under the pear - December 28, 2024 | Kobayashi Issa - The winter - December 28, 2024 | Kobayashi Issa - The morning - December 28, 2024 | Kobayashi Issa - The light of a - December 28, 2024 | Kobayashi Issa - On a blustery - December 28, 2024 | Kobayashi Issa - O - December 28, 2024 | Kobayashi Issa - In the cicadas - December 28, 2024 | Kobayashi Issa - I write - December 28, 2024 | Kobayashi Issa - Awakening - December 28, 2024 | Kobayashi Issa - A - December 28, 2024 | Kaga no Chiyo - The snow falls softly - December 28, 2024 | Kaga no Chiyo - The singing bird - December 28, 2024 | Kaga no Chiyo - The moonlit night - December 28, 2024 | Kaga no Chiyo - The early spring rain - December 28, 2024 | Kaga no Chiyo - Quiet mountain stream - December 28, 2024 | Kaga no Chiyo - In a summer field - December 28, 2024 | Kaga no Chiyo - Cherry blossoms bloom - December 28, 2024 | Kaga no Chiyo - As autumn leaves fall - December 28, 2024 | Kaga no Chiyo - A spiders web - December 28, 2024 | Kaga no Chiyo - A gust of wind - December 28, 2024 | Yosa Buson - The old pond a frog jumps - December 28, 2024 | Yosa Buson - The light of a - December 28, 2024 | Yosa Buson - Snowy - December 28, 2024 | Yosa Buson - Morning - December 28, 2024 | Yosa Buson - In the cicadas - December 28, 2024 | Yosa Buson - Fallen - December 28, 2024 | Yosa Buson - Blowing the - December 28, 2024 | Yosa Buson - A world of - December 28, 2024 | Yosa Buson - A summer river being - December 28, 2024 | Taneda Santōka - the sound of water - December 28, 2024 | Taneda Santōka - the path in the woods - December 28, 2024 | Taneda Santōka - shadows stretch slowly - December 28, 2024 | Taneda Santōka - on the old mountain - December 28, 2024 | Taneda Santōka - morning dew glistens - December 28, 2024 | Taneda Santōka - in the winter chill - December 28, 2024 | Taneda Santōka - beneath the full moon - December 28, 2024 | Taneda Santōka - as stars fill the sky - December 28, 2024 | Taneda Santōka - a leaf drifts downward - December 28, 2024 | Taneda Santōka - a gentle breeze - December 28, 2024 | Seishi Yamaguchi - when spring comes - December 28, 2024 | Seishi Yamaguchi - morning dew - December 28, 2024 | Seishi Yamaguchi - mist lifts at - December 28, 2024 | Seishi Yamaguchi - in the wild - December 28, 2024 | Seishi Yamaguchi - by the - December 28, 2024 | Seishi Yamaguchi - beneath the - December 28, 2024 | Seishi Yamaguchi - bamboo sways - December 28, 2024 | Seishi Yamaguchi - autumn leaves - December 28, 2024 | Seishi Yamaguchi - a quiet - December 28, 2024 | Seishi Yamaguchi - a lone crow - December 28, 2024 | Natsume Sōseki - - December 28, 2024 | Matsuo Bashō - The temple bell stops - December 28, 2024 | Matsuo Bashō - The light of a candle - December 28, 2024 | Matsuo Bashō - Sick on a journey - December 28, 2024 | Matsuo Bashō - Over the wintry - December 28, 2024 | Matsuo Bashō - On a branch - December 28, 2024 | Matsuo Bashō - Morning glory - December 28, 2024 | Matsuo Bashō - In the cicadas cry - December 28, 2024 | Matsuo Bashō - First snow - December 28, 2024 | Matsuo Bashō - An old silent pond - December 28, 2024 | Matsuo Bashō - A world of dew - December 28, 2024 | Masaoka Shiki - The light of a candle - December 28, 2024 | Masaoka Shiki - The cherry blossoms - December 28, 2024 | Masaoka Shiki - Summer rain drops - December 28, 2024 | Masaoka Shiki - Plum blossoms in the - December 28, 2024 | Masaoka Shiki - Morning glory blooms - December 28, 2024 | Masaoka Shiki - In the cicadas cry - December 28, 2024 | Masaoka Shiki - Autumn moonlight - December 28, 2024 | Masaoka Shiki - Above the deserted - December 28, 2024 | Masaoka Shiki - A world of dew - December 28, 2024 | Masaoka Shiki - A butterfly flutters - December 28, 2024 | Kobayashi Issa - Winter - December 28, 2024 | Kobayashi Issa - The wind of Mt - December 28, 2024 | Kobayashi Issa - The scent of plum - December 28, 2024 | Kobayashi Issa - The light of a - December 28, 2024 | Kobayashi Issa - The bush warblers - December 28, 2024 | Kobayashi Issa - On a - December 28, 2024 | Kobayashi Issa - O - December 28, 2024 | Kobayashi Issa - In the cicadas - December 28, 2024 | Kobayashi Issa - A world of - December 28, 2024 | Kobayashi Issa - A bee staggers - December 28, 2024 | Kakeki Shōshū - winters first - December 28, 2024 | Kakeki Shōshū - the tranquil - December 28, 2024 | Kakeki Shōshū - the mountain - December 28, 2024 | Kakeki Shōshū - over the still - December 28, 2024 | Kakeki Shōshū - morning dew - December 28, 2024 | Kakeki Shōshū - in the quiet - December 28, 2024 | Kakeki Shōshū - cherry blossoms - December 28, 2024 | Kakeki Shōshū - bamboo in the - December 28, 2024 | Kakeki Shōshū - autumn leaves - December 28, 2024 | Kakeki Shōshū - a cicadas - December 28, 2024 | Ishikawa Takuboku - The river flows on - December 28, 2024 | Ishikawa Takuboku - The pine tree stands - December 28, 2024 | Ishikawa Takuboku - The autumn leaves fall - December 28, 2024 | Ishikawa Takuboku - Snowflakes gently drift - December 28, 2024 | Ishikawa Takuboku - Morning dew glistens - December 28, 2024 | Ishikawa Takuboku - In the moonlit night - December 28, 2024 | Ishikawa Takuboku - Between the twilight - December 28, 2024 | Ishikawa Takuboku - Beneath the full moon - December 28, 2024 | Ishikawa Takuboku - A single wildflower - December 28, 2024 | Ishikawa Takuboku - A distant mountain - December 28, 2024 | Aku Ginkō - Winters first - December 28, 2024 | Aku Ginkō - Underneath the - December 28, 2024 | Aku Ginkō - Ripples on the - December 28, 2024 | Aku Ginkō - Over the still - December 28, 2024 | Aku Ginkō - In the quiet - December 28, 2024 | Aku Ginkō - Cicadas - December 28, 2024 | Aku Ginkō - Beneath the old - December 28, 2024 | Aku Ginkō - Autumn leaves - December 28, 2024 | Aku Ginkō - A morning in - December 28, 2024 | Aku Ginkō - A fading spring - December 28, 2024 | . ",
     "url": "/poems/#poems",
     
     "relUrl": "/poems/#poems"
-  },"25": {
+  },"124": {
     "doc": "Nature Poems",
     "title": "Nature Poems",
     "content": " ",

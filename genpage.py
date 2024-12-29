@@ -6,7 +6,8 @@ import re
 def write_quote_to_jekyll_page(subject, quote, author):
     # Get current date in the format required by Jekyll (_posts/YYYY-MM-DD-title.md)
     date_str = datetime.now().strftime("%Y-%m-%d")
-    title = f"{author} - {quote[:40].rsplit(' ', 1)[0].rstrip()}"
+    clean_quote=quote.splitlines()[0]
+    title = f"{author} - {clean_quote[:40].rsplit(' ', 1)[0].rstrip()}"
     #pattern=pattern = r'[^a-zA-ZáéíóúÁÉÍÓÚñÑ\s-]'
     pattern=r'[^a-zA-Z0-9\s\-_À-ÿ\u0100-\u017F\u0400-\u04FF]'
     title = re.sub(pattern, '', title)
@@ -16,7 +17,6 @@ def write_quote_to_jekyll_page(subject, quote, author):
     pattern = r'[<>:"/\\|?*\x00-\x1F]'
     filename = re.sub(pattern, '', filename)
     filename=f"{date_str}-{title}.md"
-    clean_quote=quote.splitlines()[0]
     
     # Create the content for the Jekyll page
     content = f"""---
