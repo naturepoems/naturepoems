@@ -41,7 +41,7 @@ permalink: /{subject}/{author}/{title}
     os.makedirs(posts_dir, exist_ok=True)
     
     # Write the content to a markdown file
-    file_path = os.path.join(posts_dir, filename)
+    file_path = os.path.join(posts_dir, filename[:20])
     with open(file_path, "w") as file:
         file.write(content)
     

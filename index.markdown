@@ -16,6 +16,8 @@ permalink: /
 
 ## Getting started
 {: .note }
+ *Something broke, I'll fix it tomorrow*
+
   Take a look around  
   
   Find some nature poems here  
