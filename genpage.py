@@ -35,7 +35,7 @@ permalink: /{subject}/{author}/{title}
 """
     
     output_dir="quotes/"+subject+"/"+author+"/_posts"
-    posts_dir = output_dir.replace(" ", "-")
+    posts_dir = output_dir#.replace(" ", "-")
 
     # Ensure the output directory exists
     os.makedirs(posts_dir, exist_ok=True)
@@ -73,10 +73,10 @@ Welcome to the page of {subject}
     print(f"subject page created: {file_path}")
   
 
-def create_author_index(author_name, subject, description="No Description" ):
+def create_author_index(author_name, subject, description ):
     # Ensure the output directory exists
     output_dir="quotes/"+subject+"/"+author_name
-    author_dir = output_dir.replace(" ", "-")
+    author_dir = output_dir#.replace(" ", "-")
     os.makedirs(author_dir, exist_ok=True)
 
     # Define the file path
@@ -89,14 +89,14 @@ title: {author_name}
 description: "{description}"
 subject: "{subject}"
 parent: {subject}
-permalink: /{subject}/authors/{author_name.replace(" ", "-")}/
+permalink: /{subject}/{author_name}/
 ---
 
-Welcome to the page of {author_name}! Here you can find their quotes.
+does this matter?
 """
-
+    
     # Write the content to the file
     with open(file_path, "w") as file:
         file.write(content)
-
+    
     print(f"Author page created: {file_path}")

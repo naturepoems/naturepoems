@@ -253,7 +253,7 @@ def main():
 
     for subject in subjects:
         print("subject...",subject)
-        write_subject(subject)
+        write_subject(subject, num=3)
     
 if __name__ == "__main__":
     main()
