@@ -3,7 +3,7 @@ from datetime import datetime
 import re
 
 # Function to create a Jekyll page from a quote
-def write_quote_to_jekyll_page(subject, quote="", author, title):
+def write_quote_to_jekyll_page(subject, quote, author, title):
     # Get current date in the format required by Jekyll (_posts/YYYY-MM-DD-title.md)
     date_str = datetime.now().strftime("%Y-%m-%d")
     try:
