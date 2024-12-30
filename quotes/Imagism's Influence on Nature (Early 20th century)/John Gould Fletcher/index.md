@@ -1,7 +1,7 @@
 ---
 layout: author
 title: John Gould Fletcher
-description: "An American Imagist poet known for his rich imagery and explorations of nature, particularly in poems that reflect the beauty and brutality of the natural environment."
+description: "An Imagist poet from Arkansas, Fletcher's work encompassed vivid descriptions of nature, as seen in his poems that reflect on the environment and its transformations."
 subject: "Imagism's Influence on Nature (Early 20th century)"
 parent: Imagism's Influence on Nature (Early 20th century)
 permalink: /Imagism's Influence on Nature (Early 20th century)/John Gould Fletcher/

@@ -1,7 +1,7 @@
 ---
 layout: author
 title: T S Eliot
-description: "Although a modernist, Eliot's poetry contains moments that reflect haiku's contemplative nature, especially in his engagement with nature imagery and explorative themes."
+description: "While primarily known for his complex modernist works, Eliot experimented with brevity and imagery that reflect haiku's influence, particularly in his later poems."
 subject: "Haiku in the English-Speaking World (Early 20th century)"
 parent: Haiku in the English-Speaking World (Early 20th century)
 permalink: /Haiku in the English-Speaking World (Early 20th century)/T S Eliot/

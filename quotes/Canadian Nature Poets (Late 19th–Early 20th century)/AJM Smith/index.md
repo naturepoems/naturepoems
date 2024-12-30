@@ -1,7 +1,7 @@
 ---
 layout: author
 title: AJM Smith
-description: "As a key figure in Canadian modernism, Smith's poetry often focused on the Canadian landscape, exploring its beauty and its relationship to the human experience."
+description: "A.J.M. Smith was a notable Canadian poet who explored the theme of nature extensively in his works. His poetry often reflects a deep engagement with the natural world."
 subject: "Canadian Nature Poets (Late 19th–Early 20th century)"
 parent: Canadian Nature Poets (Late 19th–Early 20th century)
 permalink: /Canadian Nature Poets (Late 19th–Early 20th century)/AJM Smith/

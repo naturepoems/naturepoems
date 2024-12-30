@@ -1,7 +1,7 @@
 ---
 layout: author
 title: William Butler Yeats
-description: "Though primarily regarded as an Irish poet, Yeats lived in Chicago for a time, and his poetry often draws heavily on natural imagery and the relationship between nature and the human spirit."
+description: "Although not directly a Chicago Imagist, Yeats influenced many poets in the movement. His nature poems are filled with imagery that reflects the beauty and mystery of the natural world."
 subject: "The Chicago Imagists (1920s–1930s)"
 parent: The Chicago Imagists (1920s–1930s)
 permalink: /The Chicago Imagists (1920s–1930s)/William Butler Yeats/

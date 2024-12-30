@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Robert Frost
-description: "An American poet recognized for his depictions of rural New England life, Robert Frost's work often engages with themes of nature, philosophy, and human experience, making profound observations about life."
+description: "Frost's poetry often portrays rural and natural scenes, with a philosophical underpinning that encourages readers to reflect on humanity's relationship with nature."
 subject: "Ecosophy in Poetry (Early 20th century)"
 parent: Ecosophy in Poetry (Early 20th century)
 permalink: /Ecosophy in Poetry (Early 20th century)/Robert Frost/

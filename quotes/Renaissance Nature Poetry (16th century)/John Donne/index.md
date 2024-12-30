@@ -1,7 +1,7 @@
 ---
 layout: author
 title: John Donne
-description: "An English poet and cleric in the Church of England, Donne's work often merges love with nature; his metaphysical poems touch on the relationship between the human experience and the natural world."
+description: "Though primarily associated with Metaphysical poetry, Donne's work includes contemplations on nature, love, and mortality that often evoke the beauty and complexity of the natural world."
 subject: "Renaissance Nature Poetry (16th century)"
 parent: Renaissance Nature Poetry (16th century)
 permalink: /Renaissance Nature Poetry (16th century)/John Donne/

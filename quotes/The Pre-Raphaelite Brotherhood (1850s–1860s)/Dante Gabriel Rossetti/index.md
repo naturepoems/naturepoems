@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Dante Gabriel Rossetti
-description: "An English poet, painter, and translator, Rossetti was one of the founding members of the Pre-Raphaelite Brotherhood. His poetry often reflects themes of nature, love, and beauty, characterized by lush imagery and a deep appreciation for the natural world."
+description: "A founding member of the Pre-Raphaelite Brotherhood, Rossetti was not only a poet but also a painter. His poetry often reflected themes of nature, love, and mythology, intertwining the beauty of the natural world with emotional depth."
 subject: "The Pre-Raphaelite Brotherhood (1850s–1860s)"
 parent: The Pre-Raphaelite Brotherhood (1850s–1860s)
 permalink: /The Pre-Raphaelite Brotherhood (1850s–1860s)/Dante Gabriel Rossetti/

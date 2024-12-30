@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Shiki Masaoka
-description: "An important haiku poet and critic, Shiki's work often blended nature with personal observation, helping to shape modern haiku's aesthetics."
+description: "Shiki Masaoka was instrumental in modernizing haiku and kyōka. His poignant observations of nature and life are marked by clarity and precision, contributing to the genre's evolution."
 subject: "Kyōka Haiku"
 parent: Kyōka Haiku
 permalink: /Kyōka Haiku/Shiki Masaoka/

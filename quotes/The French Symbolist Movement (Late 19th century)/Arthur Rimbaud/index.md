@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Arthur Rimbaud
-description: "Rimbaud is known for his innovative use of language and imagery. In his poems, such as 'Le Bateau Ivre' (The Drunken Boat), Rimbaud explores the relationship between nature and the self, pushing the boundaries of poetic form."
+description: "Rimbaud was a revolutionary poet whose works, such as 'A Season in Hell,' often illustrated his turbulent relationship with nature and expression, influencing the Symbolist movement profoundly."
 subject: "The French Symbolist Movement (Late 19th century)"
 parent: The French Symbolist Movement (Late 19th century)
 permalink: /The French Symbolist Movement (Late 19th century)/Arthur Rimbaud/

@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Robert Frost
-description: "An influential American poet whose works often reflect the complexities of rural life and nature, Frost's poetry frequently explores the relationship between humanity and the natural world, as seen in poems like 'Stopping by Woods on a Snowy Evening'."
+description: "A celebrated American poet, Frost's works often explore human experiences in rural settings, frequently reflecting on the interactions between people and their natural environments."
 subject: "Anthropocentric Nature Poetry (Early 20th century)"
 parent: Anthropocentric Nature Poetry (Early 20th century)
 permalink: /Anthropocentric Nature Poetry (Early 20th century)/Robert Frost/

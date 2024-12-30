@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Paul Laurence Dunbar
-description: "An African American poet and novelist whose work includes nature imagery and themes connected to the American South. Dunbar's poetry often reflects both beauty and struggle in natural settings."
+description: "An influential African American poet, Dunbar’s works frequently incorporate elements of nature, reflecting both personal and cultural experiences."
 subject: "The Nature Poets of the American South (19th–Early 20th century)"
 parent: The Nature Poets of the American South (19th–Early 20th century)
 permalink: /The Nature Poets of the American South (19th–Early 20th century)/Paul Laurence Dunbar/

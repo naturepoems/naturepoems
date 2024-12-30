@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Masaoka Shiki
-description: "Masaoka Shiki (1867–1902) is known for revitalizing haiku and establishing it as a serious literary form. His works often reflect the beauty of nature through a more modern lens, bridging Edo haiku traditions with new perspectives."
+description: "A significant figure in the modernization of haiku, Shiki emphasized clarity and simplicity in nature themes, reviving the form in the late Edo period."
 subject: "Haiku in the Edo Period (1603–1868)"
 parent: Haiku in the Edo Period (1603–1868)
 permalink: /Haiku in the Edo Period (1603–1868)/Masaoka Shiki/

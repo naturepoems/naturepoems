@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Jack London
-description: "A prominent American writer whose works revolve around nature and survival. His stories, such as 'The Call of the Wild' and 'White Fang', reflect the Naturalist perspective on the relationship between man and the natural world."
+description: "An American author famous for his works about the wilderness and adventure, his Naturalist writings frequently highlight the relationship between humans and the sublime force of nature."
 subject: "Naturalism (Late 19th century)"
 parent: Naturalism (Late 19th century)
 permalink: /Naturalism (Late 19th century)/Jack London/

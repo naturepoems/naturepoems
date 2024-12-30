@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Marcel Duchamp
-description: "Although primarily known as a visual artist, Duchamp's poetic works occasionally reflect his interest in nature, infused with Dada principles, questioning the boundaries of art and natural forms."
+description: "While primarily an artist, Duchamp's approach to poetry and the written word often engaged with natural motifs and Dadaist principles, challenging traditional aesthetics and exploring the relationship between art and nature."
 subject: "Dadaism and Nature (1910s–1920s)"
 parent: Dadaism and Nature (1910s–1920s)
 permalink: /Dadaism and Nature (1910s–1920s)/Marcel Duchamp/

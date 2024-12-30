@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Giuseppe Ungaretti
-description: "An influential Italian poet, Ungaretti is known for his modernist style and his ability to capture the essence of his experiences in nature. His works often reflect the tumult of World War I and his reflections in nature, expressing deep emotions tied to the natural landscape."
+description: "Ungaretti's poetry is characterized by its brevity and intensity. He often used imagery from nature to express deep emotional and existential themes, capturing moments of beauty amidst the chaos of life."
 subject: "Modernist Nature Writing in Italy (Early 20th century)"
 parent: Modernist Nature Writing in Italy (Early 20th century)
 permalink: /Modernist Nature Writing in Italy (Early 20th century)/Giuseppe Ungaretti/

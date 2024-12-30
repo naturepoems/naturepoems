@@ -1,7 +1,7 @@
 ---
 layout: author
 title: William Carlos Williams
-description: "A key figure in American Modernism, Williams combined the everyday with the profound in his poetry. His collections, such as 'Spring and All,' often include vivid descriptions of the natural world, reflecting his belief in the integration of life and art."
+description: "A major American modernist, Williams is known for his vivid depictions of everyday life and nature in poems like 'The Red Wheelbarrow' and 'This Is Just to Say'. His work emphasizes the beauty of simplicity and the significance of natural imagery."
 subject: "American Modernism and Nature (1910s–1930s)"
 parent: American Modernism and Nature (1910s–1930s)
 permalink: /American Modernism and Nature (1910s–1930s)/William Carlos Williams/

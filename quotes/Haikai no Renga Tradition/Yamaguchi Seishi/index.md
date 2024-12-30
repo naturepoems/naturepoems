@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Yamaguchi Seishi
-description: "A prominent contemporary poet, Seishi writes haiku influenced by the Haikai tradition, often emphasizing the beauty of nature and the changing seasons."
+description: "Yamaguchi Seishi (1901-1976) was a prominent figure in modern haiku poetry, influenced by the Haikai no Renga tradition. His work often captured the beauty of nature with emotional depth."
 subject: "Haikai no Renga Tradition"
 parent: Haikai no Renga Tradition
 permalink: /Haikai no Renga Tradition/Yamaguchi Seishi/

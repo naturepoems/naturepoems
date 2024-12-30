@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Stephen Crane
-description: "Primarily known as a novelist, Crane also wrote poetry that reflects realism; his nature poems often focus on the themes of survival and the human experience within harsh realities."
+description: "An American novelist and poet whose work often confronted the complexities of life and nature. Crane’s poetry reflects his fascination with the natural world and its indifference to human struggles, particularly in works like 'The Black Riders'."
 subject: "American Realism and Nature Poetry (Late 19th–Early 20th century)"
 parent: American Realism and Nature Poetry (Late 19th–Early 20th century)
 permalink: /American Realism and Nature Poetry (Late 19th–Early 20th century)/Stephen Crane/

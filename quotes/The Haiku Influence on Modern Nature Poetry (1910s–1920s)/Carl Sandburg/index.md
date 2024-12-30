@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Carl Sandburg
-description: "An American poet, Sandburg's work often features elements of nature. He embraced free verse influenced by the haiku's sensitivity to the natural world."
+description: "An American poet known for his portrayal of industrial and natural landscapes, Sandburg incorporated haiku-like brevity and vivid descriptions in his nature-themed poetry."
 subject: "The Haiku Influence on Modern Nature Poetry (1910s–1920s)"
 parent: The Haiku Influence on Modern Nature Poetry (1910s–1920s)
 permalink: /The Haiku Influence on Modern Nature Poetry (1910s–1920s)/Carl Sandburg/

@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Richard Huelsenbeck
-description: "A Dada poet and artist, Huelsenbeck's writings often involve nature as part of his avant-garde experiments, pushing the boundaries of conventional poetry."
+description: "Huelsenbeck was a German Dada artist and poet who used nature as a backdrop in his often provocative works, reflecting Dada's engagement with the tumultuous environment of his time."
 subject: "Dadaism and Nature (1910s–1920s)"
 parent: Dadaism and Nature (1910s–1920s)
 permalink: /Dadaism and Nature (1910s–1920s)/Richard Huelsenbeck/

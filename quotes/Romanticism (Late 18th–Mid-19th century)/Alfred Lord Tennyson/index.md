@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Alfred Lord Tennyson
-description: "An English poet who became Poet Laureate, Tennyson is known for his lush imagery and contemplations on nature and existence in poems like 'In Memoriam' and 'The Idylls of the King.'"
+description: "Tennyson was a British poet who wrote during the Victorian era but was heavily influenced by Romantic themes. His poem 'In Memoriam A. H. H.' contains reflections on nature and love."
 subject: "Romanticism (Late 18th–Mid-19th century)"
 parent: Romanticism (Late 18th–Mid-19th century)
 permalink: /Romanticism (Late 18th–Mid-19th century)/Alfred Lord Tennyson/

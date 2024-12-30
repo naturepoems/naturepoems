@@ -1,7 +1,7 @@
 ---
 layout: author
 title: William Carlos Williams
-description: "An American poet closely associated with modernism, Williams's poetry often reflects his observations of nature and the everyday life in New Jersey, emphasizing the importance of direct experience."
+description: "An influential American modernist poet, Williams often focused on the natural environment in his works, promoting a unique connection between art and ecosystem."
 subject: "Ecosophy in Poetry (Early 20th century)"
 parent: Ecosophy in Poetry (Early 20th century)
 permalink: /Ecosophy in Poetry (Early 20th century)/William Carlos Williams/

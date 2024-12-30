@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Rafael Alberti
-description: "From the Generation of '27, Alberti's poetry frequently celebrates nature, intertwining personal and social themes with a rich, lyrical style that reflects the beauty and struggles found within the natural environment."
+description: "An influential poet and playwright, Alberti's early works reflect a fascination with the natural environment. His modernist approach often intertwines elements of surrealism and vivid imagery of the Spanish landscape."
 subject: "Modernist Nature Writing in Spain (1920s)"
 parent: Modernist Nature Writing in Spain (1920s)
 permalink: /Modernist Nature Writing in Spain (1920s)/Rafael Alberti/

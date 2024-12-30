@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Anne Waldman
-description: "A prominent Beat poet and co-founder of the Jack Kerouac School of Disembodied Poetics, Anne Waldman’s work often invokes natural imagery, drawing connections between the personal, transcendent experiences, and nature."
+description: "Waldman is known for her passionate engagement with the natural world, and her poetry often intertwines environmental activism with Beat aesthetics."
 subject: "The Beat Generation and Nature (1940s–1950s)"
 parent: The Beat Generation and Nature (1940s–1950s)
 permalink: /The Beat Generation and Nature (1940s–1950s)/Anne Waldman/

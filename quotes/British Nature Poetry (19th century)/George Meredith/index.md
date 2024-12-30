@@ -1,7 +1,7 @@
 ---
 layout: author
 title: George Meredith
-description: "An important figure in Victorian poetry, Meredith's works like 'Modern Love' and 'The Ode to the Sea' blend themes of love with a vivid portrayal of the natural environment."
+description: "Meredith is noted for his lyrical poetry that intertwines themes of nature and human passions. His collection 'Modern Love' contains vivid imagery and reflections on the natural world."
 subject: "British Nature Poetry (19th century)"
 parent: British Nature Poetry (19th century)
 permalink: /British Nature Poetry (19th century)/George Meredith/

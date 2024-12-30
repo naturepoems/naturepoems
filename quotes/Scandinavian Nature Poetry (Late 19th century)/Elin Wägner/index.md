@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Elin Wägner
-description: "A Swedish novelist and poet whose works often depicted her love for nature, Wägner was a significant figure in Swedish literature, intertwining themes of feminism and environmentalism in her writing."
+description: "A Swedish author and poet, Wägner sought to express the spiritual connection between humans and nature, often highlighting environmental concerns in her poetry."
 subject: "Scandinavian Nature Poetry (Late 19th century)"
 parent: Scandinavian Nature Poetry (Late 19th century)
 permalink: /Scandinavian Nature Poetry (Late 19th century)/Elin Wägner/

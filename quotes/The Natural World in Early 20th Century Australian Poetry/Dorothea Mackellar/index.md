@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Dorothea Mackellar
-description: "Famous for her poem 'My Country', Mackellar captures the beauty and diversity of the Australian landscape through evocative language, celebrating the natural world in a distinctly Australian context."
+description: "An Australian poet known for her evocative poems about the Australian landscape. Her most famous work, 'My Country', vividly portrays the Australian environment, capturing its unique beauty and extremes."
 subject: "The Natural World in Early 20th Century Australian Poetry"
 parent: The Natural World in Early 20th Century Australian Poetry
 permalink: /The Natural World in Early 20th Century Australian Poetry/Dorothea Mackellar/

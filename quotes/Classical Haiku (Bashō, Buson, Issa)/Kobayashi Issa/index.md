@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Kobayashi Issa
-description: "Issa (1763-1828) is celebrated for his compassionate and humorous approach to haiku. His poems frequently depict the simple joys and sorrows of the everyday life of nature, emphasizing the interconnectedness of human experience and the natural world."
+description: "A prominent haiku poet of the 18th century, Issa's work often centered on nature and the lives of small creatures, showcasing a warm, humanistic approach."
 subject: "Classical Haiku (Bashō, Buson, Issa)"
 parent: Classical Haiku (Bashō, Buson, Issa)
 permalink: /Classical Haiku (Bashō, Buson, Issa)/Kobayashi Issa/

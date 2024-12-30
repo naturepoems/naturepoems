@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Salvatore Quasimodo
-description: "A Nobel Prize-winning poet, Quasimodo's work often incorporates themes of nature. He is known for his ability to evoke the beauty and pain of the natural world, interlacing personal and universal themes through modernist techniques."
+description: "A Nobel-prize-winning poet, Quasimodo's works emphasize the relationship between humanity and nature. His interests in the rhythms of the natural world reflect his modernist inclinations towards simplicity and clarity."
 subject: "Modernist Nature Writing in Italy (Early 20th century)"
 parent: Modernist Nature Writing in Italy (Early 20th century)
 permalink: /Modernist Nature Writing in Italy (Early 20th century)/Salvatore Quasimodo/

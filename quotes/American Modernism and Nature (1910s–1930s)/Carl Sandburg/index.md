@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Carl Sandburg
-description: "An American poet, biographer, and editor, Sandburg's poetry often captures the spirit of the American landscape, especially the Midwest. His nature imagery is rich and varied, conveying both beauty and grit in works like 'Chicago Poems.'"
+description: "An American poet, Sandburg is known for his free verse poetry and explorations of American life. His work often reflects nature and rural imagery, as seen in poems like 'Chicago' and his 'Grass', which explores the intersection of human endeavor and the natural landscape."
 subject: "American Modernism and Nature (1910s–1930s)"
 parent: American Modernism and Nature (1910s–1930s)
 permalink: /American Modernism and Nature (1910s–1930s)/Carl Sandburg/

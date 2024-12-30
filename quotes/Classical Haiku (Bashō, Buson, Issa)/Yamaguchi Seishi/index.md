@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Yamaguchi Seishi
-description: "Seishi (1916-2003) was recognized for his innovative haiku that put a contemporary spin on classical themes, particularly in relation to nature."
+description: "Known for his experimental approach to haiku, Seishi’s work often drew inspiration from the natural world and redefined traditional haiku aesthetics."
 subject: "Classical Haiku (Bashō, Buson, Issa)"
 parent: Classical Haiku (Bashō, Buson, Issa)
 permalink: /Classical Haiku (Bashō, Buson, Issa)/Yamaguchi Seishi/

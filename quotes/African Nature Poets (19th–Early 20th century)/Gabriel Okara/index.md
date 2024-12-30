@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Gabriel Okara
-description: "A Nigerian poet and novelist, whose works often reflect his relationship with nature and traditional African life, bridging the gap between modernity and his cultural roots."
+description: "A Nigerian poet and novelist, Okara’s works encompass themes of nature and the strong connection to the African landscape, reflecting the realities of life in Nigeria."
 subject: "African Nature Poets (19th–Early 20th century)"
 parent: African Nature Poets (19th–Early 20th century)
 permalink: /African Nature Poets (19th–Early 20th century)/Gabriel Okara/

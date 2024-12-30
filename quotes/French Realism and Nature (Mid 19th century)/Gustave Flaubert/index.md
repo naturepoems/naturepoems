@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Gustave Flaubert
-description: "Though primarily known as a novelist, Flaubert's works often reflect the detailed realism of nature and human experience. His descriptive passages in novels such as 'Madame Bovary' reveal a profound understanding of the environment."
+description: "Though primarily known as a novelist, Flaubert's prose often exhibited a poetic quality that reflected nature and realism, particularly in works like 'Bouvard et Pécuchet' where he explores the relationship between humans and their environment."
 subject: "French Realism and Nature (Mid 19th century)"
 parent: French Realism and Nature (Mid 19th century)
 permalink: /French Realism and Nature (Mid 19th century)/Gustave Flaubert/

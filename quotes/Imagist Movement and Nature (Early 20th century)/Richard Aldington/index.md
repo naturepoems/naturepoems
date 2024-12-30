@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Richard Aldington
-description: "A British poet and a founder of the Imagist Movement, Richard Aldington's works include strong natural imagery and highlight the beauty of the physical world in a modern and stark manner."
+description: "A poet and novelist, Aldington contributed to the Imagist movement with his crisp, clear style, often depicting the natural world with a focus on form and movement."
 subject: "Imagist Movement and Nature (Early 20th century)"
 parent: Imagist Movement and Nature (Early 20th century)
 permalink: /Imagist Movement and Nature (Early 20th century)/Richard Aldington/

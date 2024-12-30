@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Emily Dickinson
-description: "Though she wrote from her home in Massachusetts, Dickinson's poetry offers deep engagement with nature, exploring its beauty and mysteries, contributing to the transcendental themes akin to Hudson River School aesthetics."
+description: "While mainly associated with her unique style and themes of death and immortality, Dickinson's poetry often reflects her deep appreciation for nature and its details, resonating with the ideals of the Hudson River School."
 subject: "The Hudson River School Poets (19th century)"
 parent: The Hudson River School Poets (19th century)
 permalink: /The Hudson River School Poets (19th century)/Emily Dickinson/

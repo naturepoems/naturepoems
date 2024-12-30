@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Saito Mokichi
-description: "Mokichi was a poet and artist whose works in haiku and kyōka capture the delicate relationships between nature, emotion, and spirituality."
+description: "Saito Mokichi was a modern Japanese poet who contributed significantly to the kyōka genre, intertwining themes of nature with his reflections on society and existence. His style often combined lyrical beauty with poignant observation."
 subject: "Kyōka Haiku"
 parent: Kyōka Haiku
 permalink: /Kyōka Haiku/Saito Mokichi/

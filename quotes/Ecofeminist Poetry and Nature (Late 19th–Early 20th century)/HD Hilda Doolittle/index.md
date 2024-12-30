@@ -1,7 +1,7 @@
 ---
 layout: author
 title: HD Hilda Doolittle
-description: "A modernist poet who engaged with themes of nature and gender in her work, H.D. often emphasized the primal connections between women and the natural environment."
+description: "Part of the Imagist movement, H.D. integrated themes of nature and feminism in her poetry, using striking imagery to express connections between women and the natural world."
 subject: "Ecofeminist Poetry and Nature (Late 19th–Early 20th century)"
 parent: Ecofeminist Poetry and Nature (Late 19th–Early 20th century)
 permalink: /Ecofeminist Poetry and Nature (Late 19th–Early 20th century)/HD Hilda Doolittle/

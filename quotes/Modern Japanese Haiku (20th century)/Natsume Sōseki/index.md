@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Natsume Sōseki
-description: "Natsume Sōseki (1867-1916) was not only a renowned novelist but also a prolific haiku poet. His haikus often explore themes of nature and human emotion, bridging the gap between traditional and modern Japanese literature."
+description: "Although primarily known as a novelist, Sōseki also composed haiku that reflect his philosophical engagement with nature and the human experience within it, blending modern thought with traditional aesthetics."
 subject: "Modern Japanese Haiku (20th century)"
 parent: Modern Japanese Haiku (20th century)
 permalink: /Modern Japanese Haiku (20th century)/Natsume Sōseki/

@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Henry James
-description: "An influential author and critic, James explored themes of consciousness, perception, and the influence of environment on individuals in works that align with Naturalist ideas, particularly in his novels like 'The Portrait of a Lady'."
+description: "An American-British author, his later works embraced Naturalism, focusing on the complexities of human psychology and the influence of environment."
 subject: "Naturalism (Late 19th century)"
 parent: Naturalism (Late 19th century)
 permalink: /Naturalism (Late 19th century)/Henry James/

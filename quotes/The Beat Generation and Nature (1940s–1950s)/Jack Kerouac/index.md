@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Jack Kerouac
-description: "Known primarily for his prose, Kerouac's poetry also reflects a spontaneous and profound relationship with nature, as seen in works like 'Mexico City Blues', where the beauty and spirit of the natural world are a recurring theme."
+description: "While best known for his prose, Kerouac's poetry frequently reflects his love for nature, as seen in works like 'Mexico City Blues', where he captures the beauty and chaos of the natural world."
 subject: "The Beat Generation and Nature (1940s–1950s)"
 parent: The Beat Generation and Nature (1940s–1950s)
 permalink: /The Beat Generation and Nature (1940s–1950s)/Jack Kerouac/

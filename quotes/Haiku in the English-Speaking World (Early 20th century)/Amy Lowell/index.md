@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Amy Lowell
-description: "An American poet of the Imagist movement, Lowell was instrumental in bringing new poetic forms to the English-speaking world, drawing inspiration from Japanese haiku and its emphasis on vivid imagery and emotional depth."
+description: "A key figure in the American Imagist movement, Amy Lowell's poetry often embraced the aesthetics of haiku. She published a collection titled 'What's O'Clock' that included haiku-like poems reflecting on nature."
 subject: "Haiku in the English-Speaking World (Early 20th century)"
 parent: Haiku in the English-Speaking World (Early 20th century)
 permalink: /Haiku in the English-Speaking World (Early 20th century)/Amy Lowell/

@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Amy Lowell
-description: "An American poet and a key advocate for Imagism, Lowell’s works celebrate nature through vivid depictions, with poems such as 'August,' showcasing the beauty and depth of natural environments."
+description: "A poet and advocate of Imagism, Amy Lowell’s work often explores themes of nature with sharp, sensory detail. Her poem 'Venus Transiens' conveys a sense of longing intertwined with natural imagery."
 subject: "Imagism's Influence on Nature (Early 20th century)"
 parent: Imagism's Influence on Nature (Early 20th century)
 permalink: /Imagism's Influence on Nature (Early 20th century)/Amy Lowell/

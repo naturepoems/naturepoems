@@ -6,7 +6,10 @@ import re
 def write_quote_to_jekyll_page(subject, quote, author, title):
     # Get current date in the format required by Jekyll (_posts/YYYY-MM-DD-title.md)
     date_str = datetime.now().strftime("%Y-%m-%d")
-    clean_quote=quote.splitlines()[0]
+    try:
+        clean_quote=quote.splitlines()[0]
+    except Exception as e:
+        print("e")
     title = f"{author} - {title}"
     #pattern=pattern = r'[^a-zA-ZáéíóúÁÉÍÓÚñÑ\s-]'
     pattern=r'[^a-zA-Z0-9\s\-_À-ÿ\u0100-\u017F\u0400-\u04FF]'

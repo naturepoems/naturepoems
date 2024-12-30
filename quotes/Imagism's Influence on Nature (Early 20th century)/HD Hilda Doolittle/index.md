@@ -1,7 +1,7 @@
 ---
 layout: author
 title: HD Hilda Doolittle
-description: "A pivotal Imagist poet, H.D. frequently explored themes of nature in her poetry, using succinct imagery and emotional resonance in works like 'Oread' that reflect on the power of the natural world."
+description: "A prominent Imagist poet, H.D. often drew inspiration from nature, mythology, and personal experience. Her poem 'Oread' illustrates her ability to encapsulate the power and immediacy of natural landscapes."
 subject: "Imagism's Influence on Nature (Early 20th century)"
 parent: Imagism's Influence on Nature (Early 20th century)
 permalink: /Imagism's Influence on Nature (Early 20th century)/HD Hilda Doolittle/

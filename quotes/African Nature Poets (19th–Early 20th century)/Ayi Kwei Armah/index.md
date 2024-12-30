@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Ayi Kwei Armah
-description: "Ghanaian novelist and poet whose works depict the connection between human existence and the natural world, emphasizing the African landscape."
+description: "Ghanaian writer and poet, Armah’s poetry reflects themes of nature, often connecting the African landscape with broader philosophical inquiries about life and humanity."
 subject: "African Nature Poets (19th–Early 20th century)"
 parent: African Nature Poets (19th–Early 20th century)
 permalink: /African Nature Poets (19th–Early 20th century)/Ayi Kwei Armah/

@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Gary Snyder
-description: "A major figure of the Beat Generation, Gary Snyder's poetry reflects his deep connection to nature, ecology, and Zen Buddhism. His works like 'The Practice of the Wild' explore natural landscapes and often emphasize a harmonious relationship between humanity and nature."
+description: "Often referred to as the 'father of modern nature poetry,' Snyder's works emphasize the connection between nature and humanity, inspired by his experiences in the wilderness and his study of Eastern philosophy."
 subject: "The Beat Generation and Nature (1940s–1950s)"
 parent: The Beat Generation and Nature (1940s–1950s)
 permalink: /The Beat Generation and Nature (1940s–1950s)/Gary Snyder/

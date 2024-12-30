@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Louis MacNeice
-description: "An Irish poet often associated with modernism, MacNeice's poetry includes Imagist influence, particularly in its vivid, sensory descriptions of the natural world."
+description: "MacNeice's poetry displays Imagist influence with its sharp, clear images. His work often reflects the significance of the natural environment and human experience."
 subject: "Imagism's Influence on Nature (Early 20th century)"
 parent: Imagism's Influence on Nature (Early 20th century)
 permalink: /Imagism's Influence on Nature (Early 20th century)/Louis MacNeice/

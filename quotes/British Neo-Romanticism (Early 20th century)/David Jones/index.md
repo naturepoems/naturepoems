@@ -1,7 +1,7 @@
 ---
 layout: author
 title: David Jones
-description: "An influential Welsh poet and artist whose work intertwines themes of landscape and mythology, often inspired by the natural scenery of Wales."
+description: "A poet and painter, Jones engaged deeply with nature in his poetry, reflecting the Neo-Romanticist ideals of finding beauty and meaning in the natural world."
 subject: "British Neo-Romanticism (Early 20th century)"
 parent: British Neo-Romanticism (Early 20th century)
 permalink: /British Neo-Romanticism (Early 20th century)/David Jones/

@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Thomas Bracken
-description: "A prominent poet known for his patriotic themes and intimate connection with the New Zealand landscape. His poem 'God Defend New Zealand' reflects his deep love for the country's natural beauty."
+description: "Thomas Bracken was one of New Zealand's early poets, known for his lyrical verses that often depicted the stunning South Island scenery and its influence on the human spirit."
 subject: "Nature in New Zealand Poetry (Late 19th–Early 20th century)"
 parent: Nature in New Zealand Poetry (Late 19th–Early 20th century)
 permalink: /Nature in New Zealand Poetry (Late 19th–Early 20th century)/Thomas Bracken/

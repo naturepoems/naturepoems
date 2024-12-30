@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Lola Ridge
-description: "An American poet associated with the early 20th century, Ridge's work often includes vivid imagery and themes highlighting the beauty of nature, exploring both personal and societal dimensions."
+description: "An American poet who often intertwined political themes with vivid natural imagery, Ridge's works resonate with the landscape and environment."
 subject: "The Nature Poets of the American South (19th–Early 20th century)"
 parent: The Nature Poets of the American South (19th–Early 20th century)
 permalink: /The Nature Poets of the American South (19th–Early 20th century)/Lola Ridge/

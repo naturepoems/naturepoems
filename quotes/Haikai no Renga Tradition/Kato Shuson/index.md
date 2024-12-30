@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Kato Shuson
-description: "A poet of the 20th century, Shuson wrote Haikai that explored nature themes with philosophical depth, bridging the gap between traditional and contemporary thought."
+description: "Kato Shuson (1876-1941) was a Japanese poet who contributed significantly to the Haikai no Renga tradition, with a focus on explorative poems that intertwine nature with philosophical musings."
 subject: "Haikai no Renga Tradition"
 parent: Haikai no Renga Tradition
 permalink: /Haikai no Renga Tradition/Kato Shuson/

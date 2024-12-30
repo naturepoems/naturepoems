@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Sylvia Plath
-description: "A British poet and novelist whose work often grapples with mental health and nature. In her poem 'Tulips', Plath examines her psychological state through the lens of nature and its symbols."
+description: "An American poet, Plath's work often delved into her psychological struggles and personal experiences, intertwining nature imagery with her inner turmoil, as seen in poems like 'The Moon and the Yew Tree,' which reflect her emotional landscape."
 subject: "Psychological Nature Poetry (20th century)"
 parent: Psychological Nature Poetry (20th century)
 permalink: /Psychological Nature Poetry (20th century)/Sylvia Plath/

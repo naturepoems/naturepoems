@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Marianne Moore
-description: "An American modernist poet, Moore's poetry often includes themes of nature, and she is known for her precise language and keen observation of the natural world."
+description: "An influential American modernist poet, Marianne Moore's work often reflects her deep appreciation for nature and its intricacies, focusing on the relationship between humans and the natural world."
 subject: "Early Eco-Poetry and Nature (Early 20th century)"
 parent: Early Eco-Poetry and Nature (Early 20th century)
 permalink: /Early Eco-Poetry and Nature (Early 20th century)/Marianne Moore/

@@ -41,11 +41,14 @@ permalink: /{subject}/{author}/{title}
     os.makedirs(posts_dir, exist_ok=True)
     
     # Write the content to a markdown file
-    file_path = os.path.join(posts_dir, filename[:20])
-    with open(file_path, "w") as file:
-        file.write(content)
+    try:
+        file_path = os.path.join(posts_dir, filename)
+        with open(file_path, "w") as file:
+            file.write(content)
     
-    print(f"Quote written to {file_path}")
+        print(f"Quote written to {file_path}")
+    except Exception as e:
+        printf(f"problem writing to disk", file_path)
 
 
 

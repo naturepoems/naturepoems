@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Langston Hughes
-description: "A leading figure of the Harlem Renaissance, Hughes’s poetry often reflects themes of nature, particularly in his portrayals of African American life and landscapes."
+description: "A key figure in the Harlem Renaissance, Hughes wrote poetry that often included nature imagery, reflecting the harmony and conflict between humanity and the environment."
 subject: "Early Eco-Poetry and Nature (Early 20th century)"
 parent: Early Eco-Poetry and Nature (Early 20th century)
 permalink: /Early Eco-Poetry and Nature (Early 20th century)/Langston Hughes/

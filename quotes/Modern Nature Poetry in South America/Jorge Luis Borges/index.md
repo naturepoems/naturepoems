@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Jorge Luis Borges
-description: "While primarily known as a fiction writer, Borges’ poetry also reflects his fascination with nature. His works often engage with philosophical themes, intertwining nature with existential inquiry."
+description: "Although primarily known for his contributions to prose and essays, Borges also delves into nature in his poetry, using vivid imagery and philosophical reflections to convey the connection between the natural environment and human thoughts."
 subject: "Modern Nature Poetry in South America"
 parent: Modern Nature Poetry in South America
 permalink: /Modern Nature Poetry in South America/Jorge Luis Borges/

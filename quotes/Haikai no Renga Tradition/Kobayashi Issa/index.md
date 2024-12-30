@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Kobayashi Issa
-description: "Issa was a 19th-century Japanese poet, renowned for his haiku that often express a deep compassion for nature and all living beings, reflecting his personal struggles and the beauty of the natural world."
+description: "Kobayashi Issa (1763-1828) was a Japanese poet known for his compassionate approach to nature and human life. His haiku often reflect deep empathy towards animals and the natural world."
 subject: "Haikai no Renga Tradition"
 parent: Haikai no Renga Tradition
 permalink: /Haikai no Renga Tradition/Kobayashi Issa/

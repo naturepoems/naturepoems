@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Henry David Thoreau
-description: "Thoreau was an essayist, poet, and philosopher best known for his book 'Walden,' which reflects on simple living in natural surroundings. His writings emphasize the beauty of nature and critique society's relationship with it."
+description: "A transcendentalist writer and philosopher, Thoreau is best known for his book 'Walden', which details his experiences living in nature and emphasizes simplicity, self-sufficiency, and the beauty of the natural world."
 subject: "American Nature Poets (19th century)"
 parent: American Nature Poets (19th century)
 permalink: /American Nature Poets (19th century)/Henry David Thoreau/

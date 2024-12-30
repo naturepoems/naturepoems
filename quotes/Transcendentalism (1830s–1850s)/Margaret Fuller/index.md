@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Margaret Fuller
-description: "An influential writer and feminist, Fuller was also a prominent Transcendentalist. Her works, including 'Woman in the Nineteenth Century,' delve into nature's relationship with human existence and advocate for personal and societal growth."
+description: "An influential figure in the Transcendentalist movement, Fuller was an early feminist and social reformer. In her works, such as 'Women in the Nineteenth Century,' she emphasizes the importance of nature as a source of inspiration and insight."
 subject: "Transcendentalism (1830s–1850s)"
 parent: Transcendentalism (1830s–1850s)
 permalink: /Transcendentalism (1830s–1850s)/Margaret Fuller/

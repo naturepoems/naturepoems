@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Yosa Buson
-description: "Buson was a renowned poet and painter in the Edo period, known for his exquisite haiku that captures the beauty of nature and the changing seasons."
+description: "Yosa Buson was an 18th-century Japanese poet and painter known for his mastery in both haiku and kyōka. His poetry often features rich imagery of the natural world and detailed descriptions of landscapes, blending visual art with poetic expression."
 subject: "Kyōka Haiku"
 parent: Kyōka Haiku
 permalink: /Kyōka Haiku/Yosa Buson/

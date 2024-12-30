@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Samuel Taylor Coleridge
-description: "Coleridge was an English poet and literary figure who played a pivotal role in the Romantic movement. His works, including 'The Rime of the Ancient Mariner,' often explore themes of nature, imagination, and the sublime."
+description: "A close friend of Wordsworth, Coleridge was influential in the development of Romantic literature. He is known for his profound engagement with nature in works such as 'The Rime of the Ancient Mariner' and 'Kubla Khan'."
 subject: "Romanticism (Late 18th–Mid-19th century)"
 parent: Romanticism (Late 18th–Mid-19th century)
 permalink: /Romanticism (Late 18th–Mid-19th century)/Samuel Taylor Coleridge/

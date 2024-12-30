@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Marianne Moore
-description: "An American modernist poet known for her unique poetic style, Marianne Moore's work often draws upon nature, animal life, and her keen observations of the natural world."
+description: "An American poet recognized for her keen observations of the natural world, Moore's poetry reflects her fascination with nature and her deep ecological insights."
 subject: "Ecosophy in Poetry (Early 20th century)"
 parent: Ecosophy in Poetry (Early 20th century)
 permalink: /Ecosophy in Poetry (Early 20th century)/Marianne Moore/

@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Paul Verlaine
-description: "Although more associated with Symbolism, Verlaine's early works exhibit Romantic influences with their nature imagery. His poems often reflect the emotional states evoked by natural elements, capturing the beauty and melancholy of the world around."
+description: "Though primarily associated with Symbolism, Verlaine's early works contain significant Romantic influences, including a strong sense of nature. His poems often explore the beauty of landscapes and the emotional resonance they evoke."
 subject: "French Romanticism and Nature (Early 19th century)"
 parent: French Romanticism and Nature (Early 19th century)
 permalink: /French Romanticism and Nature (Early 19th century)/Paul Verlaine/

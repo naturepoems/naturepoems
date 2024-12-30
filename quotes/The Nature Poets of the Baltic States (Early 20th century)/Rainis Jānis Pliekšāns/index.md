@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Rainis Jānis Pliekšāns
-description: "A Latvian poet and playwright, Rainis is known for his romantic and revolutionary imagery, often drawing inspiration from nature to express broader themes of freedom and identity."
+description: "A leading figure in Latvian literature and a key political figure, Rainis wrote extensively about nature in a mystical and symbolic way, blending his observations of natural beauty with philosophical reflections."
 subject: "The Nature Poets of the Baltic States (Early 20th century)"
 parent: The Nature Poets of the Baltic States (Early 20th century)
 permalink: /The Nature Poets of the Baltic States (Early 20th century)/Rainis Jānis Pliekšāns/

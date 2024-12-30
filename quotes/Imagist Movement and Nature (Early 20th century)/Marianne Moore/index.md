@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Marianne Moore
-description: "An American modernist poet, Marianne Moore's works often contain rich imagery drawn from nature. Known for her innovative style and intricate forms, she frequently presented nature as a source of inspiration and reflection."
+description: "Moore's poetry often blends Imagist principles with a keen observation of nature. Her precise descriptions and playful exploration of form exemplify her interest in animals and their environments."
 subject: "Imagist Movement and Nature (Early 20th century)"
 parent: Imagist Movement and Nature (Early 20th century)
 permalink: /Imagist Movement and Nature (Early 20th century)/Marianne Moore/

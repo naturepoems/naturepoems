@@ -1,7 +1,7 @@
 ---
 layout: author
 title: George Meredith
-description: "An English novelist and poet, Meredith's works combine elements of Romanticism and Victorian insight, vividly portraying nature's role in human experiences and emotions."
+description: "A poet and novelist, Meredith's works are marked by their stylistic complexity and often engage with nature as a reflection of human emotion."
 subject: "Post-Romantic Nature in European Poetry (Mid 19th century)"
 parent: Post-Romantic Nature in European Poetry (Mid 19th century)
 permalink: /Post-Romantic Nature in European Poetry (Mid 19th century)/George Meredith/

@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Konstantin Balmont
-description: "Balmont was a prominent Symbolist poet whose works frequently celebrated nature's beauty, employing vibrant and imaginative language to evoke themes of transcendence and infinity."
+description: "Balmont was a significant figure in Symbolism, with his works often celebrating nature's beauty through rich, lyrical language, while exploring the themes of love and existence."
 subject: "Nature in Russian Symbolism (Late 19th century)"
 parent: Nature in Russian Symbolism (Late 19th century)
 permalink: /Nature in Russian Symbolism (Late 19th century)/Konstantin Balmont/

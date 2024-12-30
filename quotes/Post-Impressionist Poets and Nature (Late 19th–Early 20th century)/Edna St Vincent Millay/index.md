@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Edna St Vincent Millay
-description: "An American poet known for her lyrical poetry and exploration of love and nature. Millay's works often celebrate the natural world and the emotional responses it evokes, as seen in her poem 'The Wild Swans.'"
+description: "An American poet known for her lyric poetry and mastery of traditional forms, Millay’s works frequently celebrate nature and the beauty of life."
 subject: "Post-Impressionist Poets and Nature (Late 19th–Early 20th century)"
 parent: Post-Impressionist Poets and Nature (Late 19th–Early 20th century)
 permalink: /Post-Impressionist Poets and Nature (Late 19th–Early 20th century)/Edna St Vincent Millay/

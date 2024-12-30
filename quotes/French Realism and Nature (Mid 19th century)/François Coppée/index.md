@@ -1,7 +1,7 @@
 ---
 layout: author
 title: François Coppée
-description: "Coppée's poetry often depicted the realities of life, including nature's role within it. His keen observations and emotional depth embody the essence of Realism."
+description: "Coppée was a poet and playwright, whose works often encapsulated the everyday experiences and natural environments of common people, reflecting realism in poems like 'Le Gré de l'Âme'."
 subject: "French Realism and Nature (Mid 19th century)"
 parent: French Realism and Nature (Mid 19th century)
 permalink: /French Realism and Nature (Mid 19th century)/François Coppée/

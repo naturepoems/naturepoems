@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Victor Hugo
-description: "One of the leading writers of the Romantic movement, Hugo's poetry often intertwines profound philosophies and natural imagery. His collection 'Les Contemplations' (1856) explores the relationship between man and nature, showcasing the influence of the natural world on human emotions."
+description: "Regarded as one of the greatest French writers, Hugo's poetry often intertwines themes of nature with human struggles. His collection \"Les contemplations\" (1856) features poems that vividly depict the natural world and express deep emotional and philosophical reflections."
 subject: "French Romanticism and Nature (Early 19th century)"
 parent: French Romanticism and Nature (Early 19th century)
 permalink: /French Romanticism and Nature (Early 19th century)/Victor Hugo/

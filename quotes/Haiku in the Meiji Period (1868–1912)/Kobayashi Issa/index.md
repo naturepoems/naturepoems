@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Kobayashi Issa
-description: "Though mainly recognized for his works during the Edo period, Issa's influence extended into the Meiji period, particularly as his haiku continued to be published and appreciated. His works often highlight the humble beauty of nature and the lives of small creatures."
+description: "Although Issa lived before the Meiji period, his works were highly esteemed and continued to influence Meiji-era poets. His haiku often contain elements of humor, compassion for all living beings, and a deep connection to nature."
 subject: "Haiku in the Meiji Period (1868–1912)"
 parent: Haiku in the Meiji Period (1868–1912)
 permalink: /Haiku in the Meiji Period (1868–1912)/Kobayashi Issa/

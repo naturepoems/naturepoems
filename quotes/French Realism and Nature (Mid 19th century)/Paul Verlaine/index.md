@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Paul Verlaine
-description: "While better known for his Symbolist contributions, Verlaine's earlier works reflect a keen interest in nature, often merging with the Realist movement's themes."
+description: "Verlaine's poetry, while associated with Symbolism, often employed realist elements, expressing complex emotions intertwined with natural imagery in works like 'Romances sans paroles'."
 subject: "French Realism and Nature (Mid 19th century)"
 parent: French Realism and Nature (Mid 19th century)
 permalink: /French Realism and Nature (Mid 19th century)/Paul Verlaine/

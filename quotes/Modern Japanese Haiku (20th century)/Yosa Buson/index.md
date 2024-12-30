@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Yosa Buson
-description: "Yosa Buson (1716-1784) was a famous haiku poet and painter who influenced 20th-century haiku with his vivid imagery of nature and the seasons, inspiring modern poets through his delicate portrayal of the natural world."
+description: "An influential haiku poet and painter, Buson was known for his lush imagery and adept use of nature themes in his works. His haikus often captured the fleeting beauty of natural scenes."
 subject: "Modern Japanese Haiku (20th century)"
 parent: Modern Japanese Haiku (20th century)
 permalink: /Modern Japanese Haiku (20th century)/Yosa Buson/

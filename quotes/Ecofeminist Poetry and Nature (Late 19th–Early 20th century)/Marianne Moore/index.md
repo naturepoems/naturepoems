@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Marianne Moore
-description: "A modernist poet whose works frequently draw on nature and animal imagery, Moore's poetry often reflects ecofeminist themes through her intricate observations of the natural world."
+description: "Known for her innovative style and strong observation of nature, Moore's poetry often explored the relationship between humanity and the environment, emphasizing both the beauty and complexity of the natural world."
 subject: "Ecofeminist Poetry and Nature (Late 19th–Early 20th century)"
 parent: Ecofeminist Poetry and Nature (Late 19th–Early 20th century)
 permalink: /Ecofeminist Poetry and Nature (Late 19th–Early 20th century)/Marianne Moore/

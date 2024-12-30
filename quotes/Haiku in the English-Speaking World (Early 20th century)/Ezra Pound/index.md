@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Ezra Pound
-description: "An influential American poet and a major figure in the modernist movement, Pound was known for his role in introducing the concepts of East Asian poetry to the West, particularly haiku. His poem 'In a Station of the Metro' reflects haiku's brevity and imagery."
+description: "An influential figure in modernist poetry, Ezra Pound introduced the concept of 'imagism,' which drew inspiration from Japanese forms, including haiku. His focus on precise imagery and clarity mirrors the essence of haiku."
 subject: "Haiku in the English-Speaking World (Early 20th century)"
 parent: Haiku in the English-Speaking World (Early 20th century)
 permalink: /Haiku in the English-Speaking World (Early 20th century)/Ezra Pound/

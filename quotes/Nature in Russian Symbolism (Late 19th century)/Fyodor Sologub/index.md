@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Fyodor Sologub
-description: "Sologub’s poetry is imbued with a sense of the mystical in nature, using vivid imagery and symbolism to explore themes of beauty and transcendence."
+description: "Sologub's poetry reflects a fascination with nature, often depicting it as a mystical realm that intertwines with human emotion and experience."
 subject: "Nature in Russian Symbolism (Late 19th century)"
 parent: Nature in Russian Symbolism (Late 19th century)
 permalink: /Nature in Russian Symbolism (Late 19th century)/Fyodor Sologub/

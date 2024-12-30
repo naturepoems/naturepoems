@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Yosa Buson
-description: "Buson (1716-1784) was not only a poet but also a painter, and his haiku often convey vivid imagery and sensory details that capture the beauty of nature. His works are characterized by their emotional depth and artistic sensibility."
+description: "An 18th-century poet and painter, Buson combined elements of nature with visual artistry in his haiku, focusing on the beauty of landscapes and seasonal changes."
 subject: "Classical Haiku (Bashō, Buson, Issa)"
 parent: Classical Haiku (Bashō, Buson, Issa)
 permalink: /Classical Haiku (Bashō, Buson, Issa)/Yosa Buson/

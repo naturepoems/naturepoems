@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Kato Shuson
-description: "Kato Shuson was known for his contemporary haiku which often depicted the ephemeral beauty of nature, capturing moments and surroundings with precision and emotional depth."
+description: "Shuson contributed to the modern haiku movement with themes of nature, employing simplicity and depth in his works, echoing Shiki’s philosophy."
 subject: "Shiki's Modern Haiku Movement"
 parent: Shiki's Modern Haiku Movement
 permalink: /Shiki's Modern Haiku Movement/Kato Shuson/

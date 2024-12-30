@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Emily Dickinson
-description: "An American poet known for her innovative and introspective explorations of nature, Dickinson's work often reflects themes of isolation and interconnectedness with the natural world."
+description: "Though primarily a 19th-century poet, Dickinson's exploration of nature, identity, and consciousness paved the way for ecofeminist thought, reflecting deep observation of the natural world and its connection to personal experience."
 subject: "Ecofeminist Poetry and Nature (Late 19th–Early 20th century)"
 parent: Ecofeminist Poetry and Nature (Late 19th–Early 20th century)
 permalink: /Ecofeminist Poetry and Nature (Late 19th–Early 20th century)/Emily Dickinson/
