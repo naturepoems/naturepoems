@@ -11,32 +11,29 @@ permalink: /Psychological Nature Poetry (20th century)/Ted Hughes/Ted Hughes - W
 Wind
 
 I
-This house has been washed,
-Outside the door is a highway of wind.
-Roots, peeling back, skim through pine;
-The wind is a wild weaver, unravelling
-My life, gemstones falling from a cliff— 
-Dust in the way, grass scattered.
-A hinge, left hanging,
-Whispers in sleep, taunting me.
+A word is raised inside the heart,
+The body drifts with sighs, postures placed,
+Each sound bends into another—
+Who steals, who comes? Talking—
+Raven, quick spectators
+Into wounds: on pines, in whirls, with cry.
 
 II
-All flags shroud the road,
-All flaps that shadow the curtain
-Bloom their kindness from colour-mixed eyes.
-Everything leans to get reckoned,
-Carves at sky with russet bounds,
-Whipping across feathery hills,
-And at last crashing into earth.
+Above pressing tight, only murmurs,
+Vibrations go; wind shifting inside
+Not wild, not wicked, absorbed in breaths
+Until this lends to flesh boundwards,
 
 III
-Why the wind’s thrumming here now
-Is the soft purr of our past?
-All eyes light in the faded tunnel
-As some fever dreams loom by.
-This house has become a simple tomb
-And now wind remakes the sky, cementing
-Home with a vanishing breath,
-Cacophony and clatter joining hell.
+
+In all collected sounds of night
+Over rhythms, a shrine sensing close,
+The night howls drink dark colors free.
+It is rising, above disciplines.
+
+IV
+A world both ancient and cryptic awaits
+To sail like whispers.
+At any moment it snarls and bends into light; —
 
 - Ted Hughes

@@ -11,40 +11,24 @@ permalink: /Psychological Nature Poetry (20th century)/Wallace Stevens/Wallace S
 The Idea of Order at Key West
 
 She sang beyond the genius of the sea.
-The water never formed of itself alone;
-The lady from another graced the sea
-And without us could not be:
-The choral flame lay indeed beyond the sea,
-A melody that was the girl and fire.
+The water never formed to mind
+Of man’s incessant search, where he looks, and fears.
+What is to be found is not what he looks for.
+Beauty above beauty shon on her.
 
-And where she stood and sang, at the head of the sea,
-We heard the music blowing a dark blaze.
-For we learned to distinguish the beauty
-That belonged to the living and the fire
-From which the stars were kindled.
-The sea, a blue field, what it began,
-We shall not discover it alone.
-We learn and sing this in the plural,
-The plural being one more time.
+The own voice of the sea, that was her chorus,
+Meaningfully she made a presence
+Upon the beach, undulating, rocking places.
+She sang at the edge of the sea.
 
-It was there we came to live, abroad in space,
-Exactly defined by the symmetry of the cost:
-All qualities as shattered as the sea’s
-Great occasions had worked their number.
-Thus, it was at the head where the light fell,
-When it could, half-white, from across the water.
-The music grew like summer fruit,
-When we began to see and sing; 
-The sea from white, burning closer, appeared
-To us sounding the one life's firm descent.
+The world conformed to her like a mouth.
+It was in her arms she sang, far away from here,
+And when she paused, there was silence in the sun.
+It was not a voice, nor a feeling against the air.
 
-The idea of order was the mystical flame,
-The fire in the vault of the sea.
-Between genius and the sea, none is alone.
-He is the head of all these evennesses;
-He is our cause—a friend at the edge
-Of this emotion that was living summer’s end,
-This brilliant foam of moonlight, tide, and death.
+Her voice of order, voice of form,
+Of lost thing, abandoned voice, in itself, found nothing.
 
+She sang at the edge of the sea.
 
 - Wallace Stevens

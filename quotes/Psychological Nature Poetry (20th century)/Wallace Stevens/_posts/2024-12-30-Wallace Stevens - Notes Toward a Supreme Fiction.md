@@ -10,35 +10,33 @@ permalink: /Psychological Nature Poetry (20th century)/Wallace Stevens/Wallace S
 
 Notes Toward a Supreme Fiction
 
-I.
-The poem of the mind in the act of finding
-What will suffice. It has not always had
-To find: the scene was set. It was the mind
-That showed when we had found it, when we were
+I
+The palm stands on the edge of space,
+The palm stands in the square of the sky,
+And to be, no more than being.
 
-In the waking state, and heaved bewilderment,
-In the air of summer, as we came to the sea,
-With the dark trees in the sun, and the shore
-That is never broken, completed by less humble walls,
-The rafters, the wings of birds.
+The palm is full of summer, scars,
+All possible gods are in light and air,
+Compels these thoughts, this understanding;
 
-II.
-I am matured toward the structure of the forms,
-Presence and absence in the radiant air,
-The sound that shook this moment, defining unreal.
-And the moment was always defined as this.
+The lives of the leaves become within.
+The lights are bright, and the ground so elegant.
+Illuminated all, its multiplicity,
+Of pure form; why isolate, then?
 
-Always we were there; we were ever endured,
-Endured, wherever, near the sound. So we sang till
-4. afternoon, with sound at the shore,
-And first the beauty of the air.
+II
+From what it is possible to see,  
+The universe. That is the design  
+And the design is part of being what should become.
 
-III.
-It was that beauty and brilliance of an air.
-It is not simply the surfaces—from the surface's
-Start to determine space—space determines
-4. Only the enormity of the life in a face,
-And the vast horizons unfold, like snakes along the shore.
+To be, to find out what is true, to perceive.
+Words that remain. The future of the butterfly  
+Must fulfill as the stars, insistence of the thought.
 
+III
+But a blade of the swaying green grass  
+Must ache for the idea of its being the essential thought.
+For a rain of many things must reflect the sun.
+And many poets must awaken.
 
 - Wallace Stevens

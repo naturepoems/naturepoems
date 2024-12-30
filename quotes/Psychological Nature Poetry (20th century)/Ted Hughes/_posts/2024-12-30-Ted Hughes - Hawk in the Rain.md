@@ -11,41 +11,37 @@ permalink: /Psychological Nature Poetry (20th century)/Ted Hughes/Ted Hughes - H
 Hawk in the Rain
 
 I
-In the wind, the hawk
-Follows, naked, through
-The glistering holes of the storm,
-In the howl of the woods,
-As it swells soul and blood,
-Floating nearer to god,
-Unconscious, free.
+The air was thick with hawk wings.
+I went to the cornfield,
+I was on my knees,
+On my back, locked into night,
+Flying dangerously low,
+Arching in gusts, in silence,
+Mist embracing my back,
+Fall rattling toward death.
+As the swallows climbed, halting.
+The curlers collided.
+I heard the drop. The hawk’s stricture.
+Then the bounds a little further.
+The gust joined the blood. It thrust—
+Looming over an empty sky,
+Braking to fly.
 
 II
-Screaming, a rip in the dark,
-A wisp, a hand thrust
-Vain, out into sky-ribbed
-Desolation—then strikes 
-The limp-winged moment,
-The most heatless part,
-Plumb through the chilling
-Heart of the expanse,
-Go to bed.
-
-III
-From soil through air, I
-Want more than flesh;
-I want this ruin.
-The bag of bones stirs,
-Daring menace with wing.
-To raw drop. 
-My faith is dying.
-More fear than death now.
-
-Hawk of the inconclusive
-Simplicity, above the high ridge.
-While in the blizzard,
-Iptipity, soar to the heights
-You have lost beyond the mist.
-Immortal, I feel you. 
-Danger, dread, dear desert; I
+Then, wheeling, spearing, I thrust
+The white claws:
+Bright, parallel rods catching
+Frost as it went off course,
+Baby grass, minds dark.
+Caught in, caught.
+His claws—the story, claw marks stuck,
+Wails like a splinter.
+A sun just a little quick—
+The hawk emerges from mud,
+Skim, loop, dart.
+It bows, knots, sways across
+Light, wing fluttering before the storm.
+The catch is
+The buoy of the sea, committed to sky.
 
 - Ted Hughes

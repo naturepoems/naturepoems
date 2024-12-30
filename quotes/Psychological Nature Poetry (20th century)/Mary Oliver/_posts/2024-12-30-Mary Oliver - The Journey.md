@@ -10,27 +10,25 @@ permalink: /Psychological Nature Poetry (20th century)/Mary Oliver/Mary Oliver -
 
 The Journey
 
-One day you finally knew
-what you had to do, and began,
-though the voices around you
-kept shouting their bad advice —
-though the whole house
-decided to throw you out,
-even though you knew
-you had to be happy.
-Now you will live in a place where
-trees rise like pillars into the sky,
-where the creek flows
-over smooth stones
-a place of laughter
-and light that fills your soul.
-You must listen,
-for even the moon
-dazzles beneath the dark,
-one more thing
-you had to do,
-and that was to love
-your own wild,
-wild life.
+One day you finally knew  
+what you had to do, and began,  
+though the voices around you  
+kept shouting  
+their bad advice—  
+though the whole house  
+began to tremble  
+and you felt the old tug  
+at your ankles.  
+“Mend my life!”  
+you said.  
+There is nothing  
+you can do.  
+But you have to go.  
+And you have to go  
+into the dark, alone.  
+Into the wide, moving world  
+you went—  
+you took your first step,  
+and you didn’t look back.
 
 - Mary Oliver

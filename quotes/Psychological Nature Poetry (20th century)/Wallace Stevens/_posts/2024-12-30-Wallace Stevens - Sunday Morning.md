@@ -11,27 +11,32 @@ permalink: /Psychological Nature Poetry (20th century)/Wallace Stevens/Wallace S
 Sunday Morning
 
 Death is the mother of beauty; hence from her.
-This is the death of a certain idea of beauty,
-The region of the coiled and the interlaced
-Solidities in the wind —
-The march of the perceiving world —
-What can be more beautiful
-Than the world as it is, so
-With the air, the light, the trees,
-And the movement of the people, or of the thoughts,
-And the mutation of thought?
+This is a brief essay of a world
+Without the supernatural.
 
-The earth is what she was
-Before all were bruised,
-And before all were bruised.
-The trees are trees still.
-And the waters are, in their deepness,
-They are warmth, and still extremely loud,
-The world is still, as ever, movement loud
-And the hands of the people upon it.
+We consider of a Sunday morning,
+On a pure, clear day,
+The simplest things, the livers and waters,
+The rocks and changing colours of the woods,
+Monuments of the world.
 
-But perhaps not terrible.
-Perhaps, more beautiful.
+Nothing could matter more.
+The whole earth is this. The world must be
+Pushed from the mind, life must be free,
+Here lives the indifference of loss and gain,
+Of riches and nothingness,
+Of comings and goings, of flowers and weeds.
 
+Beauty dies into the earth and the earth grows
+In the sunlight.  That which is beautiful must live,
+And the life of the moon and of the sun
+Be seated in harmony with man,
+Must exist within beauty, to create.
+
+To live in the world of design,
+To have place, to be placed, to find, to be found;
+To reach within the warmth of the day,
+To know what is possible of heart and breath,
+And of the complex transfers of the wheel.
 
 - Wallace Stevens

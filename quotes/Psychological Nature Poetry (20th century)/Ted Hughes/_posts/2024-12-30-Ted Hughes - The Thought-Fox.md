@@ -14,34 +14,31 @@ I
 I imagine this midnight moment’s forest:
 Something else is alive
 Beside the clock’s loneliness,
-And this blank page where
-My fingers move.
+And this blank page where my fingers move.
+Through the window I see no star:
+Something more near
+Though deeper within the shadow.
 
 II
-The only fox that was ever real,
-His nose pressed against the dark,
-His shadow scenting the stillness,
-Attentive to what stirs
-In dim light.
+I’m not sure how it happens—
+The fox is always unfaithful,
+A breeze into which nothing is thrown,
+Coy as the twilight stares,
+Startled by the spark that bites the wet earth.
+As the fox disappears into the night,
+There leaves only the nervous pulse—
+A gaze rooted from shadows away—
+That evening lingers at the head of my pen.
+In the cold of black wind,
+The urgency of creation conspires
+And spills inward.
 
 III
-He stalks the trap of this story,
-His wildness held on the edge
-Where dreams loom like stars.
-The reality pushes against
-This mind of a man alone.
-
-IV
-I keep the pen dark with fur,
-With the unmistakable movement
-Of a deeply flushed night,
-The thought-fox sliding in me,
-Drawing its tales from lighting clouds.
-
-V
-A single breath on this paper,
-To those unquiet dreams behind this night’s sleep,
-His paws awake and astonished,
-And my fingers move, knowing.
+Accursed that this word falls lineal,
+So steadfast the pause of my breath;
+Unraveled the fox, a non-entity,
+Whispers life dawnfully-'—
+To catch its flourish, breathing mirrors.
+The errant hour is swallowed whole.
 
 - Ted Hughes

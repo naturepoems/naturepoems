@@ -10,43 +10,33 @@ permalink: /Psychological Nature Poetry (20th century)/Ted Hughes/Ted Hughes - T
 
 The Jaguar
 
-The apes yelp, and the jaguar
-Is showing his spotted coat.
-Against the slab of white stone
-Where the pike pierces the caught
-fish, where the floodweed drips.
-He is prowling. He is furious.
-Outside the door a peacock
-Stands with his tail held high—
-A few more grease spots
-Will exactly finish him.
+The mind of man is a bird in a cage
+That never stirs, sinks and flutters
+Each feather caught with the dust of loss.
+But if a man moves within it,
+Its bars will fall, its bars will open,
+Its nails will crumble.
+The jeweled eyes and the rows of fangs
+Will capitulate. The rhinoceros
+Will come bellowing to the altar,
+Mad, ignited. Into the puddles,
+Will pour their lost jewels of color.
 
-His eyes have a cue
-From his concrete corpse heart.
-Trail of blood, bushy tail,
-That's all he is—the jig
-Of each prickly leaf,
-The sticky-out ears,
-The anxious tail twitching 
-Out of sight; an empty patience.
+The forest is real
+The jaguar stiff and dark
+Moving in its coils,
+This is the only image that matters.
+Vino will graze on reed beds,
+A windbird will rise
+Flames of cure, wisps of legion,
+Within the box’s knees.
+If it bows, it lives. If rises…
+It all floats, rattles like an empty jar.
+The colors of man pouring inside—
+And yet they will not capture their image in plants.
+The allgull, the wailed whale,
+Thick down I can hardly walk in—
 
-But the jaguar
-Has feet that are born to the wild,
-To the silent field,
-To the limpid pools.
-The jaguar is hungry for meat
-And to be free. He belongs
-In the dense, empty corners
-Of the forest. His nimble hunting
-Turns clear vision
-Into blood flows.
-His mind is still lapping
-Round the panther’s riddle.  
-At the edge of the field
-When moonlight strikes,
-His fangs will find prey,
-A brief shudder of freedom.
-
-And now I am feeling his thoughts tumbling
+The jaguar enters.
 
 - Ted Hughes

@@ -229,6 +229,8 @@ def main():
     "Anthropocentric Nature Poetry (Early 20th century)",  # Nature seen through the lens of human relations
     "Imagism's Influence on Nature (Early 20th century)",  # The Imagist movement's influence on nature poems in Europe and America
     "Ecosophy in Poetry (Early 20th century)",  # Environmental philosophy influencing poetry
+    ]
+    subjects=[
     "Psychological Nature Poetry (20th century)",  # Nature as a reflection of human psychology in poetry
     "Romanticized Nature Poetry in Colonial Contexts (19th century)",  # Exploration of nature from colonial perspectives
     "Symbolist Nature Poetry (19th–20th century)",  # Nature as an expression of the subconscious and symbols
