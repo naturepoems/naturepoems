@@ -243,12 +243,12 @@ def main():
     "Post-War Nature Poetry (Post-1930)",  # Late 20th-century poets grappling with nature after the World Wars
     "Futurist Nature Poetry (Early 20th century)",  # Poets influenced by Futurism that still explore nature through futuristic lenses
     ]
-    subjects=[
+    """subjects=[
     "Classical Haiku (Bashō, Buson, Issa)",  # Japanese haiku with deep nature themes
     "Shiki's Modern Haiku Movement",  # Haiku focusing on nature's simplicity
     "Kyōka Haiku",  # Humorous yet nature-focused Japanese haiku
     "Haikai no Renga Tradition",  # Collaborative renga focused on nature themes
-    ]
+    ]"""
 
 
     for subject in subjects:
