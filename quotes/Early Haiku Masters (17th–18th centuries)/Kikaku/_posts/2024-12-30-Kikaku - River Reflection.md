@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Kikaku - River Reflection"
+date: 2024-12-30 12:00:00 -0000
+author: Kikaku
+quote: "The river flows slow,"
+subject: Early Haiku Masters (17th–18th centuries)
+permalink: /Early Haiku Masters (17th–18th centuries)/Kikaku/Kikaku - River Reflection
+---
+
+The river flows slow,
+Reflecting the bright stars' light—
+Live in this moment.
+
+- Kikaku

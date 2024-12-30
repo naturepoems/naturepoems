@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Takarai Kikaku - Winter Seclusion"
+date: 2024-12-30 12:00:00 -0000
+author: Takarai Kikaku
+quote: "Winter seclusion—"
+subject: Haiku in the Edo Period (1603–1868)
+permalink: /Haiku in the Edo Period (1603–1868)/Takarai Kikaku/Takarai Kikaku - Winter Seclusion
+---
+
+Winter seclusion—
+Listening, that evening,
+To the rain in the mountain.
+
+- Takarai Kikaku

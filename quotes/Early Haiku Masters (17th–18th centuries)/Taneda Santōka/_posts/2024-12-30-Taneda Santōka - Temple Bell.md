@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Taneda Santōka - Temple Bell"
+date: 2024-12-30 12:00:00 -0000
+author: Taneda Santōka
+quote: "the old temple bell  "
+subject: Early Haiku Masters (17th–18th centuries)
+permalink: /Early Haiku Masters (17th–18th centuries)/Taneda Santōka/Taneda Santōka - Temple Bell
+---
+
+the old temple bell  
+   chimes gently through the mist,  
+      a call to sunrise.
+
+- Taneda Santōka
