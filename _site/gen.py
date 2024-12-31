@@ -229,13 +229,12 @@ def main():
     "Anthropocentric Nature Poetry (Early 20th century)",  # Nature seen through the lens of human relations
     "Imagism's Influence on Nature (Early 20th century)",  # The Imagist movement's influence on nature poems in Europe and America
     "Ecosophy in Poetry (Early 20th century)",  # Environmental philosophy influencing poetry
-    ]
-    subjects=[
     "Psychological Nature Poetry (20th century)",  # Nature as a reflection of human psychology in poetry
     "Romanticized Nature Poetry in Colonial Contexts (19th century)",  # Exploration of nature from colonial perspectives
     "Symbolist Nature Poetry (19th–20th century)",  # Nature as an expression of the subconscious and symbols
     "Lyrical Nature Writing (Late 19th–Early 20th century)",  # Poets using nature as a form of lyrical expression
-    "The Nature of Childhood in Poetry (19th–Early 20th century)",  # Nature as seen through the eyes of children in literature
+    ]
+    subjects=[
     "Nature as Political Allegory (Early 20th century)",  # Poets using nature as a metaphor for political movements and struggles
     "Nature and the Sublime in Literature (18th–19th century)",  # Nature viewed as awe-inspiring and sublime, especially in the romantic tradition
     "Mythological Nature Poetry (19th–20th century)",  # The use of myth and folklore to represent nature in poetry

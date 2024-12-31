@@ -8,34 +8,34 @@ def write_quote_to_jekyll_page(subject, quote, author, title):
     date_str = datetime.now().strftime("%Y-%m-%d")
     try:
         clean_quote=quote.splitlines()[0]
+        title = f"{author} - {title}"
+        #pattern=pattern = r'[^a-zA-ZáéíóúÁÉÍÓÚñÑ\s-]'
+        pattern=r'[^a-zA-Z0-9\s\-_À-ÿ\u0100-\u017F\u0400-\u04FF]'
+        title = re.sub(pattern, '', title)
+        pattern = r'[<>:"/\\|?*\x00-\x1F]'
+        title = re.sub(pattern, '', title)
+        filename = f"{title}.md"  # Format the filename in Jekyll format
+        pattern = r'[<>:"/\\|?*\x00-\x1F]'
+        filename = re.sub(pattern, '', filename)[:50]
+        filename=f"{date_str}-{title}.md"
+        
+        # Create the content for the Jekyll page
+        content = f"""---
+    layout: post
+    title: "{title}"
+    date: {date_str} 12:00:00 -0000
+    author: {author}
+    quote: "{clean_quote}"
+    subject: {subject}
+    permalink: /{subject}/{author}/{title}
+    ---
+    
+    {quote}
+    
+    - {author}
+    """
     except Exception as e:
         print("e")
-    title = f"{author} - {title}"
-    #pattern=pattern = r'[^a-zA-ZáéíóúÁÉÍÓÚñÑ\s-]'
-    pattern=r'[^a-zA-Z0-9\s\-_À-ÿ\u0100-\u017F\u0400-\u04FF]'
-    title = re.sub(pattern, '', title)
-    pattern = r'[<>:"/\\|?*\x00-\x1F]'
-    title = re.sub(pattern, '', title)
-    filename = f"{title}.md"  # Format the filename in Jekyll format
-    pattern = r'[<>:"/\\|?*\x00-\x1F]'
-    filename = re.sub(pattern, '', filename)[:50]
-    filename=f"{date_str}-{title}.md"
-    
-    # Create the content for the Jekyll page
-    content = f"""---
-layout: post
-title: "{title}"
-date: {date_str} 12:00:00 -0000
-author: {author}
-quote: "{clean_quote}"
-subject: {subject}
-permalink: /{subject}/{author}/{title}
----
-
-{quote}
-
-- {author}
-"""
     
     output_dir="quotes/"+subject+"/"+author+"/_posts"
     posts_dir = output_dir#.replace(" ", "-")
